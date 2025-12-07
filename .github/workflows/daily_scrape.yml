@@ -1,0 +1,42 @@
+name: Daily JB Scrape
+
+on:
+  schedule:
+    # 06:00 UTC is roughly 7:00 PM NZT
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Allows you to manually trigger it from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Scraper
+        run: |
+          python ScraperBetterTitle.py
+
+      - name: Run Generator
+        run: |
+          python SiteGen.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add index.html jbhifi_products_with_category.csv
+          git commit -m "Auto-update: $(date)" || echo "No changes to commit"
+          git push
