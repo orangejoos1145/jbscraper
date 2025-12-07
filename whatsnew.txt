@@ -1,0 +1,19 @@
+<h3>v1.0 — Auto Scrape Daily </h3>
+<p>Now the site scrapes jbhifi catalogue daily automatically at 7PM.</p>
+
+<h3>v1.0 — Initial Launch </h3>
+<p>Welcome to the first release of the <strong>JB Hi-Fi Deals Filterer</strong>! This tool is designed to help you slice and dice through the JB Hi-Fi catalog to find hidden clearance gems and price drops.</p>
+
+<h4>Key Features</h4>
+<ul>
+<li><strong>Instant Search:</strong> Type anything to filter thousands of products instantly. No page reloads.</li>
+<li><strong>Smart Categories:</strong> Filter by specific categories (Audio, Computers, Gaming, etc.) with one click.</li>
+<li><strong>Deep Discount Finder:</strong> Sort by <strong>% Off</strong> to find the biggest price drops first.</li>
+<li><strong>Mobile Optimized:</strong> A smooth, app-like experience on your phone without horizontal scrolling issues.</li>
+<li><strong>Dark Mode:</strong> Toggles automatically based on your system, or switch it manually to save your eyes at night.</li>
+<li><strong>Quick Links:</strong> Click the product title to go straight to the store page, or the <strong>G</strong> icon to Google it.</li>
+</ul>
+
+<p><em>This data is scraped periodically. If you spot any bugs or have feature requests, let me know in the thread!</em></p>
+
+<p><strong>Happy Hunting! 🛒</strong></p>
