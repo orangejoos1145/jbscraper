@@ -31,7 +31,7 @@ jobs:
 
       - name: Run Generator
         run: |
-          python SiteGen.py
+          python FinalSiteGen.py
 
       - name: Commit and Push
         run: |
