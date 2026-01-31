@@ -1,10 +1,28 @@
 Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Category
+7332129472713,40421174083785,road-house-limted-edition-lenticular-slipcase-art-cards-1989-blu-ray,Road House - Limted Edition (Lenticular Slipcase & Art Cards),44.98,35.98,20.01,MOVIES
+7335267762377,40426666131657,dogma-1999-4k-ultra-hd-blu-ray,Dogma,52.78,52.78,0,MOVIES
+7331836625097,40420881039561,google-nest-wifi-pro-home-mesh-wi-fi-6e-router,Google Nest Wifi Pro Home Mesh Wi-Fi 6E Router,247.0,247.0,0,IT
+7206858162250,40367119433802,theragun-pro-handheld-massager-black,Theragun Pro Handheld Massager (Black),707.0,707.0,0,FITNESS
+7328248561738,40417631273034,philips-hue-play-extension-cable,Philips Hue Play Extension Cable,27.0,27.0,0,SMART HOME
+7333488033993,40424782954697,bandai-shokugan-kirby-friends-figure-assorted,Bandai Shokugan Kirby Friends Figure [Assorted],10.0,10.0,0,GAMES HARDWARE
+7335919255753,40427344527561,xbox-series-x-wwe-2k26,WWE 2K26,119.0,119.0,0,GAMES SOFTWARE
+7335919222985,40427344494793,nintendo-switch-2-wwe-2k26,WWE 2K26,109.0,109.0,0,GAMES SOFTWARE
+7335919190217,40427344462025,playstation-5-wwe-2k26,WWE 2K26,119.0,119.0,0,GAMES SOFTWARE
+7332231839945,40421325045961,samsung-smart-view-wallet-case-for-galaxy-s24-black,Samsung Smart View Wallet Case for Galaxy S24 (Black),67.0,67.0,0,ACCESSORIES
+7206751797322,40367021457482,bose-soundlink-revolve-ii-portable-bluetooth-speaker-luxe-silver-1,Bose Soundlink Revolve+ II Portable Bluetooth Speaker (Luxe Silver),447.0,447.0,0,AUDIO
+7204457054282,40365441351754,cd-dallas-david-frontline-hood-country-club-cd,Hood Country Club,23.99,19.19,20.01,MUSIC
+7204422352970,40365417234506,turtle-beach-react-r-wired-controller-for-xbox-black,Turtle Beach React-R Wired Controller for Xbox (Black),63.0,63.0,0,GAMES HARDWARE
+7333407293641,40424700870857,hp-14a-nf0005tu-14-hd-touchscreen-chromebook-intel-n10064gb,"HP 14a-nf0005TU 14"" HD Touchscreen Chromebook (Intel N100)[64GB]",448.0,448.0,0,COMPUTERS
+7256114036810,40402768134218,nintendo-amiibo-urbosa-the-legend-of-zelda-breath-of-the-wild,Nintendo amiibo - Urbosa (The Legend of Zelda: Breath of the Wild),29.0,29.0,0,GAMES HARDWARE
+7256077238346,40402740281418,nintendo-amiibo-mipha-the-legend-of-zelda-breath-of-the-wild,Nintendo amiibo - Mipha (The Legend of Zelda: Breath of the Wild),29.0,29.0,0,GAMES HARDWARE
+7256125472842,40402775375946,nintendo-amiibo-revali-the-legend-of-zelda-breath-of-the-wild,Nintendo amiibo - Revali (The Legend of Zelda: Breath of the Wild),29.0,29.0,0,GAMES HARDWARE
+7332430807241,40421528666313,nintendo-amiibo-duck-hunt-duo-super-smash-bros,Nintendo amiibo - Duck Hunt Duo (Super Smash Bros.),29.0,29.0,0,GAMES HARDWARE
+7330332541002,40419381444682,nintendo-amiibo-link-the-legend-of-zelda-links-awakening,Nintendo amiibo - Link (The Legend of Zelda: Link's Awakening),29.0,29.0,0,GAMES HARDWARE
 7335854080201,40427278762185,nintendo-amiibo-poplin-prince-florian-super-mario-bros-wonder,Nintendo amiibo - Poplin & Prince Florian (Super Mario Bros. Wonder),35.0,35.0,0,GAMES HARDWARE
 7335854112969,40427278794953,nintendo-amiibo-captain-toad-talking-flower-super-mario-bros-wonder,Nintendo amiibo - Captain Toad & Talking Flower (Super Mario Bros. Wonder),35.0,35.0,0,GAMES HARDWARE
 7335854047433,40427278729417,nintendo-amiibo-elephant-mario-super-mario-bros-wonder,Nintendo amiibo - Elephant Mario (Super Mario Bros. Wonder),35.0,35.0,0,GAMES HARDWARE
 7335924531401,40427349803209,moza-cs-pro-steering-wheel,Moza CS Pro Steering Wheel,729.0,729.0,0,GAMES HARDWARE
 7335924465865,40427349737673,moza-ks-pro-steering-wheel,Moza KS Pro Steering Wheel,729.0,729.0,0,GAMES HARDWARE
-7334952042697,40426332750025,vinyl-megadeth-megadeth-jb-exclusive-orange-white-splattered-vinyl-2lp-colour-may-vary,Megadeth (JB Exclusive Orange White Splattered Vinyl),77.59,77.59,0,MUSIC
 7204404625482,40365399965770,alogic-usb-c-multi-card-reader,ALOGIC USB-C Multi Card Reader,59.0,44.0,25.42,IT
 7204389978186,40365385842762,hyperx-cloud-iii-wired-gaming-headset,HyperX Cloud III Wired Gaming Headset,169.0,128.0,24.26,GAMES HARDWARE
 7333688508617,40425008496841,ninja-doublestack-xxxl-smart-2-drawer-air-fryer,Ninja DoubleStack XXXL Smart 2-Drawer Air Fryer,418.0,375.0,10.29,SMALL APPLIANCES
@@ -22,7 +40,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335835271369,40427258282185,jbl-boombox-4-portable-bluetooth-speaker-white,JBL Boombox 4 Portable Bluetooth Speaker (White),669.0,669.0,0,AUDIO
 7335803322569,40427225940169,jbl-boombox-4-portable-bluetooth-speaker-black,JBL Boombox 4 Portable Bluetooth Speaker (Black),669.0,669.0,0,AUDIO
 7334961807561,40426342514889,cygnett-charge-connect-3-in-1-foldable-wireless-charger,Cygnett Charge & Connect 3-in-1 Foldable Wireless Charger,99.95,99.95,0,ACCESSORIES
-7334032212169,40425361703113,samsung-75-q7f-qled-4k-smart-tv-2025,"Samsung 75"" Q7F QLED 4K Smart TV [2025]",2398.0,2398.0,0,VISUAL
+7334032212169,40425361703113,samsung-75-q7f-qled-4k-smart-tv-2025,"Samsung 75"" Q7F QLED 4K Smart TV [2025]",2386.0,2386.0,0,VISUAL
 7332093067465,40421137678537,seagate-game-drive-portable-hard-drive-for-playstation-2tb,Seagate Game Drive Portable Hard Drive for PlayStation (2TB),219.0,219.0,0,IT
 7333938266313,40425262481609,nintendo-switch-2-sonic-x-shadow-generations,Sonic X Shadow Generations,99.0,99.0,0,GAMES SOFTWARE
 7333554290889,40424850915529,nutribullet-x-mclaren-1000-essentials-blender,NutriBullet X McLaren 1000 Essentials Blender,229.0,229.0,0,SMALL APPLIANCES
@@ -59,13 +77,11 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7333056970953,40422166823113,blink-outdoor-4-wireless-security-camera-5-pack,Blink Outdoor 4 Wireless Security Camera (5-Pack),399.0,219.0,45.11,SMART HOME
 7204898635850,40365729349706,tucano-melange-13-14-laptop-sleeve-blue,"Tucano Melange 13""-14"" Laptop Sleeve (Blue)",32.7,26.16,20.0,ACCESSORIES
 7335852900553,40427277025481,xbox-series-x-forza-horizon-6,Forza Horizon 6,109.0,109.0,0,GAMES SOFTWARE
-7220492468298,40377689636938,jbl-tune-770nc-adaptive-noise-cancelling-wireless-over-ear-headphones-black,JBL Tune 770NC Adaptive Noise Cancelling Wireless Over-Ear Headphones (Black),115.0,115.0,0,AUDIO
 7332524294345,40421623103689,the-mandalorian-season-1-4k-steelbook-4k-uhd,The Mandalorian: Season 1 4K (Steelbook),114.98,91.98,20.0,MOVIES
 7335862993097,40427287740617,quest-for-fire-blu-ray,Quest For Fire,39.98,39.98,0,MOVIES
 7334727352521,40426092626121,eufy-e15-robot-lawn-mower,eufy E15 Robot Lawn Mower,2498.0,2448.0,2.0,SMALL APPLIANCES
 7334030934217,40425360425161,samsung-77-s85f-oled-4k-smart-ai-tv-2025,"Samsung 77"" S85F OLED 4K Smart AI TV [2025]",3495.0,3495.0,0,VISUAL
 7335867842761,40427292754121,ps5-playstation-5-dualsense-wireless-controller-marathon-limited-edition,PS5 PlayStation 5 DualSense Wireless Controller Marathon Limited Edition,149.0,149.0,0,GAMES HARDWARE
-7333293261001,40424582840521,tamagotchi-original-gen-1-90s,Tamagotchi Original Gen 1 (90's),39.0,39.0,0,GAMES HARDWARE
 7335912440009,40427337482441,vinyl-muroki-amber-skies-180g-vinyl-lp,Amber Skies (180g vinyl),47.19,47.19,0,MUSIC
 7332998873289,40422108528841,otterbox-glass-screen-protector-for-iphone-16-pro,Otterbox Glass Screen Protector for iPhone 16 Pro,30.0,30.0,0,ACCESSORIES
 7334124978377,40425456369865,nintendo-switch-40-sports-games-in-1,40 Sports Games in 1,59.0,59.0,0,GAMES SOFTWARE
@@ -156,7 +172,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335868006601,40427292917961,vinyl-dj-snake-nomad-clear-vinyl-lp-colour-may-vary,Nomad (Clear Vinyl),75.99,75.99,0,MUSIC
 7335867941065,40427292852425,cd-dj-snake-nomad-cd,Nomad,31.99,31.99,0,MUSIC
 7204398366794,40365393936458,sandisk-ultra-microsdhc-uhs-i-card-256gb,SanDisk Ultra microSDHC UHS-I Card (256GB),87.0,87.0,0,IT
-7206858162250,40367119433802,theragun-pro-handheld-massager-black,Theragun Pro Handheld Massager (Black),707.0,707.0,0,FITNESS
 7335257571529,40426655940809,canon-eos-r6-mark-iii-mirrorless-camera-body-only,Canon EOS R6 Mark III Mirrorless Camera [Body Only],4799.0,4799.0,0,CAMERAS
 7334177538249,40425509191881,hp-omnibook-5-14-he0013qu-14-2k-laptop-copilotpc-512gb,HP Omnibook 5 14-he0013QU 14” 2K Laptop (Copilot+PC) [512GB],1398.0,1298.0,7.15,COMPUTERS
 7334788726985,40426160554185,trading-card-accessories-palms-off-collectors-series-4-pocket-zip-binder-black,Palms Off Collector’s Series 4 Pocket Zip Binder (Black),39.0,39.0,0,GAMES SOFTWARE
@@ -438,7 +453,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335525810377,40426938859721,breville-eco-liquid-descaler-100ml-2-pack,Breville Eco Liquid Descaler 100ml (2 pack),26.95,21.0,22.08,SMALL APPLIANCES
 7333111398601,40424399634633,vinyl-demarco-mac-rock-roll-night-club-vinyl-lp,Rock & Roll Night Club (Vinyl),23.99,23.99,0,MUSIC
 7333456675017,40424751595721,one-piece-film-red-jb-nz-exclusive-2022-4k-ultra-hd-blu-ray,One Piece Film: Red (JB NZ Exclusive),34.98,27.98,20.01,MOVIES
-7334087065801,40425417507017,tamagotchi-original-gen-2-fresh-strawberry,Tamagotchi Original Gen 2 (Fresh Strawberry),39.0,39.0,0,GAMES HARDWARE
 7335791165641,40427213652169,minix-batman-the-joker-the-dark-knight-collectibles,Minix: Batman - The Joker (The Dark Knight),26.99,26.99,0,MOVIES
 7335791132873,40427213586633,minix-harry-potter-harry-potter-goblet-of-fire-collectibles,Minix: Harry Potter - Harry Potter (Goblet of Fire),26.99,26.99,0,MOVIES
 7335791100105,40427213619401,minix-harry-potter-voldemort-collectibles,Minix: Harry Potter - Voldemort,26.99,26.99,0,MOVIES
@@ -450,7 +464,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335743127753,40427164696777,samsung-galaxy-s24-ultra-5g-256gb-titanium-black-refurbished-excellent,Samsung Galaxy S24 Ultra 5G 256GB (Titanium Black) [~Refurbished: Excellent],1449.0,1449.0,0,COMMUNICATIONS
 7335743094985,40427164729545,samsung-galaxy-s24-ultra-5g-256gb-titanium-grey-refurbished-very-good,Samsung Galaxy S24 Ultra 5G 256GB (Titanium Grey) [~Refurbished: Very Good],1349.0,1349.0,0,COMMUNICATIONS
 7335743062217,40427164664009,samsung-galaxy-s24-ultra-5g-256gb-titanium-black-refurbished-very-good,Samsung Galaxy S24 Ultra 5G 256GB (Titanium Black) [~Refurbished: Very Good],1349.0,1349.0,0,COMMUNICATIONS
-7334440141001,40425783787721,apple-iphone-14-pro-128gb-deep-purple-refurbished-very-good,Apple iPhone 14 Pro 128GB (Deep Purple) [~Refurbished: Very Good],1049.0,944.0,10.01,COMMUNICATIONS
 7334438633673,40425782280393,apple-iphone-12-128gb-blue-refurbished-excellent,Apple iPhone 12 128GB (Blue) [~Refurbished: Excellent],649.0,584.0,10.02,COMMUNICATIONS
 7335743160521,40427164762313,samsung-galaxy-s24-ultra-5g-256gb-titanium-violet-refurbished-excellent,Samsung Galaxy S24 Ultra 5G 256GB (Titanium Violet) [~Refurbished: Excellent],1449.0,1449.0,0,COMMUNICATIONS
 7333012439241,40422122324169,logitech-g-rs-shifter-handbrake,Logitech G RS Shifter & Handbrake,329.0,262.0,20.36,GAMES HARDWARE
@@ -867,8 +880,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7332700651721,40421801590985,popsockets-standard-popgrip-aurora-haze,PopSockets Standard PopGrip (Aurora Haze),21.99,21.99,0,ACCESSORIES
 7334917701833,40426296836297,powerplay-start-3-in-1-bundle,PowerPlay Start 3-in-1 Bundle,49.0,39.2,20.0,GAMES HARDWARE
 7335703347401,40427122032841,cd-waits-tom-bad-as-me-deluxe-edition-2cd,Bad As Me (Deluxe Edition),45.99,36.79,20.0,MUSIC
-7334027624649,40425357115593,samsung-55-qn90f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 55"" QN90F NEO QLED 4K Mini LED Smart AI TV [2025]",3097.0,3097.0,0,VISUAL
-7332174463177,40421219074249,theragun-prime-handheld-massager-black-1,Theragun Prime Handheld Massager (Black),398.0,398.0,0,FITNESS
+7334027624649,40425357115593,samsung-55-qn90f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 55"" QN90F NEO QLED 4K Mini LED Smart AI TV [2025]",2488.0,2488.0,0,VISUAL
 7335700955337,40427119575241,vinyl-simply-red-recollections-vinyl-2lp-colour-may-vary,Recollections (Vinyl),80.79,80.79,0,MUSIC
 7249453645898,40398710341706,garmin-epix-pro-gen-2-sapphire-edition-47mm-carbon-grey-dlc-titanium-with-black-band,Garmin epix Pro (Gen 2) Sapphire Edition 47mm Carbon Grey DLC Titanium with Black Band,1999.0,1298.0,35.07,FITNESS
 7333021548745,40422131433673,dji-osmo-action-5-pro-standard-combo,DJI Osmo Action 5 Pro Standard Combo,629.0,629.0,0,CAMERAS
@@ -1014,7 +1026,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7333231362249,40424520155337,eero-pro-6e-tri-band-mesh-wi-fi-6e-router-1-pack,Eero Pro 6E Tri-Band Mesh Wi-Fi 6E Router (1 Pack),297.0,297.0,0,IT
 7205342183498,40365967638602,hp-915-original-ink-cartridge-magenta,HP 915 Original Ink Cartridge (Magenta),17.0,17.0,0,IT
 7204356816970,40365354745930,alogic-ultra-usb-c-dock-plus-v2,ALOGIC Ultra USB-C Dock Plus V2,117.0,117.0,0,IT
-7332027138249,40421071749321,sandisk-nintendo-switch-microsd-512gb-memory-card,SanDisk Nintendo Switch MicroSD 512GB Memory Card,177.0,177.0,0,IT
 7332952965321,40422062358729,apple-iphone-16-512gb-pink,Apple iPhone 16 512GB (Pink),2097.0,1997.0,4.77,COMMUNICATIONS
 7332952867017,40422062260425,apple-iphone-16-512gb-black,Apple iPhone 16 512GB (Black),2097.0,1997.0,4.77,COMMUNICATIONS
 7332287676617,40421381275849,tp-link-deco-be85-be22000-whole-home-mesh-wi-fi-7-system-3-pack,TP-Link Deco BE85 BE22000 Whole Home Mesh Wi-Fi 7 System (3-Pack),3499.0,3499.0,0,IT
@@ -1030,7 +1041,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334039158985,40425369075913,lg-65-qned86a-evo-ai-mini-led-4k-uhd-smart-tv-2025,"LG 65"" QNED86A EVO AI Mini-LED 4K UHD Smart TV [2025]",2482.0,2195.0,11.56,VISUAL
 7333122932937,40424411267273,paladone-icons-light-stitch-lights,Paladone Icons Light (Stitch),24.0,24.0,0,MOVIES
 7333429182665,40424722759881,sonos-arc-ultra-wall-mount-black,Sonos Arc Ultra Wall Mount (Black),148.0,148.0,0,AUDIO
-7333469454537,40424764408009,samsung-galaxy-s25-ultra-512gb-titanium-silver,Samsung Galaxy S25 Ultra 512GB (Titanium Silver),2449.0,2128.0,13.11,COMMUNICATIONS
 7332977443017,40422086967497,quiet-place-a-3-film-collection-2024-4k-ultra-hd,"Quiet Place, A - 3 Film Collection",104.98,83.98,20.0,MOVIES
 7332838768841,40421940429001,jackson-frameo-smart-photo-frame-10-1-black-16gb,"Jackson Frameo Smart Photo Frame 10.1"" (Black) [16GB]",189.0,189.0,0,CAMERAS
 7332838834377,40421940494537,jackson-frameo-smart-photo-frame-7-white-oak-16gb,"Jackson Frameo Smart Photo Frame 7"" (White Oak) [16GB]",139.0,139.0,0,CAMERAS
@@ -1185,7 +1195,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335612776649,40427027693769,tp-link-tapo-rva301-robot-vac-mop-cloth-5-pack,TP-Link Tapo RVA301 Robot Vac Mop Cloth (5 Pack),35.0,35.0,0,SMALL APPLIANCES
 7335612743881,40427027661001,tp-link-tapo-rva105-robot-vac-replacement-kit,TP-Link Tapo RVA105 Robot Vac Replacement Kit,52.0,52.0,0,SMALL APPLIANCES
 7335552614601,40426966155465,logitech-signature-slim-solar-keyboard-graphite,Logitech Signature Slim Solar+ Keyboard (Graphite),199.0,199.0,0,IT
-7332710318281,40421811290313,samsung-galaxy-z-flip6-5g-256gb-mint,Samsung Galaxy Z Flip6 5G 256GB (Mint),1367.0,1167.0,14.63,COMMUNICATIONS
 7335600095433,40427014881481,off-the-grid-dvd,Off The Grid,22.38,22.38,0,MOVIES
 7335567360201,40426981556425,whoop-mg-sportflex-band-rush,WHOOP MG SportFlex Band (Rush),99.0,99.0,0,FITNESS
 7335567327433,40426981523657,whoop-mg-sportflex-band-drift,WHOOP MG SportFlex Band (Drift),99.0,99.0,0,FITNESS
@@ -1886,7 +1895,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335233454281,40426630217929,belkin-boostcharge-braided-usb-c-to-lightning-cable-1m-white,Belkin BoostCharge Braided USB-C to Lightning Cable [1m] (White),39.99,39.99,0,ACCESSORIES
 7334925566153,40426304700617,lenovo-ideapad-slim-3-15-6-fhd-laptop-intel-core-i3512gb,"Lenovo IdeaPad Slim 3 15.6"" FHD Laptop (Intel Core i3)[512GB]",898.0,898.0,0,COMPUTERS
 7335233487049,40426630250697,belkin-boostcharge-braided-usb-c-to-lightning-cable-2m-black,Belkin BoostCharge Braided USB-C to Lightning Cable [2m] (Black),44.99,44.99,0,ACCESSORIES
-7334032277705,40425361768649,samsung-43-q7f-qled-4k-smart-tv-2025,"Samsung 43"" Q7F QLED 4K Smart TV [2025]",942.0,942.0,0,VISUAL
+7334032277705,40425361768649,samsung-43-q7f-qled-4k-smart-tv-2025,"Samsung 43"" Q7F QLED 4K Smart TV [2025]",888.0,888.0,0,VISUAL
 7332248944841,40421342150857,chibi-masters-dragon-ball-figure-wave-2-assorted,Chibi Masters Dragon Ball Figure (Wave 2) [Assorted],13.0,13.0,0,GAMES HARDWARE
 7334997852361,40426383868105,arlo-pro-6-2k-outdoor-solar-security-camera-solar-bundle-kit-4-pack-12m-subscription,Arlo Pro 6 2K Outdoor Solar Security Camera & Solar Bundle Kit (4 Pack) + 12M Subscription,999.0,999.0,0,SMART HOME
 7334997819593,40426383835337,arlo-ultra-3-4k-outdoor-security-camera-solar-bundle-kit-4-pack-12m-subscription,Arlo Ultra 3 4K Outdoor Security Camera & Solar Bundle Kit (4 Pack) + 12M Subscription,1499.0,1499.0,0,SMART HOME
@@ -2229,7 +2238,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335310196937,40426710073545,vinyl-wax-mustang-greatest-hits-vinyl-lp,Greatest Hits (Vinyl),60.99,48.79,20.0,MUSIC
 7335289454793,40426687856841,belkin-waterproof-secure-holder-with-key-ring-for-airtag-black,Belkin Waterproof Secure Holder with Key Ring for AirTag (Black),24.99,24.99,0,ACCESSORIES
 7335310000329,40426709745865,cd-lynyrd-skynyrd-gold-2cd,Gold,23.99,19.19,20.01,MUSIC
-7335246332105,40426644275401,samsung-75-u8500f-crystal-uhd-4k-smart-tv-2025,"Samsung 75"" U8500F Crystal UHD 4K Smart TV [2025]",1488.0,1488.0,0,VISUAL
+7335246332105,40426644275401,samsung-75-u8500f-crystal-uhd-4k-smart-tv-2025,"Samsung 75"" U8500F Crystal UHD 4K Smart TV [2025]",1485.0,1485.0,0,VISUAL
 7335227556041,40426624319689,philips-2-4ghz-wireless-microphone,Philips 2.4GHz Wireless Microphone,79.99,79.99,0,AUDIO
 7334732726473,40426098065609,opel-mobile-bigbutton-m-4g,Opel Mobile BigButton M 4G,149.0,149.0,0,COMMUNICATIONS
 7334966722761,40426347430089,bowers-wilkins-px8-s2-noise-cancelling-wireless-over-ear-headphones-onyx-black,Bowers & Wilkins PX8 S2 Noise-Cancelling Wireless Over-Ear Headphones (Onyx Black),1399.0,1399.0,0,AUDIO
@@ -3113,7 +3122,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335078592713,40426466181321,tonies-audio-character-cocomelon-outdoor-adventures-with-jj-content-tonie,tonies Audio Character (Cocomelon - Outdoor Adventures with JJ),34.99,34.99,0,MOVIES
 7335078363337,40426465788105,vinyl-simply-red-recollections-deluxe-edition-cystal-clear-vinyl-4lp-colour-may-vary,Recollections (Deluxe Edition Cystal Clear Vinyl),201.99,161.59,20.0,MUSIC
 7335078330569,40426465755337,cd-simply-red-recollections-3cd,Recollections,60.99,48.79,20.0,MUSIC
-7335078199497,40426465657033,vinyl-simply-red-recollections-crystal-clear-black-marbled-vinyl-2lp-colour-may-vary,Recollections (Crystal Clear & Black Marbled Vinyl),100.99,80.79,20.0,MUSIC
 7335078002889,40426465460425,vinyl-overmono-if-we-ever-vinyl-12-vinyl,If We Ever (Vinyl),39.99,31.99,20.01,MUSIC
 7335077871817,40426465329353,vinyl-bush-kate-best-of-the-other-sides-green-smoke-coloured-vinyl-lp-colour-may-vary,Best of The Other Sides (Green Smoke Coloured Vinyl),122.99,98.39,20.0,MUSIC
 7335017578697,40426403725513,jbl-tour-one-m3-smart-tx-wireless-over-ear-nc-headphones-blue,JBL Tour One M3 Smart Tx Wireless Over-ear NC Headphones (Blue),428.0,428.0,0,AUDIO
@@ -3139,7 +3147,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334438666441,40425782313161,apple-iphone-12-128gb-black-refurbished-very-good,Apple iPhone 12 128GB (Black) [~Refurbished: Very Good],599.0,539.0,10.02,COMMUNICATIONS
 7335002570953,40426388619465,fujifilm-x-m5-mirrorless-camera-twin-lens-limited-edition-travel-pack-silver,Fujifilm X-M5 Mirrorless Camera Twin Lens Limited Edition Travel Pack (Silver),1995.0,1848.0,7.37,CAMERAS
 7335021838537,40426407985353,philips-cd-micro-system-with-bluetooth-and-auracast,Philips CD Micro System with Bluetooth and Auracast,229.0,229.0,0,AUDIO
-7335013155017,40426399203529,samsung-43-f6000-full-hd-smart-tv-2025,"Samsung 43"" F6000 Full HD Smart TV [2025]",495.0,495.0,0,VISUAL
+7335013155017,40426399203529,samsung-43-f6000-full-hd-smart-tv-2025,"Samsung 43"" F6000 Full HD Smart TV [2025]",488.0,488.0,0,VISUAL
 7335068762313,40426456088777,service-465832,AppleCare+ for iPad Pro 11-inch (M5),289.0,289.0,0,MISCELLANEOUS
 7335068729545,40426456056009,service-465833,AppleCare+ for iPad Pro 13-inch (M5),329.0,329.0,0,MISCELLANEOUS
 7335068696777,40426456023241,service-465831,AppleCare+ for 14-inch MacBook Pro (M5),529.0,529.0,0,MISCELLANEOUS
@@ -4255,7 +4263,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334871269577,40426244931785,vinyl-grizzly-bear-yellow-house-cream-coloured-vinyl-2lp-colour-may-vary,Yellow House (Cream Coloured Vinyl),83.99,67.19,20.0,MUSIC
 7334871236809,40426244899017,cd-mcneir-ronnie-makes-a-move-cd,Makes A Move,35.99,28.79,20.01,MUSIC
 7334871138505,40426244800713,vinyl-mcneir-ronnie-makes-a-move-vinyl-lp,Makes A Move (Vinyl),62.99,50.39,20.0,MUSIC
-7334870745289,40426244407497,nintendo-switch-2-final-fantasy-vii-remake-intergrade-includes-magic-the-gathering-final-fantasy-play-booster,Final Fantasy VII Remake Intergrade (Includes Magic: The Gathering - FINAL FANTASY Play Booster),79.0,79.0,0,GAMES SOFTWARE
 7334870810825,40426244473033,vinyl-parliament-george-clinton-funkentelechy-vs-the-placebo-syndrome-vinyl-lp,Funkentelechy Vs. The Placebo Syndrome (Vinyl),62.99,50.39,20.0,MUSIC
 7334870712521,40426244374729,cd-various-jon-savage-jon-savages-1986-1990-rollin-under-the-melody-2cd,Jon Savage's 1986-1990 Rollin' Under The Melody,50.99,40.79,20.0,MUSIC
 7334869696713,40426243358921,nintendo-amiibo-kirby-air-riders-kirby-warp-star,Nintendo amiibo Kirby Air Riders - Kirby & Warp Star,69.0,69.0,0,GAMES HARDWARE
@@ -5483,7 +5490,7 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334664700105,40426025812169,silly-poopy-hide-seek-ghost-card-board-games,Silly Poopy: Hide & Seek Ghost,24.99,24.99,0,MOVIES
 7334664667337,40426025713865,tower-stack-card-board-games,Tower Stack,34.99,34.99,0,MOVIES
 7334664601801,40426025648329,for-the-girls-card-board-games,For The Girls,54.99,54.99,0,MOVIES
-7334566691017,40425926852809,tcl-115-c7k-4k-uhd-qd-mini-led-google-tv-2025,"TCL 115"" C7K 4K UHD QD-Mini LED Google TV [2025]",18875.0,18875.0,0,VISUAL
+7334566691017,40425926852809,tcl-115-c7k-4k-uhd-qd-mini-led-google-tv-2025,"TCL 115"" C7K 4K UHD QD-Mini LED Google TV [2025]",18870.0,18870.0,0,VISUAL
 7334664372425,40426025418953,console-heroes-collectible-diorama-street-fighter-3,Console Heroes Collectible Diorama (Street Fighter 3),29.99,29.99,0,GAMES HARDWARE
 7334664175817,40426025222345,console-heroes-collectible-diorama-sonic-the-hedgehog-3,Console Heroes Collectible Diorama (Sonic the Hedgehog 3),29.99,29.99,0,GAMES HARDWARE
 7334664110281,40426025156809,console-heroes-collectible-diorama-sonic-the-hedgehog-2,Console Heroes Collectible Diorama (Sonic the Hedgehog 2),29.99,29.99,0,GAMES HARDWARE
@@ -5543,7 +5550,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334584254665,40425944416457,bartesian-espresso-martini-capsules-8-pack,Bartesian Espresso Martini Capsules (8-Pack),39.99,39.99,0,SMALL APPLIANCES
 7334584221897,40425944383689,philips-oneblade-face,Philips OneBlade Face,169.0,58.0,65.68,SMALL APPLIANCES
 7334561284297,40425921413321,igulu-f1-all-in-one-automated-home-craft-beer-brewer-black,iGulu F1 All-in-One Automated Home Craft Beer Brewer (Black),1149.0,1149.0,0,SMALL APPLIANCES
-7332885102793,40421986599113,msi-cyborg-15-a13v-15-6-fhd-144hz-gaming-laptop-intel-core-i7geforce-rtx-4060,"MSI Cyborg 15 A13V 15.6"" FHD 144Hz Gaming Laptop (Intel Core i7)[GeForce RTX 4060]",2399.0,2399.0,0,COMPUTERS
 7334583042249,40425943204041,vinyl-demarco-mac-another-one-10th-anniversary-blue-clear-vinyl-2lp,Another One (10th Anniversary Blue Clear Vinyl),100.99,80.79,20.0,MUSIC
 7334582386889,40425942548681,cd-ravyn-lenae-birds-eye-cd,Bird's Eye,27.99,22.39,20.01,MUSIC
 7204359798858,40365357629514,belkin-usb-c-to-hdmi-charge-adapter,Belkin USB-C to HDMI + Charge Adapter,69.0,69.0,0,IT
@@ -5927,7 +5933,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334471925961,40425818226889,corpse-bride-steelbook-2025-4k-ultra-hd-blu-ray,Corpse Bride (Steelbook),60.98,48.78,20.01,MOVIES
 7334471237833,40425817538761,the-last-of-us-season-2-2025-blu-ray,The Last Of Us - Season 2,70.98,56.78,20.01,MOVIES
 7334471336137,40425817637065,the-last-of-us-season-2-steelbook-2025-4k-ultra-hd,The Last Of Us - Season 2 (Steelbook),87.98,70.38,20.0,MOVIES
-7334472122569,40425818423497,blade-runner-the-final-cut-steelbook-1982-4k-ultra-hd-blu-ray,Blade Runner: The Final Cut (Steelbook),60.98,48.78,20.01,MOVIES
 7334471729353,40425818030281,yellowstone-season-5-part-2-2024-blu-ray,Yellowstone - Season 5 Part 2,53.98,43.18,20.01,MOVIES
 7334471368905,40425817669833,the-karate-kid-6-movie-collection-2025-blu-ray,The Karate Kid: 6-Movie Collection,85.98,68.78,20.0,MOVIES
 7334471663817,40425817964745,the-running-man-1987-blu-ray,The Running Man,28.98,23.18,20.01,MOVIES
@@ -6380,13 +6385,13 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334000820425,40425328771273,hisense-100-u7qnz-uled-miniled-4k-smart-tv-2025,"Hisense 100"" U7QNZ ULED MiniLED 4K Smart TV [2025]",5295.0,4988.0,5.8,VISUAL
 7334377029833,40425710715081,wiz-gradient-pole-floor-light,WiZ Gradient Pole Floor Light,199.0,199.0,0,SMART HOME
 7334376931529,40425710616777,wiz-gradient-bar-2-pack,WiZ Gradient Bar (2 Pack),139.0,139.0,0,SMART HOME
-7334039290057,40425369206985,lg-100-qned86a-evo-ai-mini-led-4k-uhd-smart-tv-2025,"LG 100"" QNED86A EVO AI Mini-LED 4K UHD Smart TV [2025]",6988.0,6988.0,0,VISUAL
+7334039290057,40425369206985,lg-100-qned86a-evo-ai-mini-led-4k-uhd-smart-tv-2025,"LG 100"" QNED86A EVO AI Mini-LED 4K UHD Smart TV [2025]",6988.0,5998.0,14.17,VISUAL
 7333988696265,40425315172553,sony-55-bravia-5-4k-hdr-mini-led-google-tv-2025,"Sony 55"" BRAVIA 5 4K HDR Mini LED Google TV [2025]",2188.0,2098.0,4.11,VISUAL
 7334063734985,40425393684681,hp-omen-max-16-uwva-2-5k-240hz-oled-gaming-laptop-intel-core-ultra-9geforce-rtx-5080,"HP Omen Max 16"" UWVA 2.5K 240Hz OLED Gaming Laptop (Intel Core Ultra 9)[GeForce RTX 5080]",7399.0,7399.0,0,COMPUTERS
 7334376865993,40425710551241,wiz-hdmi-sync-box-starter-kit-55-65,"WiZ HDMI Sync Box Starter Kit 55-65""",179.0,179.0,0,SMART HOME
-7334032244937,40425361735881,samsung-65-q7f-qled-4k-smart-tv-2025,"Samsung 65"" Q7F QLED 4K Smart TV [2025]",1595.0,1595.0,0,VISUAL
-7334032081097,40425361572041,samsung-85-q7f-qled-4k-smart-tv-2025,"Samsung 85"" Q7F QLED 4K Smart TV [2025]",3198.0,3198.0,0,VISUAL
-7334032310473,40425361801417,samsung-50-q7f-qled-4k-smart-tv-2025,"Samsung 50"" Q7F QLED 4K Smart TV [2025]",1140.0,1088.0,4.56,VISUAL
+7334032244937,40425361735881,samsung-65-q7f-qled-4k-smart-tv-2025,"Samsung 65"" Q7F QLED 4K Smart TV [2025]",1588.0,1588.0,0,VISUAL
+7334032081097,40425361572041,samsung-85-q7f-qled-4k-smart-tv-2025,"Samsung 85"" Q7F QLED 4K Smart TV [2025]",3188.0,3188.0,0,VISUAL
+7334032310473,40425361801417,samsung-50-q7f-qled-4k-smart-tv-2025,"Samsung 50"" Q7F QLED 4K Smart TV [2025]",1088.0,996.0,8.46,VISUAL
 7334372671689,40425706193097,eufy-e28-omni-robovac,Eufy E28 Omni Robovac,2299.0,1398.0,39.19,SMALL APPLIANCES
 7334193430729,40425525051593,skullcandy-method-360-anc-sound-by-bose-wireless-earbuds-black,Skullcandy Method 360 ANC Sound by Bose Wireless Earbuds (Black),198.0,189.0,4.55,AUDIO
 7334084772041,40425415213257,kitchenaid-kek170-1-7l-variable-temperature-electric-kettle-porcelain,KitchenAid KEK170 1.7L Variable Temperature Electric Kettle (Porcelain),249.0,249.0,0,SMALL APPLIANCES
@@ -6880,7 +6885,7 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334303957193,40425636430025,cd-lemonheads-the-evan-dando-love-chant-cd,Love Chant,30.99,24.79,20.01,MUSIC
 7334303989961,40425636462793,vinyl-lemonheads-the-evan-dando-love-chant-vinyl-lp,Love Chant (Vinyl),60.99,48.79,20.0,MUSIC
 7334304219337,40425636692169,cd-carpenter-sabrina-mans-best-friend-cd,Man's Best Friend,29.99,23.99,20.01,MUSIC
-7334031524041,40425361014985,samsung-85-qn70f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 85"" QN70F Neo QLED 4K Mini LED Smart AI TV [2025]",3698.0,3698.0,0,VISUAL
+7334031524041,40425361014985,samsung-85-qn70f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 85"" QN70F Neo QLED 4K Mini LED Smart AI TV [2025]",3688.0,3688.0,0,VISUAL
 7334027493577,40425356984521,samsung-43-qn90f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 43"" QN90F NEO QLED 4K Mini LED Smart AI TV [2025]",1998.0,1998.0,0,VISUAL
 7334303924425,40425636397257,vinyl-wednesday-bleeds-eco-mix-vinyl-lp,Bleeds (Eco-Mix Vinyl),66.99,53.59,20.0,MUSIC
 7334303891657,40425636364489,vinyl-wednesday-bleeds-vinyl-lp,Bleeds (Vinyl),62.99,50.39,20.0,MUSIC
@@ -6973,7 +6978,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334220202185,40425551888585,xbox-series-x-hell-is-us,Hell is Us,95.0,95.0,0,GAMES SOFTWARE
 7334220169417,40425551855817,playstation-5-hell-is-us,Hell is Us,95.0,95.0,0,GAMES SOFTWARE
 7334219808969,40425551495369,vinyl-envy-all-the-footprints-youve-ever-left-and-the-fear-expecting-ahead-silver-vinyl-lp-colour-may-vary,All the Footprints You’ve Ever Left and the Fear Expecting Ahead (Silver Vinyl),65.99,52.79,20.0,MUSIC
-7334214926537,40425546580169,vinyl-jackson-5-icon-limited-sky-blue-lp-colour-may-vary,Icon (Limited Sky Blue),39.99,39.99,0,MUSIC
 7334214959305,40425546612937,vinyl-ross-diana-the-supremes-motown-1s-jb-exclusive-yellow-vinyl-lp-colour-may-vary,Motown 1's (JB Exclusive Yellow Vinyl),39.99,39.99,0,MUSIC
 7333567791305,40424864415945,conclave-2025-blu-ray,Conclave,25.98,20.78,20.02,MOVIES
 7333568282825,40424864907465,conclave-2025-dvd,Conclave,20.98,16.78,20.02,MOVIES
@@ -7182,10 +7186,10 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7333990138057,40425316614345,powerplay-cat-rgb-gaming-headset-black,PowerPlay Cat RGB Gaming Headset (Black),29.0,23.2,20.0,GAMES HARDWARE
 7333990072521,40425316548809,powerplay-cat-rgb-gaming-headset-purple,PowerPlay Cat RGB Gaming Headset (Purple),29.0,23.2,20.0,GAMES HARDWARE
 7333768790217,40425088909513,tcl-98-p7k-qled-4k-uhd-google-tv-2025,"TCL 98"" P7K QLED 4K UHD Google TV [2025]",3688.0,3488.0,5.42,VISUAL
-7334029459657,40425358950601,samsung-42-s90f-oled-4k-smart-ai-tv-2025,"Samsung 42"" S90F OLED 4K Smart AI TV [2025]",1998.0,1998.0,0,VISUAL
-7334029557961,40425359048905,samsung-48-s90f-oled-4k-smart-ai-tv-2025,"Samsung 48"" S90F OLED 4K Smart AI TV [2025]",1878.0,1848.0,1.6,VISUAL
-7334030770377,40425360261321,samsung-55-the-frame-qled-4k-smart-tv-2025,"Samsung 55"" The Frame QLED 4K Smart TV [2025]",2188.0,2188.0,0,VISUAL
-7334036734153,40425366159561,samsung-55-qn80f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 55"" QN80F Neo QLED 4K Mini LED Smart AI TV [2025]",1688.0,1688.0,0,VISUAL
+7334029459657,40425358950601,samsung-42-s90f-oled-4k-smart-ai-tv-2025,"Samsung 42"" S90F OLED 4K Smart AI TV [2025]",1942.0,1942.0,0,VISUAL
+7334029557961,40425359048905,samsung-48-s90f-oled-4k-smart-ai-tv-2025,"Samsung 48"" S90F OLED 4K Smart AI TV [2025]",1845.0,1845.0,0,VISUAL
+7334030770377,40425360261321,samsung-55-the-frame-qled-4k-smart-tv-2025,"Samsung 55"" The Frame QLED 4K Smart TV [2025]",1988.0,1988.0,0,VISUAL
+7334036734153,40425366159561,samsung-55-qn80f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 55"" QN80F Neo QLED 4K Mini LED Smart AI TV [2025]",1498.0,1498.0,0,VISUAL
 7334031032521,40425360523465,samsung-55-s85f-oled-4k-smart-ai-tv-2025,"Samsung 55"" S85F OLED 4K Smart AI TV [2025]",2288.0,2288.0,0,VISUAL
 7334171803849,40425503359177,vinyl-ocean-alley-love-ballon-transparent-orange-vinyl-lp-colour-may-vary,Love Ballon (Transparent Orange Vinyl),65.99,52.79,20.0,MUSIC
 7334171771081,40425503326409,cd-ocean-alley-love-ballon-cd,Love Ballon,30.99,24.79,20.01,MUSIC
@@ -7395,14 +7399,14 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334138151113,40425469706441,vinyl-murph-jessie-sex-hysteria-opaque-white-vinyl-lp-colour-may-vary,Sex Hysteria (Opaque White Vinyl),86.99,69.59,20.0,MUSIC
 7334138085577,40425469640905,nutribullet-crisplite-vision-8l-airfryer,Nutribullet Crisplite Vision 8L Airfryer,148.0,148.0,0,SMALL APPLIANCES
 7334138052809,40425469608137,cd-murph-jessie-sex-hysteria-cd,Sex Hysteria,26.99,21.59,20.01,MUSIC
-7334089130185,40425419571401,lg-48-oled-evo-c5-ai-4k-uhd-smart-tv-2025,"LG 48"" OLED EVO C5 AI 4K UHD Smart TV [2025]",2798.0,1986.0,29.02,VISUAL
+7334089130185,40425419571401,lg-48-oled-evo-c5-ai-4k-uhd-smart-tv-2025,"LG 48"" OLED EVO C5 AI 4K UHD Smart TV [2025]",1986.0,1898.0,4.43,VISUAL
 7334089031881,40425419473097,lg-65-oled-evo-c5-ai-4k-uhd-smart-tv-2025,"LG 65"" OLED EVO C5 AI 4K UHD Smart TV [2025]",4195.0,4195.0,0,VISUAL
 7334039257289,40425369174217,lg-86-qned86a-evo-ai-mini-led-4k-uhd-smart-tv-2025,"LG 86"" QNED86A EVO AI Mini-LED 4K UHD Smart TV [2025]",4395.0,3995.0,9.1,VISUAL
 7334039060681,40425368977609,lg-75-nano80a-ai-led-4k-uhd-smart-tv-2025,"LG 75"" NANO80A AI LED 4K UHD Smart TV [2025]",2588.0,2495.0,3.59,VISUAL
 7334089097417,40425419538633,lg-55-oled-evo-c5-ai-4k-uhd-smart-tv-2025,"LG 55"" OLED EVO C5 AI 4K UHD Smart TV [2025]",2388.0,2288.0,4.19,VISUAL
-7334039093449,40425369010377,lg-86-nano80a-ai-led-4k-uhd-smart-tv-2025,"LG 86"" NANO80A AI LED 4K UHD Smart TV [2025]",3418.0,3418.0,0,VISUAL
+7334039093449,40425369010377,lg-86-nano80a-ai-led-4k-uhd-smart-tv-2025,"LG 86"" NANO80A AI LED 4K UHD Smart TV [2025]",3398.0,3398.0,0,VISUAL
 7334089261257,40425419702473,lg-55-oled-b5-ai-4k-uhd-smart-tv-2025,"LG 55"" OLED B5 AI 4K UHD Smart TV [2025]",2691.0,1998.0,25.75,VISUAL
-7334089228489,40425419669705,lg-65-oled-b5-ai-4k-uhd-smart-tv-2025,"LG 65"" OLED B5 AI 4K UHD Smart TV [2025]",2894.0,2788.0,3.66,VISUAL
+7334089228489,40425419669705,lg-65-oled-b5-ai-4k-uhd-smart-tv-2025,"LG 65"" OLED B5 AI 4K UHD Smart TV [2025]",2788.0,2698.0,3.23,VISUAL
 7334137987273,40425469542601,vinyl-giveon-beloved-vinyl-lp,Beloved (Vinyl),62.99,50.39,20.0,MUSIC
 7334137954505,40425469509833,cd-giveon-beloved-cd,Beloved,26.99,21.59,20.01,MUSIC
 7333826429129,40425149006025,tcl-75-p7k-qled-4k-uhd-google-tv-2025,"TCL 75"" P7K QLED 4K UHD Google TV [2025]",1488.0,1445.0,2.89,VISUAL
@@ -7510,9 +7514,9 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7333934301385,40425258516681,dreame-l30-ultra-s-robot-vacuum-and-mop-with-auto-empty-and-mop-self-cleaning,Dreame L30 Ultra S Robot Vacuum and Mop with Auto-Empty and Mop Self-Cleaning,998.0,998.0,0,SMALL APPLIANCES
 7334117802185,40425449193673,nintendo-switch-pokemon-legends-z-a-1,Pokémon Legends: Z-A,129.0,129.0,0,GAMES SOFTWARE
 7334117769417,40425449160905,nintendo-switch-pokemon-legends-z-a,Pokémon Legends: Z-A,109.0,109.0,0,GAMES SOFTWARE
-7334039027913,40425368912073,lg-65-nano80a-ai-led-4k-uhd-smart-tv-2025,"LG 65"" NANO80A AI LED 4K UHD Smart TV [2025]",1718.0,1718.0,0,VISUAL
+7334039027913,40425368912073,lg-65-nano80a-ai-led-4k-uhd-smart-tv-2025,"LG 65"" NANO80A AI LED 4K UHD Smart TV [2025]",1600.0,1600.0,0,VISUAL
 7334038995145,40425368879305,lg-55-nano80a-ai-led-4k-uhd-smart-tv-2025,"LG 55"" NANO80A AI LED 4K UHD Smart TV [2025]",1293.0,1293.0,0,VISUAL
-7334038798537,40425368584393,lg-43-nano80a-ai-led-4k-uhd-smart-tv-2025,"LG 43"" NANO80A AI LED 4K UHD Smart TV [2025]",866.0,866.0,0,VISUAL
+7334038798537,40425368584393,lg-43-nano80a-ai-led-4k-uhd-smart-tv-2025,"LG 43"" NANO80A AI LED 4K UHD Smart TV [2025]",798.0,798.0,0,VISUAL
 7334115016905,40425446408393,cd-rise-against-ricochet-cd,Ricochet,28.99,23.19,20.01,MUSIC
 7334117572809,40425448964297,vinyl-rise-against-ricochet-vinyl-lp,Ricochet (Vinyl),74.99,59.99,20.0,MUSIC
 7334114984137,40425446375625,vinyl-rise-against-ricochet-jb-exclusive-orange-inside-clear-vinyl-lp-colour-may-vary,Ricochet (JB Exclusive Orange Inside Clear Vinyl),74.99,59.99,20.0,MUSIC
@@ -7659,13 +7663,13 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334084706505,40425415147721,vinyl-beabadoobee-fake-it-flowers-vinyl-lp,Fake It Flowers (Vinyl),63.99,51.19,20.0,MUSIC
 7256184684618,40402804965450,vinyl-stapleton-chris-from-a-room-vol-1-vinyl-lp,From A Room: Vol 1 (Vinyl),69.99,55.99,20.0,MUSIC
 7256367497290,40402865881162,vinyl-soundgarden-louder-than-love-vinyl-lp,Louder Than Love (Vinyl),68.99,55.19,20.0,MUSIC
-7334000754889,40425328705737,hisense-75-u7qnz-4k-uled-mini-led-smart-tv-2025,"Hisense 75"" U7QNZ 4K ULED Mini-LED Smart TV [2025]",2795.0,2288.0,18.14,VISUAL
+7334000754889,40425328705737,hisense-75-u7qnz-4k-uled-mini-led-smart-tv-2025,"Hisense 75"" U7QNZ 4K ULED Mini-LED Smart TV [2025]",2286.0,2286.0,0,VISUAL
 7334000787657,40425328738505,hisense-85-u7qnz-4k-uled-mini-led-smart-tv-2025,"Hisense 85"" U7QNZ 4K ULED Mini-LED Smart TV [2025]",3575.0,3285.0,8.11,VISUAL
 7333988761801,40425315238089,sony-65-bravia-5-4k-hdr-mini-led-google-tv-2025,"Sony 65"" BRAVIA 5 4K HDR Mini LED Google TV [2025]",2588.0,2488.0,3.86,VISUAL
 7334000918729,40425328869577,hisense-65-u8qnz-4k-uled-mini-led-smart-tv-2025,"Hisense 65"" U8QNZ 4K ULED Mini-LED Smart TV [2025]",2495.0,2384.0,4.45,VISUAL
 7333988729033,40425315205321,sony-65-bravia-8-ii-4k-hdr-oled-google-tv-2025,"Sony 65"" BRAVIA 8 II 4K HDR OLED Google TV [2025]",5391.0,5198.0,3.58,VISUAL
 7334056394953,40425386344649,cygnett-aeroshield-protective-case-for-ipad-10-9-a16-10th-gen-clear,"Cygnett AeroShield Protective Case for iPad 10.9"" A16 10th Gen (Clear)",46.0,46.0,0,ACCESSORIES
-7334000951497,40425328902345,hisense-75-u8qnz-4k-uled-mini-led-smart-tv-2025,"Hisense 75"" U8QNZ 4K ULED Mini-LED Smart TV [2025]",3598.0,2998.0,16.68,VISUAL
+7334000951497,40425328902345,hisense-75-u8qnz-4k-uled-mini-led-smart-tv-2025,"Hisense 75"" U8QNZ 4K ULED Mini-LED Smart TV [2025]",2988.0,2988.0,0,VISUAL
 7333992628425,40425319858377,hyperx-pulsefire-saga-pro-wired-gaming-mouse,HyperX Pulsefire Saga Pro Wired Gaming Mouse,129.0,96.0,25.58,GAMES HARDWARE
 7333992595657,40425319825609,hyperx-quadcast-2-s-usb-microphone-black,HyperX QuadCast 2 S USB Microphone (Black),379.0,379.0,0,GAMES HARDWARE
 7333953962185,40425279193289,amazon-fire-tv-stick-4k-max-2024,Amazon Fire TV Stick 4K Max [2024],129.0,99.0,23.26,SMART HOME
@@ -7810,7 +7814,7 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334037520585,40425366945993,vinyl-green-day-saviors-edition-de-luxe-hot-pink-with-white-splatter-vinyl-2lp-colour-may-vary,Saviors (Édition De Luxe) (Hot Pink with White Splatter Vinyl),121.99,97.59,20.0,MUSIC
 7334037455049,40425366880457,cd-green-day-saviors-edition-de-luxe-cd,Saviors (Édition De Luxe),27.99,22.39,20.01,MUSIC
 7334037291209,40425366716617,cd-belly-king-30th-anniversary-edition-cd,King (30th Anniversary Edition),27.99,22.39,20.01,MUSIC
-7334035456201,40425364881609,samsung-100-qn80f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 100"" QN80F Neo QLED 4K Mini LED Smart AI TV [2025]",6998.0,6998.0,0,VISUAL
+7334035456201,40425364881609,samsung-100-qn80f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 100"" QN80F Neo QLED 4K Mini LED Smart AI TV [2025]",6988.0,6988.0,0,VISUAL
 7334036537545,40425365962953,samsung-85-qn80f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 85"" QN80F Neo QLED 4K Mini LED Smart AI TV [2025]",5498.0,3994.0,27.36,VISUAL
 7334036635849,40425366061257,samsung-65-qn80f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 65"" QN80F Neo QLED 4K Mini LED Smart AI TV [2025]",2288.0,2288.0,0,VISUAL
 7334036013257,40425365438665,cd-gi-dle-we-are-cd,We Are,32.99,26.39,20.01,MUSIC
@@ -7831,21 +7835,21 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334033621193,40425363046601,cd-numan-gary-5-albums-5cd-gary-numan-cd,5 Albums 5cd Gary Numan,34.99,27.99,20.01,MUSIC
 7334031753417,40425361244361,samsung-55-qn70f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 55"" QN70F Neo QLED 4K Mini LED Smart AI TV [2025]",1588.0,1588.0,0,VISUAL
 7334031687881,40425361178825,samsung-65-qn70f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 65"" QN70F Neo QLED 4K Mini LED Smart AI TV [2025]",1988.0,1988.0,0,VISUAL
-7334031622345,40425361113289,samsung-75-qn70f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 75"" QN70F Neo QLED 4K Mini LED Smart AI TV [2025]",2998.0,2884.0,3.8,VISUAL
+7334031622345,40425361113289,samsung-75-qn70f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 75"" QN70F Neo QLED 4K Mini LED Smart AI TV [2025]",2884.0,2850.0,1.18,VISUAL
 7334030966985,40425360457929,samsung-65-s85f-oled-4k-smart-ai-tv-2025,"Samsung 65"" S85F OLED 4K Smart AI TV [2025]",2594.0,2594.0,0,VISUAL
-7334030868681,40425360359625,samsung-50-the-frame-qled-4k-smart-tv-2025,"Samsung 50"" The Frame QLED 4K Smart TV [2025]",1988.0,1988.0,0,VISUAL
-7334030213321,40425359704265,samsung-65-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 65"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2025]",3498.0,3284.0,6.12,VISUAL
-7334030180553,40425359671497,samsung-75-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 75"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2025]",4298.0,4298.0,0,VISUAL
-7334029721801,40425359212745,samsung-77-s90f-oled-4k-smart-ai-tv-2025,"Samsung 77"" S90F OLED 4K Smart AI TV [2025]",5695.0,5695.0,0,VISUAL
+7334030868681,40425360359625,samsung-50-the-frame-qled-4k-smart-tv-2025,"Samsung 50"" The Frame QLED 4K Smart TV [2025]",1988.0,1898.0,4.53,VISUAL
+7334030213321,40425359704265,samsung-65-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 65"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2025]",3284.0,3088.0,5.97,VISUAL
+7334030180553,40425359671497,samsung-75-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 75"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2025]",4279.0,4279.0,0,VISUAL
+7334029721801,40425359212745,samsung-77-s90f-oled-4k-smart-ai-tv-2025,"Samsung 77"" S90F OLED 4K Smart AI TV [2025]",5688.0,5688.0,0,VISUAL
 7334027690185,40425357181129,samsung-65-qn90f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 65"" QN90F NEO QLED 4K Mini LED Smart AI TV [2025]",3288.0,3288.0,0,VISUAL
 7334024839369,40425354330313,samsung-65-s95f-oled-4k-smart-ai-tv-2025,"Samsung 65"" S95F OLED 4K Smart AI TV [2025]",4988.0,4988.0,0,VISUAL
-7334029623497,40425359114441,samsung-65-s90f-oled-4k-smart-ai-tv-2025,"Samsung 65"" S90F OLED 4K Smart AI TV [2025]",3485.0,3485.0,0,VISUAL
-7334030835913,40425360326857,samsung-43-the-frame-qled-4k-smart-tv-2025,"Samsung 43"" The Frame QLED 4K Smart TV [2025]",1798.0,1798.0,0,VISUAL
+7334029623497,40425359114441,samsung-65-s90f-oled-4k-smart-ai-tv-2025,"Samsung 65"" S90F OLED 4K Smart AI TV [2025]",3188.0,3188.0,0,VISUAL
+7334030835913,40425360326857,samsung-43-the-frame-qled-4k-smart-tv-2025,"Samsung 43"" The Frame QLED 4K Smart TV [2025]",1788.0,1788.0,0,VISUAL
 7334029820105,40425359311049,samsung-83-s90f-oled-4k-smart-ai-tv-2025,"Samsung 83"" S90F OLED 4K Smart AI TV [2025]",6985.0,6985.0,0,VISUAL
 7334027722953,40425357213897,samsung-75-qn90f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 75"" QN90F NEO QLED 4K Mini LED Smart AI TV [2025]",5288.0,5288.0,0,VISUAL
 7334030115017,40425359605961,samsung-85-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 85"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2025]",5798.0,5798.0,0,VISUAL
 7334029590729,40425359081673,samsung-55-s90f-oled-4k-smart-ai-tv-2025,"Samsung 55"" S90F OLED 4K Smart AI TV [2025]",2398.0,2398.0,0,VISUAL
-7334024806601,40425354297545,samsung-77-s95f-oled-4k-smart-ai-tv-2025,"Samsung 77"" S95F OLED 4K Smart AI TV [2025]",8538.0,8538.0,0,VISUAL
+7334024806601,40425354297545,samsung-77-s95f-oled-4k-smart-ai-tv-2025,"Samsung 77"" S95F OLED 4K Smart AI TV [2025]",7988.0,7848.0,1.75,VISUAL
 7334030016713,40425359507657,minix-wednesday-enid-sinclair-cat-suit-merch-vinyl-figures,Minix: Wednesday - Enid Sinclair (Cat Suit),26.99,21.59,20.01,MOVIES
 7334029983945,40425359474889,minix-wednesday-wednesday-addams-cat-suit-merch-vinyl-figures,Minix: Wednesday - Wednesday Addams (Cat Suit),26.99,21.59,20.01,MOVIES
 7334029918409,40425359409353,minix-wednesday-enid-sinclair-ball-merch-vinyl-figures,Minix: Wednesday - Enid Sinclair (Ball),26.99,21.59,20.01,MOVIES
@@ -9137,7 +9141,7 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7333656035529,40424955510985,tcl-85-c6k-4k-uhd-qd-mini-led-google-tv-2025,"TCL 85"" C6K 4K UHD QD-Mini LED Google TV [2025]",2888.0,2595.0,10.15,VISUAL
 7333655969993,40424955445449,tcl-65-c6k-4k-uhd-qd-mini-led-google-tv-2025,"TCL 65"" C6K 4K UHD QD-Mini LED Google TV [2025]",1388.0,1388.0,0,VISUAL
 7333656002761,40424955478217,tcl-75-c6k-4k-uhd-qd-mini-led-google-tv-2025,"TCL 75"" C6K 4K UHD QD-Mini LED Google TV [2025]",1888.0,1888.0,0,VISUAL
-7333655937225,40424955412681,tcl-55-c6k-4k-uhd-qd-mini-led-google-tv-2025,"TCL 55"" C6K 4K UHD QD-Mini LED Google TV [2025]",945.0,945.0,0,VISUAL
+7333655937225,40424955412681,tcl-55-c6k-4k-uhd-qd-mini-led-google-tv-2025,"TCL 55"" C6K 4K UHD QD-Mini LED Google TV [2025]",938.0,938.0,0,VISUAL
 7333692473545,40425012461769,razer-wolverine-v2-pro-wireless-gaming-controller-for-playstation-5-pc-white,Razer Wolverine V2 Pro Wireless Gaming Controller for PlayStation 5 & PC (White),399.0,319.2,20.0,GAMES HARDWARE
 7333774459081,40425094643913,razer-kraken-v4-x-wired-gaming-headset-black,Razer Kraken V4 X Wired Gaming Headset (Black),169.0,135.2,20.0,GAMES HARDWARE
 7333774131401,40425094316233,razer-huntsman-mini-60-optical-gaming-keyboard-mercury-edition-clicky-purple-switch,Razer Huntsman Mini 60% Optical Gaming Keyboard Mercury Edition (Clicky Purple Switch),209.0,167.2,20.0,GAMES HARDWARE
@@ -10317,7 +10321,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7333040619721,40422150504649,cd-cure-the-songs-of-a-lost-world-deluxe-edition-2cd-blu-ray,Songs Of A Lost World (Deluxe Edition),49.99,39.99,20.0,MUSIC
 7328108904522,40417495416906,vinyl-beatles-the-sgt-peppers-lonely-hearts-club-band-vinyl-reissue-lp,Sgt. Pepper's Lonely Hearts Club Band (Vinyl) (Reissue),59.99,47.99,20.0,MUSIC
 7204455874634,40365440630858,vinyl-bon-jovi-new-jersey-2lp,New Jersey,81.99,65.59,20.0,MUSIC
-7300048846922,40406387884106,vinyl-arctic-monkeys-am-vinyl-lp,Am (Vinyl),42.99,34.39,20.0,MUSIC
 7328109690954,40417496170570,vinyl-sza-ctrl-vinyl-reissue-2lp,Ctrl (Vinyl) (Reissue),87.99,70.39,20.0,MUSIC
 7300041769034,40406383329354,cd-simon-garfunkel-definitive-cd,Definitive,12.99,10.39,20.02,MUSIC
 7300051271754,40406388867146,vinyl-ac-dc-ac-dc-live-collectors-edition-vinyl-2lp,AC/DC: Live (Collector's Edition Vinyl),79.99,63.99,20.0,MUSIC
@@ -10616,7 +10619,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7333510578377,40424805662921,cd-japanese-breakfast-for-melancholy-brunettes-sad-women-cd,For Melancholy Brunettes (& Sad Women),30.99,24.79,20.01,MUSIC
 7333510480073,40424805564617,vinyl-clapton-eric-unplugged-enhanced-edition-vinyl-3lp,Unplugged: Enhanced Edition (Vinyl),152.99,122.39,20.0,MUSIC
 7333510349001,40424805433545,cd-clapton-eric-unplugged-enhanced-edition-2cd,Unplugged: Enhanced Edition,42.99,34.39,20.0,MUSIC
-7333510447305,40424805531849,vinyl-rumer-in-session-vinyl-lp,In Session (Vinyl),39.99,31.99,20.01,MUSIC
 7333510414537,40424805499081,cd-rumer-in-session-cd,In Session,29.99,23.99,20.01,MUSIC
 7333510185161,40424805269705,vinyl-trivium-ascendancy-limited-candy-corn-vinyl-2lp-colour-may-vary,Ascendancy (Limited Candy Corn Vinyl),127.99,102.39,20.0,MUSIC
 7333510152393,40424805236937,vinyl-rush-presto-vinyl-lp,Presto (Vinyl),65.99,52.79,20.0,MUSIC
@@ -11097,7 +11099,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7333223661769,40424512356553,marshal-emberton-iii-portable-bluetooth-speaker-cream,Marshal Emberton III Portable Bluetooth Speaker (Cream),349.99,349.99,0,AUDIO
 7332969382089,40422078873801,powera-wired-stereo-headset-for-nintendo-switch-fortnite-llama-here,PowerA Wired Stereo Headset for Nintendo Switch (Fortnite Llama Here!),59.0,59.0,0,GAMES HARDWARE
 7333429444809,40424723022025,cd-mekons-horror-cd,Horror,27.99,22.39,20.01,MUSIC
-7206821855306,40367087124554,popsockets-popmount-2-car-vent-mount-black,Popsockets PopMount 2 Car Vent Mount (Black),31.99,31.99,0,ACCESSORIES
 7333444092105,40424737898697,vinyl-london-october-the-rebirth-of-marvin-jb-exclusive-gold-vinyl-lp-colour-may-vary,The Rebirth Of Marvin (JB Exclusive Gold Vinyl),81.99,65.59,20.0,MUSIC
 7204471930954,40365453672522,tucano-smilza-slim-14-laptop-bag-blue,"Tucano Smilza Slim 14"" Laptop Bag (Blue)",59.99,47.99,20.0,ACCESSORIES
 7204898570314,40365729316938,tucano-melange-13-14-laptop-sleeve-black,"Tucano Melange 13""-14"" Laptop Sleeve (Black)",39.99,39.99,0,ACCESSORIES
@@ -11392,7 +11393,7 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7333366989001,40424660435145,cd-nct-dream-the-4th-album-dreamscape-dreamscape-version-cd,The 4th Album ‘Dreamscape’ (Dreamscape Version),50.99,40.79,20.0,MUSIC
 7333366956233,40424660402377,cd-nct-dream-the-4th-album-dreamscape-construct-version-cd,The 4th Album ‘Dreamscape’ (Construct Version),50.99,40.79,20.0,MUSIC
 7333300895945,40424590475465,nextbase-piqo-1k-dashcam-with-32gb-sd-card,Nextbase PIQO 1K Dashcam with 32GB SD Card,199.0,199.0,0,CAMERAS
-7333191352521,40424480178377,jbl-partybox-stage-320-party-speaker-black-1,JBL PartyBox Stage 320 Party Speaker (Black),686.0,648.0,5.54,AUDIO
+7333191352521,40424480178377,jbl-partybox-stage-320-party-speaker-black,JBL PartyBox Stage 320 Party Speaker (Black),686.0,648.0,5.54,AUDIO
 7333327732937,40424621080777,vinyl-combs-luke-what-you-see-aint-always-what-you-get-vinyl-3lp,What You See Aint Always What You Get (Vinyl),108.99,87.19,20.0,MUSIC
 7317162360906,40409845071946,vinyl-morrison-van-astral-weeks-vinyl-lp,Astral Weeks (Vinyl),46.99,37.59,20.0,MUSIC
 7328673759306,40418033533002,vinyl-deftones-adrenaline-vinyl-lp,Adrenaline (Vinyl),50.99,40.79,20.0,MUSIC
@@ -11793,7 +11794,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7333298700489,40424588280009,death-in-paradise-series-8-13-dvd,Death In Paradise - Series 8-13,124.98,99.98,20.0,MOVIES
 7333298667721,40424588247241,death-in-paradise-series-1-7-dvd,Death In Paradise - Series 1-7,141.98,113.58,20.0,MOVIES
 7333298634953,40424588214473,one-nz-smart-m25-black,One NZ Smart M25 (Black),87.0,74.0,14.94,COMMUNICATIONS
-7333298307273,40424587886793,as-good-as-it-gets-blu-ray,As Good As It Gets,24.98,19.98,20.02,MOVIES
 7333298241737,40424587821257,magnum-p-i-seasons-1-8-box-set-1980-dvd,Magnum P.I. Seasons 1-8 Box Set,189.98,151.98,20.0,MOVIES
 7333298110665,40424587690185,vinyl-swims-teddy-ive-tried-everything-but-therapy-part-2-opaque-tangerine-vinyl-lp-colour-may-vary,I've Tried Everything But Therapy (part 2) (Opaque Tangerine Vinyl),70.99,56.79,20.0,MUSIC
 7333298077897,40424587657417,cd-swims-teddy-ive-tried-everything-but-therapy-part-2-cd,I've Tried Everything But Therapy (part 2),27.99,22.39,20.01,MUSIC
@@ -12261,7 +12261,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7333185224905,40424474050761,apple-macbook-pro-16-inch-with-m4-max-chip-1tb-36gb-silver,"Apple MacBook Pro 16-inch with M4 Max Chip, 1TB/36GB (Silver)",6799.0,6799.0,0,COMPUTERS
 7333184733385,40424473559241,vinyl-primal-scream-come-ahead-silver-vinyl-lp,Come Ahead (Silver Vinyl),54.99,43.99,20.0,MUSIC
 7333184700617,40424473526473,vinyl-green-grant-idle-moments-blue-note-85-classic-blue-vinyl-lp-colour-may-vary,Idle Moments Blue Note 85 Classic (Blue Vinyl),44.99,35.99,20.0,MUSIC
-7333184635081,40424473460937,vinyl-aphrodites-child-vangelis-666-the-apocalypse-of-john-vinyl-lp,666 (The Apocalypse Of John) (Vinyl),64.99,51.99,20.0,MUSIC
 7333184569545,40424473395401,cd-aphrodites-child-vangelis-666-the-apocalypse-of-john-cd,666 (The Apocalypse Of John),166.99,133.59,20.0,MUSIC
 7333184504009,40424473329865,vinyl-violent-femmes-hallowed-ground-vinyl-lp,Hallowed Ground (Vinyl),67.99,54.39,20.0,MUSIC
 7333184438473,40424473264329,vinyl-jet-get-born-vinyl-lp,Get Born (Vinyl),60.99,48.79,20.0,MUSIC
@@ -13179,7 +13178,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7332986126537,40422095749321,logitech-g-pro-x-superlight-2-dex-lightspeed-wireless-gaming-mouse-white,Logitech G PRO X SUPERLIGHT 2 DEX LIGHTSPEED Wireless Gaming Mouse (White),276.0,268.0,2.9,GAMES HARDWARE
 7332985864393,40422095487177,steelseries-arctis-nova-5p-wireless-gaming-headset-white,SteelSeries Arctis Nova 5P Wireless Gaming Headset (White),349.0,314.1,10.0,GAMES HARDWARE
 7333013160137,40422123045065,logitech-g-racing-adapter,Logitech G Racing Adapter,89.0,89.0,0,GAMES HARDWARE
-7333013061833,40422122946761,nanoleaf-blocks-shelves-add-on-kit-2-pack,Nanoleaf Blocks Shelves Add-On Kit (2 Pack),52.0,52.0,0,SMART HOME
 7333012209865,40422122094793,vinyl-karen-o-danger-mouse-lux-prima-vinyl-lp-1,Lux Prima (Vinyl),54.99,43.99,20.0,MUSIC
 7333011947721,40422121832649,nanoleaf-blocks-combo-smarter-kit,Nanoleaf Blocks Combo Smarter Kit,297.0,297.0,0,SMART HOME
 7333012013257,40422121898185,vinyl-iron-wine-kiss-each-other-clean-opaque-pink-vinyl-lp-colour-may-vary,Kiss Each Other Clean (Opaque Pink Vinyl),39.99,31.99,20.01,MUSIC
@@ -13687,7 +13685,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7332918919369,40422020382921,vinyl-labrinth-sia-diplo-labrinth-sia-diplo-present-lsd-5th-anniversary-edition-green-vinyl-lp,"Labrinth, Sia & Diplo Present... Lsd (5th Anniversary Edition) (Green Vinyl)",69.99,55.99,20.0,MUSIC
 7332918886601,40422020350153,cd-kent-corey-black-bandana-cd,Black Bandana,26.99,21.59,20.01,MUSIC
 7332918395081,40422019858633,cd-jaehyun-the-1st-album-j-money-clip-version-cd,The 1st Album ‘J’ Money Clip Version,50.99,40.79,20.0,MUSIC
-7332918329545,40422019793097,vinyl-mika-life-in-cartoon-motion-vinyl-lp,Life In Cartoon Motion (Vinyl),69.99,55.99,20.0,MUSIC
 7332918231241,40422019694793,vinyl-simone-nina-nina-simone-in-concert-live-at-carnegie-hall-vinyl-lp,Nina Simone In Concert Live At Carnegie Hall (Vinyl),90.99,72.79,20.0,MUSIC
 7332918165705,40422019629257,cd-kinsley-sarah-escaper-cd,Escaper,27.99,22.39,20.01,MUSIC
 7332918132937,40422019596489,vinyl-cardigans-the-the-rest-of-the-best-vol-1-vinyl-2lp,The Rest Of The Best Vol. 1 (Vinyl),64.99,51.99,20.0,MUSIC
@@ -15483,7 +15480,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7332450369737,40421548720329,sherlock-series-1-4-the-abominable-bride-2021-dvd,Sherlock - Series 1-4 & The Abominable Bride,66.98,53.58,20.01,MOVIES
 7332450336969,40421548687561,pride-prejudice-1995-dvd-1,Pride & Prejudice,19.98,15.98,20.02,MOVIES
 7332450500809,40421548851401,father-brown-series-9-2022-dvd,Father Brown - Series 9,37.98,30.38,20.01,MOVIES
-7332129472713,40421174083785,road-house-limted-edition-lenticular-slipcase-art-cards-1989-blu-ray,Road House - Limted Edition (Lenticular Slipcase & Art Cards),44.98,35.98,20.01,MOVIES
 7332552179913,40421651120329,vinyl-pretenders-learning-to-crawl-40th-anniversary-edition-clear-vinyl-lp-colour-may-vary,Learning To Crawl (40th Anniversary Edition Clear Vinyl),44.99,35.99,20.0,MUSIC
 7332552114377,40421651054793,vinyl-various-now-playing-disco-crystal-clear-coloured-vinyl-lp,Now Playing Disco (Crystal Clear Coloured Vinyl),54.99,43.99,20.0,MUSIC
 7332552081609,40421651022025,vinyl-sister-sledge-now-playing-clear-vinyl-lp,Now Playing (Clear Vinyl),68.99,55.19,20.0,MUSIC
@@ -16340,7 +16336,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7332382376137,40421476139209,cd-coltrane-alice-the-carnegie-hall-concert-cd,The Carnegie Hall Concert,29.99,23.99,20.01,MUSIC
 7332386701513,40421480464585,vinyl-higgins-missy-the-sound-of-white-20th-anniversary-edition-white-vinyl-2lp,The Sound Of White (20th Anniversary Edition) (White Vinyl),66.99,53.59,20.0,MUSIC
 7332406591689,40421501468873,vinyl-kweli-talib-madlib-liberation-2-instrumentals-vinyl-2lp,Liberation 2 Instrumentals (Vinyl),76.99,61.59,20.0,MUSIC
-7332406558921,40421501436105,vinyl-black-crowes-the-before-the-frost-vinyl-2lp,Before The Frost (Vinyl),69.99,55.99,20.0,MUSIC
 7332406493385,40421501370569,vinyl-ost-kenji-kawai-ghost-in-the-shell-vinyl-lp,Ghost In The Shell (Vinyl),60.99,48.79,20.0,MUSIC
 7332406296777,40421501173961,cd-kiss-the-early-years-1973-1975-4cd,The Early Years - 1973-1975,32.99,26.39,20.01,MUSIC
 7332406198473,40421501075657,cd-tyr-battle-ballads-cd,Battle Ballads,32.99,26.39,20.01,MUSIC
@@ -16365,7 +16360,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7332402135241,40421496717513,vinyl-archives-nia-silence-is-loud-vinyl-lp,Silence Is Loud (Vinyl),67.99,54.39,20.0,MUSIC
 7332400988361,40421495570633,cd-kahan-noah-stick-season-well-all-be-here-forever-2cd,Stick Season (We'll All Be Here Forever),38.99,31.19,20.01,MUSIC
 7332401905865,40421496488137,cd-mccalla-leyla-sun-without-the-heat-cd,Sun Without the Heat,26.99,21.59,20.01,MUSIC
-7332401873097,40421496455369,vinyl-various-trojan-records-uptown-top-ranking-trojan-ska-reggae-chartbusters-vinyl-2lp,Uptown Top Ranking: Trojan Ska & Reggae Chartbusters (Vinyl),71.99,57.59,20.0,MUSIC
 7332401807561,40421496389833,cd-metz-up-on-gravity-hill-2cd,Up On Gravity Hill,29.99,23.99,20.01,MUSIC
 7332401742025,40421496324297,vinyl-eagles-to-the-limit-the-essential-collection-vinyl-2lp,To The Limit: The Essential Collection (Vinyl),109.99,87.99,20.0,MUSIC
 7332401021129,40421495603401,cd-eagles-to-the-limit-the-essential-collection-3cd,To The Limit: The Essential Collection,44.99,35.99,20.0,MUSIC
@@ -16683,7 +16677,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7328590757962,40417952366666,cd-katatonia-brave-murder-day-25th-anniversary-edition-2cd,Brave Murder Day (25th Anniversary Edition),26.99,21.59,20.01,MUSIC
 7328271171658,40417652015178,vinyl-kilgour-david-the-clean-bobbies-a-girl-vinyl-lp,Bobbie's A Girl (Vinyl),50.99,40.79,20.0,MUSIC
 7332353409225,40421447205065,bonelk-long-life-usb-c-to-4-port-usb-c-3-0-slim-hub-black,Bonelk Long-Life USB-C to 4 Port USB-C 3.0 Slim Hub (Black),69.0,69.0,0,IT
-7332365402313,40421459165385,playstation-5-the-smurfs-village-party,The Smurfs: Village Party,69.0,38.0,44.93,GAMES SOFTWARE
 7332365238473,40421459001545,vinyl-connelly-clarissa-world-of-work-vinyl-lp,World Of Work (Vinyl),70.99,56.79,20.0,MUSIC
 7332365172937,40421458936009,vinyl-mr-scruff-ninja-tuna-vinyl-debut-edition-3lp,Ninja Tuna (Vinyl Debut Edition),120.99,96.79,20.0,MUSIC
 7332365205705,40421458968777,cd-mount-kimbie-the-sunset-violent-cd,The Sunset Violent,32.99,26.39,20.01,MUSIC
@@ -17230,8 +17223,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7331831644361,40420876058825,playmax-topography-x2-mouse-mat-black,Playmax Topography X2 Mouse Mat (Black),24.0,24.0,0,GAMES HARDWARE
 7331831611593,40420876026057,playmax-topography-x2-mouse-mat-white,Playmax Topography X2 Mouse Mat (White),24.0,24.0,0,GAMES HARDWARE
 7332277977289,40421371248841,cd-torres-what-an-enormous-room-cd,What An Enormous Room,24.99,19.99,20.01,MUSIC
-7332186849481,40421231460553,vinyl-various-soul-jazz-records-soul-jazz-records-presents-studio-one-roots-vinyl-2lp,Soul Jazz Records Presents: Studio One Roots (Vinyl),39.99,39.99,0,MUSIC
-7332229152969,40421273698505,vinyl-various-soul-jazz-records-presents-studio-one-disco-mix-vinyl-2lp,Soul Jazz Records Presents: Studio One Disco Mix (Vinyl),39.99,39.99,0,MUSIC
 7332229284041,40421273829577,vinyl-various-soul-jazz-records-presents-studio-one-djs-vinyl-2lp,Soul Jazz Records Presents: Studio One DJ's (Vinyl),39.99,39.99,0,MUSIC
 7332232069321,40421325275337,samsung-flip-suitcase-for-galaxy-s24-ultra-white,Samsung Flip Suitcase for Galaxy S24 Ultra (White),67.0,67.0,0,ACCESSORIES
 7332277321929,40421370593481,cd-lopez-jennifer-this-is-me-now-deluxe-edition-cd,This Is Me... Now (Deluxe Edition),36.99,29.59,20.01,MUSIC
@@ -17254,7 +17245,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7332275716297,40421368987849,vinyl-glass-beach-plastic-death-vinyl-2lp,plastic death (Vinyl),85.99,68.79,20.0,MUSIC
 7332275650761,40421368922313,panzerglass-screen-protector-for-samsung-galaxy-watch6-classic-47mm,PanzerGlass Screen Protector for Samsung Galaxy Watch6 Classic 47mm,37.0,37.0,0,FITNESS
 7332275519689,40421368791241,panzerglass-screen-protector-for-samsung-galaxy-watch6-classic-43mm,PanzerGlass Screen Protector for Samsung Galaxy Watch6 Classic 43mm,37.0,37.0,0,FITNESS
-7332275421385,40421368692937,panzerglass-screen-protector-for-samsung-galaxy-watch6-44mm,PanzerGlass Screen Protector for Samsung Galaxy Watch6 44mm,27.0,27.0,0,FITNESS
 7332275323081,40421368594633,cd-clash-the-live-amsterdam-1981-cd,Live Amsterdam 1981,29.99,23.99,20.01,MUSIC
 7332275126473,40421368398025,vinyl-undertones-the-the-undertones-vinyl-lp,The Undertones (Vinyl),55.99,44.79,20.0,MUSIC
 7332272799945,40421366071497,vinyl-stone-angus-julia-cape-forestier-gold-vinyl-lp,Cape Forestier (Gold Vinyl),67.99,54.39,20.0,MUSIC
@@ -17505,7 +17495,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7332196286665,40421240897737,tp-link-tapo-l535b-b22-multicolour-bulb-matter-compatible,TP-Link Tapo L535B B22 Multicolour Bulb [Matter Compatible],27.0,27.0,0,SMART HOME
 7332190421193,40421235032265,uniden-uh825-80-channels-2-watt-uhf-handheld-tradies-pack-twin-pack,Uniden UH825 80 Channels 2 Watt UHF Handheld Tradies Pack (Twin Pack),419.0,419.0,0,COMMUNICATIONS
 7332196253897,40421240864969,tp-link-tapo-p300-smart-wi-fi-power-strip,TP-Link Tapo P300 Smart Wi-Fi Power Strip,74.0,68.0,8.11,SMART HOME
-7332195401929,40421240013001,generation-earth-artisan-recycled-13-3-14-1-laptop-sleeve-black-flower,"Generation Earth Artisan Recycled 13.3""-14.1"" Laptop Sleeve (Black Flower)",77.0,61.6,20.0,ACCESSORIES
 7332199629001,40421244240073,cygnett-armoured-usb-c-to-usb-a-cable-2m-white,Cygnett Armoured USB-C to USB-A Cable (2m) [White],34.99,27.99,20.01,ACCESSORIES
 7332195238089,40421239849161,generation-earth-berlin-recycled-13-3-14-1-laptop-pu-ladies-briefcase-black,"Generation Earth Berlin Recycled 13.3""-14.1"" Laptop PU Ladies Briefcase (Black)",227.0,181.6,20.0,ACCESSORIES
 7332199137481,40421243781321,cygnett-armoured-usb-c-to-usb-c-cable-1m-black,Cygnett Armoured USB-C to USB-C Cable (1m) [Black],31.99,25.59,20.01,ACCESSORIES
@@ -17527,7 +17516,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7332199006409,40421243650249,cygnett-armoured-lightning-to-usb-a-cable-2m-black-1,Cygnett Armoured Lightning to USB-A Cable (2m) [Black],41.99,33.59,20.0,ACCESSORIES
 7332195434697,40421240045769,generation-earth-berlin-recycled-13-3-14-1-laptop-pu-backpack-black,"Generation Earth Berlin Recycled 13.3""-14.1"" Laptop PU Backpack (Black)",247.0,197.6,20.0,ACCESSORIES
 7332195336393,40421239947465,generation-earth-artisan-recycled-13-3-14-1-laptop-sleeve-cheetah,"Generation Earth Artisan Recycled 13.3""-14.1"" Laptop Sleeve (Cheetah)",77.0,61.6,20.0,ACCESSORIES
-7332195205321,40421239816393,generation-earth-artisan-recycled-13-3-14-1-laptop-sleeve-leaves,"Generation Earth Artisan Recycled 13.3""-14.1"" Laptop Sleeve (Leaves)",77.0,61.6,20.0,ACCESSORIES
 7332195467465,40421240078537,generation-earth-artisan-recycled-tote-bag-cheetah,Generation Earth Artisan Recycled Tote Bag (Cheetah),97.0,77.6,20.0,ACCESSORIES
 7332213588169,40421258199241,belkin-connect-usb-c-core-gan-100w-power-adapter,Belkin Connect USB-C Core GaN 100W Power Adapter,99.0,99.0,0,IT
 7332213031113,40421257642185,arlo-ultra-and-pro-3-total-security-mount,Arlo Ultra and Pro 3 Total Security Mount,47.0,47.0,0,SMART HOME
@@ -18794,7 +18782,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7331836100809,40420880515273,vinyl-phair-liz-exile-in-guyville-30th-anniversary-edition-purple-vinyl-2lp-colour-may-vary,Exile In Guyville (30th Anniversary Edition) (Purple Vinyl),86.99,69.59,20.0,MUSIC
 7331836068041,40420880482505,cd-karol-g-manana-sera-bonito-bichota-season-cd,Mañana Sera Bonito (Bichota Season),29.99,23.99,20.01,MUSIC
 7331835969737,40420880384201,cd-whitesnake-the-purple-album-special-gold-edition-cd,The Purple Album: Special Gold Edition,29.99,23.99,20.01,MUSIC
-7331835805897,40420880220361,vinyl-uriah-heep-the-definitive-anthology-1970-1990-yellow-vinyl-2lp-colour-may-vary,The Definitive Anthology 1970-1990 (Yellow Vinyl),39.99,31.99,20.01,MUSIC
 7331835773129,40420880187593,cd-piaf-edith-best-of-musicorama-live-at-the-olympia-paris-2cd,Best Of / Musicorama Live At The Olympia Paris,27.99,22.39,20.01,MUSIC
 7331835707593,40420880122057,cd-piaf-edith-best-of-cd,Best Of,27.99,22.39,20.01,MUSIC
 7331835510985,40420879925449,cd-whitesnake-purple-album-the-special-gold-edition-2cd-blu-ray,"Purple Album, The: Special Gold Edition",66.99,53.59,20.0,MUSIC
@@ -18901,7 +18888,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7206737313866,40367008645194,cd-elise-kendall-let-the-night-move-in-cd,Let The Night Move In,19.99,15.99,20.01,MUSIC
 7206762840138,40367031353418,spider-man-the-animated-series-madame-web-pop-vinyl-pop-vinyl,Spider-Man The Animated Series - Madame Web Pop! Vinyl,19.99,19.99,0,MOVIES
 7206715195466,40366988886090,cd-wilson-brian-van-dyke-parks-orange-crate-art-2cd,Orange Crate Art,39.99,31.99,20.01,MUSIC
-7204370251850,40365367722058,xbox-one-no-straight-roads,No Straight Roads,5.0,5.0,0,GAMES SOFTWARE
 7204440932426,40365430603850,xbox-one-dcl-the-game,DCL The Game,9.0,9.0,0,GAMES SOFTWARE
 7205343854666,40365969834058,boruto-naruto-next-generations-part-3-2017-dvd,Boruto: Naruto Next Generations Part 3,50.98,40.78,20.01,MOVIES
 7204337614922,40365336395850,xbox-one-pillars-of-eternity-ii-deadfire,Pillars of Eternity II: Deadfire,9.0,9.0,0,GAMES SOFTWARE
@@ -18986,7 +18972,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7331823288521,40420867702985,cd-slauson-malone-1-excelsior-cd,Excelsior,34.99,27.99,20.01,MUSIC
 7331823222985,40420867637449,vinyl-creation-rebel-hostile-environment-yellow-vinyl-lp-colour-may-vary,Hostile Environment (Yellow Vinyl),35.99,35.99,0,MUSIC
 7331823157449,40420867571913,vinyl-kid-koala-some-of-my-best-friends-are-djs-20th-anniversary-silver-vinyl-lp-colour-may-vary,Some Of My Best Friends Are DJs (20th Anniversary Silver Vinyl),66.99,53.59,20.0,MUSIC
-7253552431178,40401263657034,xbox-series-x-armored-core-vi-fires-of-rubicon,Armored Core VI: Fires of Rubicon,39.0,39.0,0,GAMES SOFTWARE
 7331820830921,40420865245385,cd-piaf-edith-symphonique-cd,Symphonique,27.99,22.39,20.01,MUSIC
 7331820601545,40420865016009,cd-sawhney-nitin-identity-cd,Identity,27.99,22.39,20.01,MUSIC
 7331820110025,40420864524489,vinyl-eternal-always-forever-coloured-vinyl-lp,Always & Forever (Coloured Vinyl),35.99,35.99,0,MUSIC
@@ -19097,7 +19082,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7209887465546,40368954966090,ring-spotlight-cam-plus-plug-in-white,Ring Spotlight Cam Plus [Plug-In] (White),299.0,299.0,0,SMART HOME
 7207323009098,40367471067210,ring-spotlight-cam-plus-plug-in-black,Ring Spotlight Cam Plus [Plug-In] (Black),299.0,299.0,0,SMART HOME
 7206711230538,40366985576522,sony-cybershot-zv-1-4k-vlog-camera,Sony CyberShot ZV-1 4K Vlog Camera,1145.0,1075.0,6.11,CAMERAS
-7331162718282,40420377034826,vinyl-crosses-deftones-goodnight-god-bless-i-luv-u-delete-black-ice-vinyl-2lp,"Goodnight, God Bless, I Luv U, Delete (Black Ice Vinyl)",55.99,55.99,0,MUSIC
 7331160195146,40420375986250,vinyl-crosses-deftones-goodnight-god-bless-i-luv-u-delete-vinyl-2lp,"Goodnight, God Bless, I Luv U, Delete (Vinyl)",47.99,47.99,0,MUSIC
 7331159048266,40420375494730,cd-crosses-deftones-goodnight-god-bless-i-luv-u-delete-cd,"Goodnight, God Bless, I Luv U, Delete",26.99,21.59,20.01,MUSIC
 7256447090762,40402892783690,cd-fleetwood-mac-25-years-the-chain-4cd,25 Years - The Chain,32.99,26.39,20.01,MUSIC
@@ -19440,7 +19424,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7204779720778,40365664272458,pudney-power-board-with-overload-protection-4-outlet,Pudney Power Board with Overload Protection (4-outlet),22.99,18.39,20.01,ACCESSORIES
 7205098291274,40365847806026,playstation-5-the-house-of-the-dead-remake-limidead-edition,The House of the Dead Remake: LimiDead Edition,59.0,35.0,40.68,GAMES SOFTWARE
 7319403135050,40411877245002,vinyl-basement-jaxx-kish-kash-red-white-vinyl-2lp-colour-may-vary,Kish Kash (Red / White Vinyl),46.99,37.59,20.0,MUSIC
-7319402872906,40411877048394,vinyl-cat-power-cat-power-sings-dylan-the-1966-royal-albert-hall-concert-white-vinyl-2lp-colour-may-vary,Cat Power Sings Dylan: The 1966 Royal Albert Hall Concert (White Vinyl),71.99,57.59,20.0,MUSIC
 7319402741834,40411876950090,vinyl-ost-ryuichi-sakamoto-revenant-the-vinyl-2lp,"Revenant, The (Vinyl)",47.99,47.99,0,MUSIC
 7319402774602,40411876982858,cd-lil-uzi-vert-pink-tape-cd,Pink Tape,34.99,27.99,20.01,MUSIC
 7319402446922,40411876720714,vinyl-waits-tom-rain-dogs-vinyl-lp,Rain Dogs (Vinyl),71.99,57.59,20.0,MUSIC
@@ -19732,7 +19715,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7204908925002,40365748846666,i-am-chris-farley-2015-dvd,I Am Chris Farley,19.98,15.98,20.02,MOVIES
 7204849909834,40365701890122,real-housewives-of-atlanta-the-season-5-2012-dvd,"Real Housewives of Atlanta, The - Season 5",24.98,19.98,20.02,MOVIES
 7204828676170,40365689864266,alis-wedding-2017-dvd,Ali's Wedding,30.98,24.78,20.01,MOVIES
-7204343709770,40365342097482,xbox-one-yooka-laylee-and-the-impossible-lair,Yooka-Laylee and the Impossible Lair,9.0,9.0,0,GAMES SOFTWARE
 7204915413066,40365767229514,cd-kaiser-chiefs-duck-cd,Duck,14.99,11.99,20.01,MUSIC
 7204878811210,40365718962250,cd-rollins-sonny-3-essential-albums-3cd,3 Essential Albums,26.99,21.59,20.01,MUSIC
 7206724862026,40366997536842,stooge-the-1951-blu-ray,"Stooge, The",14.98,11.98,20.03,MOVIES
@@ -20340,7 +20322,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7204845125706,40365699596362,canon-gi-690-pixma-endurance-ink-bottle-yellow,Canon GI-690 Pixma Endurance Ink Bottle (Yellow),28.0,28.0,0,IT
 7204570693706,40365534445642,cd-dire-straits-brothers-in-arms-remastered-cd,Brothers In Arms (Remastered),12.99,10.39,20.02,MUSIC
 7204326375498,40365325975626,canon-gi-690-pixma-endurance-ink-bottle-cyan,Canon GI-690 Pixma Endurance Ink Bottle (Cyan),28.0,28.0,0,IT
-7204582621258,40365544931402,logitech-folio-case-for-ipad-10th-gen-grey,Logitech Folio Case for iPad 10th Gen (Grey),147.0,147.0,0,ACCESSORIES
 7204509122634,40365485850698,jbl-boombox-3-portable-speaker-black,JBL Boombox 3 Portable Speaker (Black),388.0,388.0,0,AUDIO
 7204424777802,40365419364426,arlo-ultra-magnetic-wall-mount,Arlo Ultra Magnetic Wall Mount,79.0,79.0,0,SMART HOME
 7204406657098,40365401931850,alogic-fusion-usb-c-to-hdmi-cable-2m,ALOGIC Fusion USB-C to HDMI Cable (2m),48.0,44.0,8.33,IT
@@ -20908,7 +20889,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7204616470602,40365578223690,belkin-boostup-charge-lightning-to-usb-a-1m-braided-cable-white,Belkin BoostUp Charge Lightning to USB-A 1m Braided Cable (White),35.99,35.99,0,ACCESSORIES
 7204481794122,40365463502922,belkin-boostup-charge-usb-c-to-usb-c-1m-cable-white,Belkin BoostUP CHARGE USB-C to USB-C 1m Cable (White),25.99,25.99,0,ACCESSORIES
 7204469833802,40365451640906,belkin-boostup-lightning-to-usb-a-cable-1m-white,Belkin BoostUp Lightning to USB-A Cable 1m (White),31.99,31.99,0,ACCESSORIES
-7204468195402,40365450002506,belkin-boostup-charge-usb-a-to-usb-c-1m-braided-cable-black,Belkin BoostUP Charge USB-A to USB-C 1m Braided Cable (Black),27.0,27.0,0,ACCESSORIES
 7204576493642,40365541359690,belkin-boostup-charge-usb-c-to-lightning-braided-cable-2m-white,Belkin BoostUp Charge USB-C to Lightning Braided Cable 2m (White),45.99,45.99,0,ACCESSORIES
 7205884624970,40366317305930,energizer-rechargeable-aa-battery-2300-mah-4-pack,Energizer Rechargeable AA Battery 2300 mAh (4 Pack),37.99,37.99,0,ACCESSORIES
 7204481630282,40365463339082,belkin-boostup-charger-micro-usb-to-usb-a-cable-1m-white,Belkin BoostUp Charger Micro-USB to USB-A Cable 1m (White),25.99,25.99,0,ACCESSORIES
@@ -21167,7 +21147,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7210714923082,40369466933322,cd-rammstein-mutter-cd,Mutter,45.99,36.79,20.0,MUSIC
 7210712727626,40369465884746,cd-beatles-the-revolver-deluxe-anniversary-edition-2cd,Revolver (Deluxe Anniversary Edition),40.99,32.79,20.0,MUSIC
 7210712629322,40369465819210,cd-mccraven-makaya-in-these-times-cd,In These Times,26.99,21.59,20.01,MUSIC
-7210712531018,40369465720906,cd-young-neil-time-fades-away-cd,Time Fades Away,31.99,25.59,20.01,MUSIC
 7210712465482,40369465655370,cd-may-brian-queen-another-world-cd,Another World,25.99,20.79,20.01,MUSIC
 7210712399946,40369465622602,cd-hunter-james-six-with-love-cd,"With Love,",27.99,22.39,20.01,MUSIC
 7210712072266,40369465491530,cd-dream-theater-lost-not-forgotten-archives-majesty-demos-1985-1986-cd,Lost Not Forgotten Archives: Majesty Demos (1985-1986),25.99,20.79,20.01,MUSIC
@@ -23968,7 +23947,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7205499600970,40366048051274,vinyl-jamiroquai-high-times-singles-1992-2006-vinyl-2lp,High Times: Singles 1992-2006 (Vinyl),87.99,70.39,20.0,MUSIC
 7205499207754,40366047592522,vinyl-yo-la-tengo-this-stupid-world-blue-vinyl-2lp,This Stupid World (Blue Vinyl),51.99,41.59,20.0,MUSIC
 7205498978378,40366047428682,vinyl-jepsen-carly-rae-loneliest-time-the-vinyl-lp,"Loneliest Time, The (Vinyl)",54.99,43.99,20.0,MUSIC
-7205498847306,40366047199306,vinyl-faithfull-marianne-vagabond-ways-vinyl-lp,Vagabond Ways (Vinyl),19.99,15.99,20.01,MUSIC
 7205499109450,40366047526986,vinyl-sultana-tash-mtv-unplugged-pink-swirl-vinyl-2lp,MTV Unplugged (Pink Swirl Vinyl),76.99,61.59,20.0,MUSIC
 7205498355786,40366046707786,vinyl-human-league-the-virgin-years-coloured-vinyl-5lp,Virgin Years (Coloured Vinyl),159.99,159.99,0,MUSIC
 7205498224714,40366046543946,vinyl-cake-fashion-nugget-vinyl-lp,Fashion Nugget (Vinyl),64.99,51.99,20.0,MUSIC
@@ -24014,7 +23992,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7205424234570,40366011973706,vinyl-melvins-houdini-live-hot-pink-vinyl-2lp-colour-may-vary,Houdini Live (Hot Pink Vinyl),47.99,47.99,0,MUSIC
 7205424037962,40366011875402,vinyl-motorhead-kiss-of-death-vinyl-lp,Kiss Of Death (Vinyl),56.99,45.59,20.0,MUSIC
 7205423906890,40366011744330,vinyl-yes-mirror-to-the-sky-vinyl-2lp,Mirror To The Sky (Vinyl),47.99,47.99,0,MUSIC
-7205423710282,40366011711562,vinyl-roxy-music-roxy-music-vinyl-lp,Roxy Music (Vinyl),31.99,31.99,0,MUSIC
 7205423513674,40366011547722,vinyl-madonna-finally-enough-love-red-vinyl-2lp,Finally Enough Love (Red Vinyl),76.99,61.59,20.0,MUSIC
 7205423087690,40366011154506,vinyl-kinks-the-kink-kontroversy-the-vinyl-lp,"Kink Kontroversy, The (Vinyl)",46.99,37.59,20.0,MUSIC
 7205423054922,40366011121738,vinyl-kinks-the-something-else-by-the-kinks-vinyl-lp,Something Else By The Kinks (Vinyl),44.99,35.99,20.0,MUSIC
@@ -24029,7 +24006,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7205422039114,40366010105930,vinyl-pink-floyd-transmissions-vinyl-2lp,Transmissions (Vinyl),70.99,56.79,20.0,MUSIC
 7205421875274,40366009974858,vinyl-fleet-foxes-a-very-lonely-solstice-clear-vinyl-lp,A Very Lonely Solstice (Clear Vinyl),49.99,39.99,20.0,MUSIC
 7205421678666,40366009745482,vinyl-hockey-dad-boronia-blue-vinyl-lp,Boronia (Blue Vinyl),52.99,42.39,20.0,MUSIC
-7205421580362,40366009647178,vinyl-shauf-andy-norm-vinyl-lp,Norm (Vinyl),23.99,23.99,0,MUSIC
 7205421514826,40366009581642,vinyl-bay-james-leap-jb-hi-fi-exclusive-pink-vinyl-lp,leap (JB Hi-Fi Exclusive Pink Vinyl),31.99,31.99,0,MUSIC
 7205421482058,40366009548874,vinyl-distant-heritage-vinyl-lp,Heritage (Vinyl),31.99,31.99,0,MUSIC
 7205421154378,40366009352266,vinyl-elemeno-p-love-disrespect-vinyl-lp,Love & Disrespect (Vinyl),54.99,43.99,20.0,MUSIC
@@ -24476,3 +24452,27 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7204859576394,40365707100234,vinyl-rage-against-the-machine-evil-empire-vinyl-lp,Evil Empire (Vinyl),49.99,39.99,20.0,MUSIC
 7204859084874,40365706969162,cd-holiday-billie-60-essential-recordings-3cd,60 Essential Recordings,17.99,14.39,20.01,MUSIC
 7204858888266,40365706805322,patrick-melrose-2018-dvd,Patrick Melrose,35.98,28.78,20.01,MOVIES
+7204858855498,40365706772554,cd-disturbed-evolution-deluxe-edition-cd,Evolution (Deluxe Edition),24.99,19.99,20.01,MUSIC
+7204858658890,40365706575946,cd-uncle-acid-the-deadbeats-wasteland-cd,Wasteland,29.99,23.99,20.01,MUSIC
+7204858527818,40365706477642,westside-series-4-2018-2-dvd,Westside - Series 4,45.98,36.78,20.01,MOVIES
+7204327489610,40365326958666,bose-bass-module-700-black,Bose Bass Module 700 (Black),1348.0,1024.0,24.04,AUDIO
+7204857970762,40365706346570,cd-thee-oh-sees-smote-reverser-cd,Smote Reverser,29.99,23.99,20.01,MUSIC
+7204858003530,40365706379338,hp-31-original-ink-bottle-70ml-yellow,HP 31 Original Ink Bottle 70ml (Yellow),26.0,26.0,0,IT
+7204857839690,40365706248266,hp-31-original-ink-bottle-70ml-cyan,HP 31 Original Ink Bottle 70ml (Cyan),26.0,26.0,0,IT
+7204857806922,40365706215498,hp-31-original-ink-bottle-70ml-magenta,HP 31 Original Ink Bottle 70ml (Magenta),26.0,26.0,0,IT
+7204856660042,40365705953354,sonos-wall-mount-for-beam-soundbar-black,Sonos Wall Mount for Beam Soundbar (Black),99.0,99.0,0,AUDIO
+7204856561738,40365705887818,cd-montgomery-roy-suffuse-cd,Suffuse,29.99,23.99,20.01,MUSIC
+7204855840842,40365705592906,canon-pixma-ink-cartridge-cli-681xl-cyan,Canon Pixma Ink Cartridge CLI-681XL (Cyan),39.0,39.0,0,IT
+7204854923338,40365705134154,jurassic-world-fallen-kingdom-2018-4k-ultra-hd,Jurassic World: Fallen Kingdom,41.98,33.58,20.01,MOVIES
+7204854595658,40365704839242,vinyl-davis-miles-john-coltrane-final-tour-the-copenhagen-march-24-1960-vinyl-lp,"Final Tour, The: Copenhagen March 24, 1960 (Vinyl)",69.99,55.99,20.0,MUSIC
+7204854530122,40365704773706,cd-mraz-jason-know-cd,Know,26.99,21.59,20.01,MUSIC
+7204854333514,40365704642634,cd-kyle-light-of-mine-cd,Light Of Mine,25.99,20.79,20.01,MUSIC
+7204335124554,40365334036554,3rd-earth-eva-carry-case-for-nintendo-switch-and-switch-lite,3rd Earth EVA Carry Case for Nintendo Switch and Switch Lite,11.0,11.0,0,GAMES HARDWARE
+7204853645386,40365704282186,jurassic-park-3-2001-4k-ultra-hd,Jurassic Park 3,31.98,25.58,20.01,MOVIES
+7204853514314,40365704151114,cd-beths-the-future-me-hates-me-cd,Future Me Hates Me,26.99,21.59,20.01,MUSIC
+7204853088330,40365703823434,cd-bonamassa-joe-redemption-cd,Redemption,19.99,15.99,20.01,MUSIC
+7204851908682,40365703135306,cd-kilgour-hamish-the-clean-finklestein-cd,Finklestein,27.99,22.39,20.01,MUSIC
+7204851679306,40365702971466,vinyl-wings-paul-mccartney-beatles-wings-greatest-vinyl-lp,Wings greatest (Vinyl),69.99,55.99,20.0,MUSIC
+7204851449930,40365702742090,cd-violation-wound-with-man-in-charge-cd,With Man In Charge,20.99,16.79,20.01,MUSIC
+7204851351626,40365702676554,cd-santana-ultimate-santana-gold-series-cd,Ultimate Santana (Gold Series),15.99,12.79,20.01,MUSIC
+7204851318858,40365702643786,cd-dion-celine-color-of-my-love-the-gold-series-cd,"Color Of My Love, The (Gold Series)",15.99,12.79,20.01,MUSIC
