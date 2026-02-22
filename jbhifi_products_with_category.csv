@@ -1,4 +1,12 @@
 Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Category
+7334997065929,40426383081673,xbox-series-x-cricket-26-official-game-of-the-ashes,Cricket 26 - Official Game of the Ashes,95.0,95.0,0,GAMES SOFTWARE
+7332354392265,40421448188105,garmin-5-drive-53-live-traffic-car-gps,"Garmin 5"" Drive™ 53 & Live Traffic Car GPS",297.0,297.0,0,CAMERAS
+7206713655370,40366987575370,tucano-velluto-13-14-laptop-sleeve-green,"Tucano Velluto 13-14"" Laptop Sleeve (Green)",57.0,57.0,0,ACCESSORIES
+7333498781897,40424793604297,incase-slim-case-for-samsung-galaxy-s25-ultra-black,Incase Slim Case for Samsung Galaxy S25 Ultra (Black),20.0,17.0,15.0,ACCESSORIES
+7223121838154,40379381612618,hp-victus-16-1-fhd-144hz-gaming-laptop-intel-core-i7-geforce-rtx-4070ex-display-repack,"HP Victus 16.1"" FHD 144Hz Gaming Laptop (Intel Core  i7/GeForce RTX 4070)[Ex-Display/Repack]",1797.0,1797.0,0,COMPUTERS
+7333965594825,40425290825929,powera-advantage-plus-wired-controller-for-xbox-series-x-s-with-hall-effect-modules-night-blossom,PowerA Advantage Plus Wired Controller for Xbox Series X/S with Hall Effect Modules (Night Blossom),67.0,67.0,0,GAMES HARDWARE
+7206706937930,40366982430794,playmax-white-cat-ear-headphones,Playmax White Cat Ear Headphones,27.0,27.0,0,GAMES HARDWARE
+7204376805450,40365373161546,gopro-max-lens-mod-hero9-10-11-12,GoPro Max Lens Mod (HERO9/10/11/12),147.0,147.0,0,CAMERAS
 7216905125962,40373429239882,nintendo-switch-pikmin-4,Pikmin 4,99.0,99.0,0,GAMES SOFTWARE
 7335766065353,40427187798217,trading-card-game-pokemon-tcg-mega-evolutions-perfect-order-booster-bundle,Pokemon TCG - Mega Evolutions: Perfect Order Booster Bundle,57.0,57.0,0,GAMES SOFTWARE
 7332507058377,40421605769417,xbox-series-x-assassins-creed-shadows,Assassin's Creed Shadows,68.0,68.0,0,GAMES SOFTWARE
@@ -8,7 +16,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7333107499209,40424395735241,oppo-a40-4g-128gb-starlight-white,OPPO A40 4G 128GB (Starlight White),198.0,198.0,0,COMMUNICATIONS
 7332142743753,40421187354825,playstation-5-cyberpunk-2077-ultimate-edition,Cyberpunk 2077: Ultimate Edition,99.0,99.0,0,GAMES SOFTWARE
 7204469178442,40365450887242,remington-power-x6-hair-clipper,Remington Power X6 Hair Clipper,77.0,77.0,0,SMALL APPLIANCES
-7332343283913,40421437079753,samsung-galaxy-a35-5g-128gb-awesome-navy,Samsung Galaxy A35 5G 128GB (Awesome Navy),557.0,557.0,0,COMMUNICATIONS
 7336029487305,40427465081033,cd-queen-a-night-at-the-opera-blu-ray-audio-blu-ray-audio,A Night At The Opera (Blu-ray Audio),35.99,35.99,0,MUSIC
 7332370481353,40421464244425,3sixt-neowallet-case-for-samsung-galaxy-a55-5g-black,3sixT NeoWallet Case for Samsung Galaxy A55 5G (Black),30.0,30.0,0,ACCESSORIES
 7332514136265,40421612912841,lenovo-ideapad-slim-1i-15-6-hd-laptop-intel-celeron-512gbex-display-repack,"Lenovo IdeaPad Slim 1i 15.6"" HD Laptop (Intel Celeron/512GB)[Ex-Display/Repack]",527.0,527.0,0,COMPUTERS
@@ -36,9 +43,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336026538185,40427461771465,vinyl-foo-fighters-your-favorite-toy-vinyl-lp,Your Favorite Toy (Vinyl),104.99,104.99,0,MUSIC
 7333657477321,40424957051081,eufy-omni-c20-robot-vacuum,Eufy Omni C20 Robot Vacuum,847.0,847.0,0,SMALL APPLIANCES
 7204340858954,40365339443274,elgato-stream-deck-mini,Elgato Stream Deck Mini,119.0,119.0,0,GAMES HARDWARE
-7204344561738,40365342949450,playstation-4-horizon-zero-dawn-complete-edition-playstation-hits,Horizon Zero Dawn Complete Edition (PlayStation Hits),18.0,18.0,0,GAMES SOFTWARE
 7333993119945,40425320349897,dreame-l40s-pro-ultra-robot-vacuum-and-mop-with-auto-empty-and-mop-self-cleaning,Dreame L40s Pro Ultra Robot Vacuum and Mop with Auto-Empty and Mop Self-Cleaning,1897.0,1897.0,0,SMALL APPLIANCES
-7332994810057,40422104432841,hp-430-programmable-bluetooth-wireless-keypad,HP 430 Programmable Bluetooth Wireless Keypad,57.0,57.0,0,IT
 7332092051657,40421136662729,eufy-baby-e210-spaceview-pro-baby-monitor,eufy Baby E210 Spaceview Pro Baby Monitor,327.0,327.0,0,SMART HOME
 7204411146314,40365406421066,arlo-pro-5-2k-spotlight-wire-free-security-camera,Arlo Pro 5 2K Spotlight Wire-free Security Camera,197.0,197.0,0,SMART HOME
 7333622317257,40424919105737,samsung-galaxy-a16-4g-128gb-black,Samsung Galaxy A16 4G 128GB (Black),297.0,297.0,0,COMMUNICATIONS
@@ -169,7 +174,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336021754057,40427456954569,nintendo-switch-formula-legends-legacy-edition,Formula Legends Legacy Edition,69.0,69.0,0,GAMES SOFTWARE
 7336021885129,40427457085641,playstation-5-formula-legends-legacy-edition,Formula Legends Legacy Edition,69.0,69.0,0,GAMES SOFTWARE
 7336021819593,40427457020105,xbox-series-x-formula-legends-legacy-edition,Formula Legends Legacy Edition,69.0,69.0,0,GAMES SOFTWARE
-7334997065929,40426383081673,xbox-series-x-cricket-26-official-game-of-the-ashes,Cricket 26 - Official Game of the Ashes,95.0,95.0,0,GAMES SOFTWARE
 7335743094985,40427164729545,samsung-galaxy-s24-ultra-5g-256gb-titanium-grey-refurbished-very-good,Samsung Galaxy S24 Ultra 5G 256GB (Titanium Grey) [~Refurbished: Very Good],1259.0,1259.0,0,COMMUNICATIONS
 7335758823625,40427180523721,playstation-5-atomic-heart-ultimate-edition,Atomic Heart Ultimate Edition,69.0,69.0,0,GAMES SOFTWARE
 7335759053001,40427180753097,playstation-5-king-of-tokyo,King of Tokyo,69.0,69.0,0,GAMES SOFTWARE
@@ -193,8 +197,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334996934857,40426382917833,playstation-4-cricket-26-official-game-of-the-ashes,Cricket 26 - Official Game of the Ashes,95.0,95.0,0,GAMES SOFTWARE
 7334997000393,40426383016137,playstation-5-cricket-26-official-game-of-the-ashes,Cricket 26 - Official Game of the Ashes,95.0,95.0,0,GAMES SOFTWARE
 7335773569225,40427195465929,hyperx-flipcast-microphone,HyperX Flipcast Microphone,459.0,459.0,0,GAMES HARDWARE
-7332008362185,40421052743881,crosley-voyager-bluetooth-turntable-floral,Crosley Voyager Bluetooth Turntable (Floral),258.0,258.0,0,AUDIO
-7333516673225,40424811757769,roborock-s8-max-v-ultra-robotic-vacuum-cleaner,Roborock S8 Max V Ultra Robotic Vacuum Cleaner,2297.0,1697.0,26.12,SMALL APPLIANCES
 7206430244938,40366862434378,powerwave-asus-rog-ally-tempered-glass-screen-protector,Powerwave ASUS ROG Ally Tempered Glass Screen Protector,17.0,17.0,0,GAMES HARDWARE
 7336018182345,40427453284553,blink-outdoor-2k-wireless-security-camera-black-3-pack,Blink Outdoor 2K+ Wireless Security Camera (Black) [3 Pack],309.0,309.0,0,SMART HOME
 7336018346185,40427453448393,blink-outdoor-2k-wireless-security-camera-black-add-on,Blink Outdoor 2K+ Wireless Security Camera (Black) [Add-on],119.0,119.0,0,SMART HOME
@@ -208,7 +210,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7211074617418,40369722654794,vinyl-kaytramine-kaytramine-transparent-blue-vinyl-lp,Kaytramine (Transparent Blue Vinyl),80.99,80.99,0,MUSIC
 7328213205066,40417597030474,vinyl-fantastic-negrito-please-dont-be-dead-vinyl-lp,Please Don't Be Dead (Vinyl),55.99,55.99,0,MUSIC
 7328219267146,40417602633802,cd-fantastic-negrito-please-dont-be-dead-cd,Please Don't Be Dead,30.99,30.99,0,MUSIC
-7333488492745,40424783413449,homedics-shiatsu-air-deluxe-massager-with-heat,Homedics Shiatsu Air Deluxe Massager with Heat,197.0,197.0,0,FITNESS
 7336017035465,40427452137673,vinyl-borderline-chrysalis-ep-vinyl-lp,Chrysalis EP (Vinyl),60.99,60.99,0,MUSIC
 7336016937161,40427452039369,vinyl-aldean-jason-songs-about-us-vinyl-2lp,Songs About Us (Vinyl),92.99,92.99,0,MUSIC
 7336016904393,40427452006601,cd-aldean-jason-songs-about-us-cd,Songs About Us,34.99,34.99,0,MUSIC
@@ -222,7 +223,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336015495369,40427450597577,cd-band-of-heathens-the-country-sides-cd,Country Sides,35.99,35.99,0,MUSIC
 7336015462601,40427450564809,vinyl-holland-dave-norma-winstone-vital-spark-music-of-kenny-wheeler-hyacinth-coloured-vinyl-lp-colour-may-vary,Vital Spark (Music of Kenny Wheeler) (Hyacinth Coloured Vinyl),86.99,86.99,0,MUSIC
 7336015429833,40427450532041,cd-holland-dave-norma-winstone-vital-spark-music-of-kenny-wheeler-cd,Vital Spark (Music of Kenny Wheeler),35.99,35.99,0,MUSIC
-7334903152841,40426277765321,samsung-55-q70d-qled-4k-smart-tv-2024-1,"Samsung 55"" Q70D QLED 4K Smart TV [2024]",1097.0,1097.0,0,VISUAL
 7336015200457,40427450302665,vinyl-hillyard-david-the-rockstead-home-for-dinner-red-vinyl-2lp-colour-may-vary,Home For Dinner (Red Vinyl),101.99,101.99,0,MUSIC
 7336015134921,40427450237129,cd-hillyard-david-the-rockstead-home-for-dinner-cd,Home For Dinner,30.99,30.99,0,MUSIC
 7256584159306,40402926731338,the-last-samurai-2003-blu-ray,The Last Samurai,20.98,20.98,0,MOVIES
@@ -272,12 +272,10 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336012611785,40427447713993,kiss-kiss-bang-bang-2005-blu-ray,Kiss Kiss Bang Bang,20.98,20.98,0,MOVIES
 7255939088458,40402640109642,prisoners-2013-blu-ray,Prisoners,20.98,20.98,0,MOVIES
 7332362453193,40421456216265,lenovo-ideapad-flex-3i-15-6-fhd-chromebook-intel-celeron-128gbex-display-repack,Lenovo IdeaPad Flex 3i 15.6 FHD Chromebook (Intel Celeron/128GB)[Ex-Display/Repack],427.0,427.0,0,COMPUTERS
-7332077863113,40421122474185,samsung-galaxy-tab-a9-11-wi-fi-128gb-grey,"Samsung Galaxy Tab A9+ 11"" Wi-Fi 128GB (Grey)",447.0,318.0,28.86,COMPUTERS
 7333226971337,40424515666121,lenovo-ideapad-slim-5-14-wuxga-laptop-snapdragon-x-plus512gb,"Lenovo IdeaPad Slim 5 14"" WUXGA Laptop (Snapdragon X Plus)[512GB]",1237.0,1237.0,0,COMPUTERS
 7332885102793,40421986599113,msi-cyborg-15-a13v-15-6-fhd-144hz-gaming-laptop-intel-core-i7geforce-rtx-4060,"MSI Cyborg 15 A13V 15.6"" FHD 144Hz Gaming Laptop (Intel Core i7)[GeForce RTX 4060]",2399.0,2298.0,4.21,COMPUTERS
 7224823218250,40380896084042,samsung-galaxy-tab-s9-11-wi-fi-128gb-graphite,"Samsung Galaxy Tab S9 11"" Wi-Fi 128GB (Graphite)",867.0,797.0,8.07,COMPUTERS
 7333316133065,40424606138569,hp-laptop-15-fd1180tu-15-6-fhd-laptop-intel-core-ultra-5-512gbex-display-repack,"HP Laptop 15-fd1180TU 15.6"" FHD Laptop (Intel Core Ultra 5/512GB)[Ex-Display/Repack]",1157.0,1157.0,0,COMPUTERS
-7332077961417,40421122572489,samsung-galaxy-tab-a9-11-wi-fi-64gb-grey,"Samsung Galaxy Tab A9+ 11"" Wi-Fi 64GB (Grey)",397.0,297.0,25.19,COMPUTERS
 7332517478601,40421616255177,hp-omnibook-x-14-fe0000qu-14-2-2k-laptop-copilot-pc-1tbex-display-repack,"HP OmniBook X 14-fe0000QU 14"" 2.2K Laptop (Copilot+ PC/1TB)[Ex-Display/Repack]",1677.0,1677.0,0,COMPUTERS
 7333656035529,40424955510985,tcl-85-c6k-4k-uhd-qd-mini-led-google-tv-2025,"TCL 85"" C6K 4K UHD QD-Mini LED Google TV [2025]",3197.0,3197.0,0,VISUAL
 7332517806281,40421616582857,lenovo-yoga-slim-7x-14-5-3k-oled-laptop-copilot-pc-1tbex-display-repack,"Lenovo Yoga Slim 7x 14.5"" 3K OLED Laptop (Copilot+ PC/1TB)[Ex-Display/Repack]",1837.0,1837.0,0,COMPUTERS
@@ -365,7 +363,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334704054473,40426068771017,google-pixel-9-pro-xl-5g-128gb-obsidian-refurbished-excellent,Google Pixel 9 Pro XL 5G 128GB (Obsidian) [~Refurbished: Excellent],1399.0,1399.0,0,COMMUNICATIONS
 7334440304841,40425783951561,apple-iphone-14-pro-256gb-gold-refurbished-very-good,Apple iPhone 14 Pro 256GB (Gold) [~Refurbished: Very Good],1139.0,1139.0,0,COMMUNICATIONS
 7334440173769,40425783820489,apple-iphone-14-pro-128gb-deep-purple-refurbished-excellent,Apple iPhone 14 Pro 128GB (Deep Purple) [~Refurbished: Excellent],1089.0,1089.0,0,COMMUNICATIONS
-7204389093450,40365384990794,elgato-hd60-x-external-capture-card,Elgato HD60 X External Capture Card,277.0,277.0,0,GAMES HARDWARE
 7334440239305,40425783918793,apple-iphone-14-pro-128gb-gold-refurbished-excellent,Apple iPhone 14 Pro 128GB (Gold) [~Refurbished: Excellent],1089.0,1089.0,0,COMMUNICATIONS
 7334440141001,40425783787721,apple-iphone-14-pro-128gb-deep-purple-refurbished-very-good,Apple iPhone 14 Pro 128GB (Deep Purple) [~Refurbished: Very Good],1049.0,1049.0,0,COMMUNICATIONS
 7334438797513,40425782444233,apple-iphone-12-128gb-white-refurbished-very-good,Apple iPhone 12 128GB (White) [~Refurbished: Very Good],599.0,599.0,0,COMMUNICATIONS
@@ -963,8 +960,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7204810784842,40365681246282,turntables-vinyl-care-outer-sleeves-12-vinyl-care-protective-outer-sleeves-100-x-70-micron-100-pack-vinyl-accessories,Vinyl Care Protective Outer Sleeves 100 x 70 Micron 100 Pack,35.99,35.99,0,MUSIC
 7204717559882,40365639204938,turntables-vinyl-care-anti-static-inner-vinyl-care-anti-static-inner-sleeves-100-x-50-micron-12-vinyl-accessories,Vinyl Care Anti-Static Inner Sleeves 100 x 50 Micron 12'',53.99,53.99,0,MUSIC
 7335901069513,40427326046409,apple-iphone-16-pro-256gb-natural-titanium-refurbished-very-good,Apple iPhone 16 Pro 256GB (Natural Titanium) [~Refurbished: Very Good],1609.0,1609.0,0,COMMUNICATIONS
-7335903559881,40427328536777,apple-iphone-16-pro-max-256gb-black-titanium-refurbished-very-good,Apple iPhone 16 Pro Max 256GB (Black Titanium) [~Refurbished: Very Good],1699.0,1699.0,0,COMMUNICATIONS
-7335903527113,40427328504009,apple-iphone-16-pro-max-256gb-black-titanium-refurbished-excellent,Apple iPhone 16 Pro Max 256GB (Black Titanium) [~Refurbished: Excellent],1799.0,1799.0,0,COMMUNICATIONS
 7335901036745,40427326013641,apple-iphone-16-pro-256gb-natural-titanium-refurbished-excellent,Apple iPhone 16 Pro 256GB (Natural Titanium) [~Refurbished: Excellent],1699.0,1699.0,0,COMMUNICATIONS
 7335899267273,40427324244169,apple-iphone-16-pro-256gb-desert-titanium-refurbished-excellent,Apple iPhone 16 Pro 256GB (Desert Titanium) [~Refurbished: Excellent],1699.0,1699.0,0,COMMUNICATIONS
 7335904215241,40427329192137,apple-iphone-16-pro-max-256gb-desert-titanium-refurbished-very-good,Apple iPhone 16 Pro Max 256GB (Desert Titanium) [~Refurbished: Very Good],1699.0,1699.0,0,COMMUNICATIONS
@@ -974,7 +969,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335899332809,40427324309705,apple-iphone-16-pro-256gb-black-titanium-refurbished-very-good,Apple iPhone 16 Pro 256GB (Black Titanium) [~Refurbished: Very Good],1629.0,1629.0,0,COMMUNICATIONS
 7335898546377,40427323523273,apple-iphone-15-pro-max-256gb-white-titanium-refurbished-excellent,Apple iPhone 15 Pro Max 256GB (White Titanium) [~Refurbished: Excellent],1429.0,1429.0,0,COMMUNICATIONS
 7335895466185,40427320443081,apple-iphone-15-pro-256gb-blue-titanium-refurbished-very-good,Apple iPhone 15 Pro 256GB (Blue Titanium) [~Refurbished: Very Good],1249.0,1249.0,0,COMMUNICATIONS
-7335897989321,40427322966217,apple-iphone-15-pro-max-256gb-blue-titanium-refurbished-excellent,Apple iPhone 15 Pro Max 256GB (Blue Titanium) [~Refurbished: Excellent],1429.0,1429.0,0,COMMUNICATIONS
 7335897891017,40427322867913,apple-iphone-15-pro-max-256gb-natural-titanium-refurbished-excellent,Apple iPhone 15 Pro Max 256GB (Natural Titanium) [~Refurbished: Excellent],1429.0,1429.0,0,COMMUNICATIONS
 7335895367881,40427320344777,apple-iphone-15-pro-256gb-blue-titanium-refurbished-excellent,Apple iPhone 15 Pro 256GB (Blue Titanium) [~Refurbished: Excellent],1279.0,1279.0,0,COMMUNICATIONS
 7335896088777,40427321065673,apple-iphone-15-pro-256gb-natural-titanium-refurbished-excellent,Apple iPhone 15 Pro 256GB (Natural Titanium) [~Refurbished: Excellent],1279.0,1279.0,0,COMMUNICATIONS
@@ -1005,7 +999,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335919255753,40427344527561,xbox-series-x-wwe-2k26,WWE 2K26,119.0,119.0,0,GAMES SOFTWARE
 7335919222985,40427344494793,nintendo-switch-2-wwe-2k26,WWE 2K26,109.0,109.0,0,GAMES SOFTWARE
 7335919190217,40427344462025,playstation-5-wwe-2k26,WWE 2K26,119.0,119.0,0,GAMES SOFTWARE
-7332231839945,40421325045961,samsung-smart-view-wallet-case-for-galaxy-s24-black,Samsung Smart View Wallet Case for Galaxy S24 (Black),67.0,67.0,0,ACCESSORIES
 7204457054282,40365441351754,cd-dallas-david-frontline-hood-country-club-cd,Hood Country Club,23.99,23.99,0,MUSIC
 7333407293641,40424700870857,hp-14a-nf0005tu-14-hd-touchscreen-chromebook-intel-n10064gb,"HP 14a-nf0005TU 14"" HD Touchscreen Chromebook (Intel N100)[64GB]",518.0,518.0,0,COMPUTERS
 7256114036810,40402768134218,nintendo-amiibo-urbosa-the-legend-of-zelda-breath-of-the-wild,Nintendo amiibo - Urbosa (The Legend of Zelda: Breath of the Wild),29.0,29.0,0,GAMES HARDWARE
@@ -1331,7 +1324,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335805288649,40427227939017,playstation-5-life-is-strange-reunion,Life is Strange: Reunion,89.0,89.0,0,GAMES SOFTWARE
 7335027900617,40426414145737,soundcore-liberty-5-noise-cancelling-earbuds-with-dolby-audio-white,soundcore Liberty 5 Noise-Cancelling Earbuds with Dolby Audio (White),185.0,169.0,8.65,AUDIO
 7335805223113,40427227873481,logitech-g-pro-x2-superstrike-lightspeed-gaming-mouse,Logitech G PRO X2 SUPERSTRIKE LIGHTSPEED Gaming Mouse,349.0,349.0,0,GAMES HARDWARE
-7331858415817,40420902830281,vinyl-infinity-ritual-ep-ii-vinyl-lp,EP II (vinyl),24.99,24.99,0,MUSIC
 7335771472073,40427193204937,vinyl-thackray-emma-jean-weirdo-vinyl-2lp,Weirdo (Vinyl),111.99,111.99,0,MUSIC
 7335771439305,40427193172169,cd-thackray-emma-jean-weirdo-cd,Weirdo,35.99,35.99,0,MUSIC
 7335709835465,40427129176265,apple-smart-cover-for-ipad-8th-gen-pink-citrus,Apple Smart Cover for iPad (8th Gen) [Pink Citrus],87.0,87.0,0,ACCESSORIES
@@ -1524,7 +1516,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334953025737,40426333733065,pc-game-world-of-warcraft-midnight-collectors-edition,World of Warcraft: Midnight Collector’s Edition,219.0,219.0,0,GAMES SOFTWARE
 7335757250761,40427178950857,vinyl-flea-red-hot-chili-peppers-honora-vinyl-2lp,Honora (Vinyl),26.99,26.99,0,MUSIC
 7335757217993,40427178918089,cd-flea-red-hot-chili-peppers-honora-cd,Honora,26.99,26.99,0,MUSIC
-7204398989386,40365394591818,steelseries-rival-3-gaming-mouse,SteelSeries Rival 3 Gaming Mouse,67.0,67.0,0,GAMES HARDWARE
 7335587348681,40427001741513,roborock-qrevo-c-pro-robotic-vacuum-cleaner,Roborock Qrevo C Pro Robotic Vacuum Cleaner,1799.0,1799.0,0,SMALL APPLIANCES
 7334824968393,40426198171849,lenovo-legion-go-2-ryzen-z2-extreme-handheld-gaming-pc-shadow-black-1tb,Lenovo Legion Go 2 Ryzen Z2 Extreme Handheld Gaming PC (Shadow Black) (1TB),2499.0,2499.0,0,GAMES HARDWARE
 7335756562633,40427178262729,vinyl-tate-asa-replica-vinyl-12-vinyl,Replica (Vinyl),41.99,41.99,0,MUSIC
@@ -2240,7 +2231,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334703628489,40426068345033,google-pixel-8-5g-128gb-obsidian-refurbished-excellent,Google Pixel 8 5G 128GB (Obsidian) [~Refurbished: Excellent],749.0,749.0,0,COMMUNICATIONS
 7334703595721,40426068312265,google-pixel-8-5g-128gb-rose-refurbished-excellent,Google Pixel 8 5G 128GB (Rose) [~Refurbished: Excellent],749.0,749.0,0,COMMUNICATIONS
 7335554089161,40426967695561,huntkey-8-outlet-surge-protected-powerboard-with-4-usb-charging-ports,Huntkey 8 Outlet Surge Protected Powerboard with 4 USB Charging Ports,59.99,59.99,0,ACCESSORIES
-7334457344201,40425803645129,pac-man-cx-40-wireless-joystick-pac-man,Pac-Man CX-40+ Wireless Joystick (Pac-Man),67.0,67.0,0,GAMES HARDWARE
 7335554416841,40426968023241,cd-prince-dirty-mind-cd,Dirty Mind,14.99,14.99,0,MUSIC
 7334339772617,40425672245449,samsung-galaxy-z-fold7-5g-1tb-blue-shadow,Samsung Galaxy Z Fold7 5G 1TB (Blue Shadow),3929.0,3929.0,0,COMMUNICATIONS
 7335553630409,40426967171273,vinyl-joyce-manor-cody-vinyl-lp,Cody (Vinyl),44.99,44.99,0,MUSIC
@@ -4680,7 +4670,6 @@ Cleaner (Terra Red)",648.0,648.0,0,SMALL APPLIANCES
 7334808191177,40426180640969,jupio-canon-lp-e6n-7-2v-1700mah-battery,Jupio Canon LP-E6N 7.2V 1700mAH Battery,84.0,84.0,0,CAMERAS
 7334921732297,40426300866761,yu-gi-oh-trading-card-game-yu-gi-oh-tcg-burst-protocol-3-pack-tuckbox,Yu-Gi-Oh! TCG: Burst Protocol 3-Pack Tuckbox,21.0,21.0,0,GAMES SOFTWARE
 7334918586569,40426297721033,vinyl-head-like-a-hole-hlah-double-your-strength-improve-your-health-and-lengthen-your-life-jb-exclusive-white-vinyl-2lp,"Double Your Strength, Improve Your Health and Lengthen Your Life (JB Exclusive White Vinyl)",67.99,67.99,0,MUSIC
-7204497227850,40365476347978,popsockets-popwallet-swappable-popgrip-black,Popsockets Popwallet+ Swappable PopGrip (Black),37.0,37.0,0,ACCESSORIES
 7331806871753,40420851286217,popsockets-magsafe-popwallet-white,Popsockets Magsafe PopWallet+ (White),71.99,71.99,0,ACCESSORIES
 7333802770633,40425122988233,blade-combo-pack-for-ps5-dragon-ball-z-enemies,Blade Combo Pack for PS5 (Dragon Ball Z - Enemies),49.0,49.0,0,GAMES HARDWARE
 7334921502921,40426300637385,cd-aerosmith-yungblud-one-more-time-cd,One More Time,27.99,27.99,0,MUSIC
@@ -8375,7 +8364,6 @@ Cleaner (Terra Red)",648.0,648.0,0,SMALL APPLIANCES
 7334057181385,40425387163849,nintendo-switch-another-crabs-treasure,Another Crab's Treasure,79.0,79.0,0,GAMES SOFTWARE
 7334057148617,40425387131081,playstation-5-another-crabs-treasure,Another Crab's Treasure,79.0,79.0,0,GAMES SOFTWARE
 7334057050313,40425387032777,playstation-5-space-adventure-cobra-the-awakening,Space Adventure Cobra: The Awakening,55.0,48.0,12.73,GAMES SOFTWARE
-7334056919241,40425386901705,xbox-series-x-the-precinct-limited-edition,The Precinct Limited Edition,45.0,22.0,51.11,GAMES SOFTWARE
 7334056952009,40425386934473,nintendo-switch-oddworld-anthology-the-unlikely-heroes-collection,Oddworld Anthology: The Unlikely Heroes Collection,89.0,65.0,26.97,GAMES SOFTWARE
 7334056558793,40425386508489,vinyl-ratso-fuck-ratso-vinyl-lp,Fuck Ratso (Vinyl),54.99,54.99,0,MUSIC
 7334056526025,40425386475721,cd-ratso-fuck-ratso-cd,Fuck Ratso,29.99,29.99,0,MUSIC
@@ -8766,7 +8754,6 @@ Cleaner (Terra Red)",648.0,648.0,0,SMALL APPLIANCES
 7333953994953,40425279226057,jbl-wave-flex-2-true-wireless-in-ear-headphones-black,JBL Wave Flex 2 True Wireless In-Ear Headphones (Black),99.99,88.0,11.99,AUDIO
 7333881249993,40425204678857,eufy-e21-4k-baby-monitor,Eufy E21 4K Baby Monitor,426.0,426.0,0,SMART HOME
 7333881282761,40425204711625,eufy-e20-2k-baby-monitor,Eufy E20 2K Baby Monitor,384.0,384.0,0,SMART HOME
-7333939118281,40425263333577,samsung-galaxy-tab-s10-fe-book-cover-keyboard-slim-with-ai-key-black,Samsung Galaxy Tab S10 FE+ Book Cover Keyboard Slim with AI Key (Black),279.0,279.0,0,COMPUTERS
 7332479008969,40421577523401,lg-q-series-s70ty-400w-3-1-1-channel-soundbar-with-dolby-atmos,LG Q Series S70TY 400W 3.1.1 Channel Soundbar with Dolby Atmos,739.0,739.0,0,AUDIO
 7333954846921,40425280078025,vinyl-metallica-load-remastered-edition-box-set-6lp-15cd-4dvd,Load (Remastered Edition Box Set),639.99,639.99,0,MUSIC
 7333970477257,40425295708361,grand-tour-2024-dvd,Grand Tour,29.98,29.98,0,MOVIES
@@ -10315,32 +10302,32 @@ Cleaner (Terra Red)",648.0,648.0,0,SMALL APPLIANCES
 7333625528521,40424922611913,apple-studio-display-27-inch-5k-retina-standard-glass-tilt-adjustable-stand,Apple Studio Display 27-inch 5K Retina (Standard Glass) [Tilt-Adjustable Stand],2999.0,2999.0,0,COMPUTERS
 7333625200841,40424922284233,apple-pro-display-xdr-nano-texture-glass,Apple Pro Display XDR (Nano-texture Glass),10799.0,10799.0,0,COMPUTERS
 7333625168073,40424922251465,apple-pro-display-xdr-standard-glass,Apple Pro Display XDR (Standard Glass),9599.0,9599.0,0,COMPUTERS
-7333624512713,40424921596105,apple-macbook-air-13-inch-with-m4-chip-512gb-24gb-starlight,"Apple MacBook Air 13-inch with M4 Chip, 512GB/24GB (Starlight)",2759.0,2759.0,0,COMPUTERS
-7333624348873,40424921432265,apple-macbook-air-15-inch-with-m4-chip-512gb-24gb-starlight,"Apple MacBook Air 15-inch with M4 Chip, 512GB/24GB (Starlight)",3249.0,3249.0,0,COMPUTERS
-7333624152265,40424921202889,apple-macbook-air-13-inch-with-m4-chip-512gb-24gb-sky-blue,"Apple MacBook Air 13-inch with M4 Chip, 512GB/24GB (Sky Blue)",2759.0,2759.0,0,COMPUTERS
+7333624512713,40424921596105,apple-macbook-air-13-inch-with-m4-chip-512gb-24gb-starlight,"Apple MacBook Air 13-inch with M4 Chip, 512GB/24GB (Starlight)",2759.0,2438.0,11.63,COMPUTERS
+7333624348873,40424921432265,apple-macbook-air-15-inch-with-m4-chip-512gb-24gb-starlight,"Apple MacBook Air 15-inch with M4 Chip, 512GB/24GB (Starlight)",3249.0,2888.0,11.11,COMPUTERS
+7333624152265,40424921202889,apple-macbook-air-13-inch-with-m4-chip-512gb-24gb-sky-blue,"Apple MacBook Air 13-inch with M4 Chip, 512GB/24GB (Sky Blue)",2759.0,2438.0,11.63,COMPUTERS
 7333624545481,40424921628873,apple-mac-studio-with-m3-ultra-chip-28-core-cpu-1tb-ssd,"Apple Mac Studio with M3 Ultra Chip, 28-core CPU, 1TB SSD",7999.0,7999.0,0,COMPUTERS
 7333623955657,40424921039049,apple-mac-studio-with-m4-max-chip-14-core-cpu-512gb-ssd,"Apple Mac Studio with M4 Max Chip, 14-core CPU, 512GB SSD",3999.0,3999.0,0,COMPUTERS
-7333623890121,40424920973513,apple-macbook-air-15-inch-with-m4-chip-512gb-24gb-silver,"Apple MacBook Air 15-inch with M4 Chip, 512GB/24GB (Silver)",3249.0,3249.0,0,COMPUTERS
-7333623824585,40424920940745,apple-macbook-air-15-inch-with-m4-chip-256gb-16gb-sky-blue,"Apple MacBook Air 15-inch with M4 Chip, 256GB/16GB (Sky Blue)",2459.0,2459.0,0,COMPUTERS
-7333624185033,40424921268425,apple-macbook-air-15-inch-with-m4-chip-256gb-16gb-starlight,"Apple MacBook Air 15-inch with M4 Chip, 256GB/16GB (Starlight)",2459.0,2459.0,0,COMPUTERS
-7333624053961,40424921104585,apple-macbook-air-13-inch-with-m4-chip-512gb-24gb-midnight,"Apple MacBook Air 13-inch with M4 Chip, 512GB/24GB (Midnight)",2759.0,2759.0,0,COMPUTERS
-7333624250569,40424921333961,apple-macbook-air-13-inch-with-m4-chip-512gb-16gb-sky-blue,"Apple MacBook Air 13-inch with M4 Chip, 512GB/16GB (Sky Blue)",2359.0,2359.0,0,COMPUTERS
-7333623857353,40424920907977,apple-macbook-air-13-inch-with-m4-chip-512gb-24gb-silver,"Apple MacBook Air 13-inch with M4 Chip, 512GB/24GB (Silver)",2759.0,2759.0,0,COMPUTERS
-7333623791817,40424920875209,apple-macbook-air-15-inch-with-m4-chip-512gb-16gb-midnight,"Apple MacBook Air 15-inch with M4 Chip, 512GB/16GB (Midnight)",2859.0,2859.0,0,COMPUTERS
-7333624414409,40424921497801,apple-macbook-air-15-inch-with-m4-chip-256gb-16gb-silver,"Apple MacBook Air 15-inch with M4 Chip, 256GB/16GB (Silver)",2459.0,2459.0,0,COMPUTERS
-7333623988425,40424921071817,apple-macbook-air-15-inch-with-m4-chip-512gb-16gb-sky-blue,"Apple MacBook Air 15-inch with M4 Chip, 512GB/16GB (Sky Blue)",2859.0,2859.0,0,COMPUTERS
-7333624479945,40424921563337,apple-macbook-air-13-inch-with-m4-chip-256gb-16gb-silver,"Apple MacBook Air 13-inch with M4 Chip, 256GB/16GB (Silver)",1969.0,1969.0,0,COMPUTERS
-7333624447177,40424921530569,apple-macbook-air-13-inch-with-m4-chip-256gb-16gb-midnight,"Apple MacBook Air 13-inch with M4 Chip, 256GB/16GB (Midnight)",1969.0,1969.0,0,COMPUTERS
-7333624381641,40424921465033,apple-macbook-air-15-inch-with-m4-chip-512gb-24gb-sky-blue,"Apple MacBook Air 15-inch with M4 Chip, 512GB/24GB (Sky Blue)",3249.0,3249.0,0,COMPUTERS
-7333624283337,40424921399497,apple-macbook-air-15-inch-with-m4-chip-256gb-16gb-midnight,"Apple MacBook Air 15-inch with M4 Chip, 256GB/16GB (Midnight)",2459.0,2459.0,0,COMPUTERS
-7333623922889,40424921006281,apple-macbook-air-13-inch-with-m4-chip-512gb-16gb-silver,"Apple MacBook Air 13-inch with M4 Chip, 512GB/16GB (Silver)",2359.0,2359.0,0,COMPUTERS
-7333623759049,40424920842441,apple-macbook-air-15-inch-with-m4-chip-512gb-16gb-silver,"Apple MacBook Air 15-inch with M4 Chip, 512GB/16GB (Silver)",2859.0,2859.0,0,COMPUTERS
-7333623726281,40424920809673,apple-macbook-air-15-inch-with-m4-chip-512gb-16gb-starlight,"Apple MacBook Air 15-inch with M4 Chip, 512GB/16GB (Starlight)",2859.0,2859.0,0,COMPUTERS
-7333624086729,40424921170121,apple-macbook-air-13-inch-with-m4-chip-512gb-16gb-midnight,"Apple MacBook Air 13-inch with M4 Chip, 512GB/16GB (Midnight)",2359.0,2359.0,0,COMPUTERS
-7333624217801,40424921301193,apple-macbook-air-13-inch-with-m4-chip-512gb-16gb-starlight,"Apple MacBook Air 13-inch with M4 Chip, 512GB/16GB (Starlight)",2359.0,2359.0,0,COMPUTERS
-7333624119497,40424921235657,apple-macbook-air-15-inch-with-m4-chip-512gb-24gb-midnight,"Apple MacBook Air 15-inch with M4 Chip, 512GB/24GB (Midnight)",3249.0,3249.0,0,COMPUTERS
-7333624316105,40424921366729,apple-macbook-air-13-inch-with-m4-chip-256gb-16gb-starlight,"Apple MacBook Air 13-inch with M4 Chip, 256GB/16GB (Starlight)",1969.0,1969.0,0,COMPUTERS
-7333624021193,40424921137353,apple-macbook-air-13-inch-with-m4-chip-256gb-16gb-sky-blue,"Apple MacBook Air 13-inch with M4 Chip, 256GB/16GB (Sky Blue)",1969.0,1969.0,0,COMPUTERS
+7333623890121,40424920973513,apple-macbook-air-15-inch-with-m4-chip-512gb-24gb-silver,"Apple MacBook Air 15-inch with M4 Chip, 512GB/24GB (Silver)",3249.0,2888.0,11.11,COMPUTERS
+7333623824585,40424920940745,apple-macbook-air-15-inch-with-m4-chip-256gb-16gb-sky-blue,"Apple MacBook Air 15-inch with M4 Chip, 256GB/16GB (Sky Blue)",2459.0,2088.0,15.09,COMPUTERS
+7333624185033,40424921268425,apple-macbook-air-15-inch-with-m4-chip-256gb-16gb-starlight,"Apple MacBook Air 15-inch with M4 Chip, 256GB/16GB (Starlight)",2459.0,2088.0,15.09,COMPUTERS
+7333624053961,40424921104585,apple-macbook-air-13-inch-with-m4-chip-512gb-24gb-midnight,"Apple MacBook Air 13-inch with M4 Chip, 512GB/24GB (Midnight)",2759.0,2438.0,11.63,COMPUTERS
+7333624250569,40424921333961,apple-macbook-air-13-inch-with-m4-chip-512gb-16gb-sky-blue,"Apple MacBook Air 13-inch with M4 Chip, 512GB/16GB (Sky Blue)",2359.0,2038.0,13.61,COMPUTERS
+7333623857353,40424920907977,apple-macbook-air-13-inch-with-m4-chip-512gb-24gb-silver,"Apple MacBook Air 13-inch with M4 Chip, 512GB/24GB (Silver)",2759.0,2438.0,11.63,COMPUTERS
+7333623791817,40424920875209,apple-macbook-air-15-inch-with-m4-chip-512gb-16gb-midnight,"Apple MacBook Air 15-inch with M4 Chip, 512GB/16GB (Midnight)",2859.0,2488.0,12.98,COMPUTERS
+7333624414409,40424921497801,apple-macbook-air-15-inch-with-m4-chip-256gb-16gb-silver,"Apple MacBook Air 15-inch with M4 Chip, 256GB/16GB (Silver)",2459.0,2088.0,15.09,COMPUTERS
+7333623988425,40424921071817,apple-macbook-air-15-inch-with-m4-chip-512gb-16gb-sky-blue,"Apple MacBook Air 15-inch with M4 Chip, 512GB/16GB (Sky Blue)",2859.0,2488.0,12.98,COMPUTERS
+7333624479945,40424921563337,apple-macbook-air-13-inch-with-m4-chip-256gb-16gb-silver,"Apple MacBook Air 13-inch with M4 Chip, 256GB/16GB (Silver)",1969.0,1638.0,16.81,COMPUTERS
+7333624447177,40424921530569,apple-macbook-air-13-inch-with-m4-chip-256gb-16gb-midnight,"Apple MacBook Air 13-inch with M4 Chip, 256GB/16GB (Midnight)",1969.0,1638.0,16.81,COMPUTERS
+7333624381641,40424921465033,apple-macbook-air-15-inch-with-m4-chip-512gb-24gb-sky-blue,"Apple MacBook Air 15-inch with M4 Chip, 512GB/24GB (Sky Blue)",3249.0,2888.0,11.11,COMPUTERS
+7333624283337,40424921399497,apple-macbook-air-15-inch-with-m4-chip-256gb-16gb-midnight,"Apple MacBook Air 15-inch with M4 Chip, 256GB/16GB (Midnight)",2459.0,2088.0,15.09,COMPUTERS
+7333623922889,40424921006281,apple-macbook-air-13-inch-with-m4-chip-512gb-16gb-silver,"Apple MacBook Air 13-inch with M4 Chip, 512GB/16GB (Silver)",2359.0,2038.0,13.61,COMPUTERS
+7333623759049,40424920842441,apple-macbook-air-15-inch-with-m4-chip-512gb-16gb-silver,"Apple MacBook Air 15-inch with M4 Chip, 512GB/16GB (Silver)",2859.0,2488.0,12.98,COMPUTERS
+7333623726281,40424920809673,apple-macbook-air-15-inch-with-m4-chip-512gb-16gb-starlight,"Apple MacBook Air 15-inch with M4 Chip, 512GB/16GB (Starlight)",2859.0,2488.0,12.98,COMPUTERS
+7333624086729,40424921170121,apple-macbook-air-13-inch-with-m4-chip-512gb-16gb-midnight,"Apple MacBook Air 13-inch with M4 Chip, 512GB/16GB (Midnight)",2359.0,2038.0,13.61,COMPUTERS
+7333624217801,40424921301193,apple-macbook-air-13-inch-with-m4-chip-512gb-16gb-starlight,"Apple MacBook Air 13-inch with M4 Chip, 512GB/16GB (Starlight)",2359.0,2038.0,13.61,COMPUTERS
+7333624119497,40424921235657,apple-macbook-air-15-inch-with-m4-chip-512gb-24gb-midnight,"Apple MacBook Air 15-inch with M4 Chip, 512GB/24GB (Midnight)",3249.0,2888.0,11.11,COMPUTERS
+7333624316105,40424921366729,apple-macbook-air-13-inch-with-m4-chip-256gb-16gb-starlight,"Apple MacBook Air 13-inch with M4 Chip, 256GB/16GB (Starlight)",1969.0,1638.0,16.81,COMPUTERS
+7333624021193,40424921137353,apple-macbook-air-13-inch-with-m4-chip-256gb-16gb-sky-blue,"Apple MacBook Air 13-inch with M4 Chip, 256GB/16GB (Sky Blue)",1969.0,1638.0,16.81,COMPUTERS
 7194856947786,40358411632714,vinyl-strokes-the-room-on-fire-blue-vinyl-lp-colour-may-vary,Room On Fire (Blue Vinyl),72.99,72.99,0,MUSIC
 7204550934602,40365518651466,vinyl-cyrus-miley-endless-summer-vacation-vinyl-lp,Endless Summer Vacation (Vinyl),80.99,80.99,0,MUSIC
 7204319756362,40365321420874,vinyl-pink-truth-about-love-the-vinyl-lp,"Truth ABout Love, The (Vinyl)",75.99,75.99,0,MUSIC
@@ -12215,7 +12202,6 @@ Cleaner (Terra Red)",648.0,648.0,0,SMALL APPLIANCES
 7333315379401,40424605384905,cd-radiohead-ok-computer-2016-reissue-cd,OK Computer (2016 Reissue),17.99,17.99,0,MUSIC
 7333315313865,40424605319369,cd-radiohead-the-bends-2016-reissue-cd,The Bends (2016 Reissue),19.99,19.99,0,MUSIC
 7256633049162,40402942787658,cd-brent-david-forgone-conclusi-life-on-the-road-cd,Life On The Road,19.99,19.99,0,MUSIC
-7333314986185,40424604991689,cd-digitalism-mirage-cd,Mirage,10.99,10.99,0,MUSIC
 7333314625737,40424604631241,cd-williams-robbie-better-man-original-motion-picture-soundtrack-cd,Better Man: Original Motion Picture Soundtrack,26.99,26.99,0,MUSIC
 7333228576969,40424517370057,sodastream-classics-flavour-mix-440ml-ginger-beer,Sodastream Classics Flavour Mix 440ml (Ginger Beer),10.99,8.98,18.29,SMALL APPLIANCES
 7333313741001,40424603746505,vinyl-everything-is-recorded-temporary-vinyl-lp,Temporary (Vinyl),46.99,46.99,0,MUSIC
@@ -14376,7 +14362,6 @@ Cleaner (Terra Red)",648.0,648.0,0,SMALL APPLIANCES
 7332848664777,40421950128329,belkin-soundform-inspire-wireless-over-ear-headset-for-kids-lavender,Belkin SoundForm Inspire Wireless Over-Ear Headset for Kids (Lavender),52.97,52.97,0,AUDIO
 7332848533705,40421949997257,moki-nero-over-ear-headphones-black,Moki Nero Over-ear Headphones (Black),39.99,39.99,0,AUDIO
 7332848435401,40421949898953,moki-flip-on-ear-headphones-black,Moki Flip On-ear Headphones (Black),29.99,29.99,0,AUDIO
-7332848206025,40421949669577,sennheiser-hd-620s-closed-back-over-ear-headphones-black,Sennheiser HD 620S Closed Back Over-ear Headphones (Black),417.0,417.0,0,AUDIO
 7204293804106,40365310509130,turtle-beach-recon-50-gaming-headset-for-xbox,Turtle Beach Recon 50 Gaming Headset for Xbox,39.0,39.0,0,GAMES HARDWARE
 7332847714505,40421949178057,x-rocker-official-playstation-legend-2-1-audio-gaming-chair,X Rocker Official PlayStation® Legend 2.1 Audio Gaming Chair,749.0,749.0,0,GAMES HARDWARE
 7332838113481,40421939773641,vinyl-green-day-american-idiot-20-year-anniversary-red-and-black-vinyl-2lp,American Idiot (20 Year Anniversary Red and Black Vinyl),109.99,109.99,0,MUSIC
@@ -16271,7 +16256,7 @@ Cleaner (Terra Red)",648.0,648.0,0,SMALL APPLIANCES
 7332483170505,40421581750473,apple-ipad-pro-13-inch-m4-magic-keyboard-white,Apple iPad Pro 13-inch M4 Magic Keyboard (White),699.0,699.0,0,ACCESSORIES
 7332483137737,40421581717705,apple-ipad-pro-11-inch-m4-magic-keyboard-black,Apple iPad Pro 11-inch M4 Magic Keyboard (Black),599.0,599.0,0,ACCESSORIES
 7332483072201,40421581652169,apple-ipad-pro-11-inch-m4-magic-keyboard-white,Apple iPad Pro 11-inch M4 Magic Keyboard (White),599.0,599.0,0,ACCESSORIES
-7332483104969,40421581684937,apple-pencil-pro,Apple Pencil Pro,249.0,249.0,0,ACCESSORIES
+7332483104969,40421581684937,apple-pencil-pro,Apple Pencil Pro,209.0,209.0,0,ACCESSORIES
 7204503355466,40365481066570,tp-link-tapo-l530e-smart-wi-fi-multicolour-bulb-e27-2-pack,TP-Link Tapo L530E Smart Wi-Fi Multicolour Bulb (E27) [2-Pack],38.0,38.0,0,SMART HOME
 7317148631114,40409832226890,cd-petty-tom-greatest-hits-bonus-track-cd,Greatest Hits + Bonus Track,14.99,14.99,0,MUSIC
 7332480843977,40421579391177,winix-zero-36-5-stage-air-purifier,Winix Zero+ 36 5 Stage Air Purifier,799.0,799.0,0,SMALL APPLIANCES
@@ -18768,7 +18753,7 @@ Cleaner (Terra Red)",648.0,648.0,0,SMALL APPLIANCES
 7332096278729,40421140889801,cd-ngonda-jalen-come-around-cd,Come Around,29.99,29.99,0,MUSIC
 7332096213193,40421140824265,cd-dirty-honey-cant-find-the-brakes-cd,Can't Find The Brakes,29.99,29.99,0,MUSIC
 7332096049353,40421140660425,vinyl-home-brew-run-it-back-vinyl-lp,Run It Back (Vinyl),55.99,55.99,0,MUSIC
-7332036509897,40421081120969,apple-pencil-usb-c,Apple Pencil (USB-C),159.0,159.0,0,ACCESSORIES
+7332036509897,40421081120969,apple-pencil-usb-c,Apple Pencil (USB-C),139.0,139.0,0,ACCESSORIES
 7332082155721,40421126766793,jbl-authentics-500-smart-home-speaker,JBL Authentics 500 Smart Home Speaker,899.0,849.0,5.56,AUDIO
 7332095557833,40421140168905,vinyl-kc-the-sunshine-band-best-of-kc-the-sunshine-band-the-vinyl-lp,"Best Of KC & The Sunshine Band, The (Vinyl)",56.99,56.99,0,MUSIC
 7332095393993,40421140005065,vinyl-baby-queen-quarter-life-crisis-white-vinyl-lp,Quarter Life Crisis (White Vinyl),65.99,65.99,0,MUSIC
@@ -19195,7 +19180,6 @@ Cleaner (Terra Red)",648.0,648.0,0,SMALL APPLIANCES
 7194515308618,40358146244682,mego-8-action-figure-creepshow-nathan-grantham-action-figures,"Mego 8"" Action Figure (Creepshow - Nathan Grantham)",24.0,24.0,0,MOVIES
 7197675585610,40360002519114,mego-8-action-figure-dr-frankenstein-action-figures,"Mego 8"" Action Figure (Dr Frankenstein)",24.0,24.0,0,MOVIES
 7197055385674,40359499169866,mego-8-action-figure-ultraman-tiga-action-figures,"Mego 8"" Action Figure (Ultraman Tiga)",24.0,24.0,0,MOVIES
-7206882181194,40367141060682,rush-exit-stage-left-pop-album-pop-vinyl,Rush - Exit Stage Left Pop! Album,19.99,19.99,0,MOVIES
 7216829497418,40373394243658,samsung-smart-clear-view-cover-for-samsung-s22-burgundy,Samsung Smart Clear View Cover for Samsung S22+ (Burgundy),67.0,67.0,0,ACCESSORIES
 7206716637258,40366990262346,family-jewels-the-1960-dvd,"Family Jewels, The",9.98,9.98,0,MOVIES
 7300049010762,40406387982410,cd-gallows-desolation-sounds-cd,Desolation Sounds,10.99,10.99,0,MUSIC
@@ -19997,7 +19981,6 @@ Cleaner (Terra Red)",648.0,648.0,0,SMALL APPLIANCES
 7204401184842,40365396623434,xbox-series-x-new-tales-from-the-borderlands-deluxe-edition,New Tales From The Borderlands Deluxe Edition,39.0,39.0,0,GAMES SOFTWARE
 7204388012106,40365384138826,playstation-4-matchpoint-tennis-championships-legends-edition,MATCHPOINT Tennis Championships Legends Edition,15.0,15.0,0,GAMES SOFTWARE
 7206770180170,40367038234698,cd-austin-jennifer-k-journey-cd,Journey,4.99,4.99,0,MUSIC
-7204391354442,40365387219018,playstation-4-the-house-of-the-dead-remake-limidead-edition,The House of the Dead Remake: LimiDead Edition,12.0,12.0,0,GAMES SOFTWARE
 7207718813770,40367854583882,xbox-series-x-remnant-2,Remnant 2,59.0,59.0,0,GAMES SOFTWARE
 7204477272138,40365457670218,cd-oasis-knebworth-1996-2cd,Knebworth 1996,26.99,26.99,0,MUSIC
 7204422320202,40365417201738,xbox-series-x-a-plague-tale-requiem,A Plague Tale: Requiem,79.0,79.0,0,GAMES SOFTWARE
@@ -24476,3 +24459,20 @@ Cleaner (Terra Red)",648.0,648.0,0,SMALL APPLIANCES
 7205339201610,40365965606986,cd-m-people-m-people-gold-3cd,M People: Gold,23.99,23.99,0,MUSIC
 7205339136074,40365965508682,cd-mungo-jerry-mungo-jerry-gold-3cd,Mungo Jerry: Gold,23.99,23.99,0,MUSIC
 7205339037770,40365965410378,cd-brotherhood-of-man-brotherhood-gold-3cd,Brotherhood: Gold,23.99,23.99,0,MUSIC
+7205339005002,40365965377610,cd-cabello-camila-romance-cd,Romance,23.99,23.99,0,MUSIC
+7205338579018,40365965312074,cd-stewart-rod-youre-in-my-heart-rod-stewart-with-the-royal-philharmonic-orchestra-cd,You're In My Heart: Rod Stewart With The Royal Philharmonic Orchestra,23.99,23.99,0,MUSIC
+7205338284106,40365965082698,boruto-naruto-next-generations-part-1-2017-2-dvd,Boruto: Naruto Next Generations Part 1,60.98,60.98,0,MOVIES
+7205337825354,40365964722250,cd-various-kiwi-music-scene-1969-the-2cd,"Kiwi Music Scene 1969, The",21.99,21.99,0,MUSIC
+7205337792586,40365964689482,cd-bowie-david-conversation-piece-box-set-5cd,Conversation Piece (Box Set),206.99,206.99,0,MUSIC
+7205337759818,40365964656714,cd-ost-pj-harvey-all-about-eve-original-music-cd,All About Eve: Original Music,29.99,29.99,0,MUSIC
+7205337661514,40365964558410,cd-lizzo-cuz-i-love-you-super-deluxe-edition-cd,Cuz I Love You (Super Deluxe Edition),24.99,24.99,0,MUSIC
+7205337530442,40365964460106,cd-prince-1999-remastered-cd,1999 (Remastered),27.99,27.99,0,MUSIC
+7205336907850,40365964263498,joker-2019-blu-ray,Joker,20.98,20.98,0,MOVIES
+7205336744010,40365964099658,cd-domingo-placido-essential-placido-domingo-gold-series-2cd,Essential Placido Domingo (Gold Series),19.99,19.99,0,MUSIC
+7205336678474,40365964034122,cd-cohen-leonard-thanks-for-the-dance-cd,Thanks For The Dance,22.99,22.99,0,MUSIC
+7205336645706,40365964001354,cd-combs-luke-what-you-see-is-what-you-get-cd,What You See Is What You Get,25.99,25.99,0,MUSIC
+7205336612938,40365963968586,game-of-thrones-season-1-8-2019-blu-ray,Game of Thrones  - Season 1-8,239.98,239.98,0,MOVIES
+7205336547402,40365963903050,joker-2019-dvd,Joker,15.98,15.98,0,MOVIES
+7205336514634,40365963870282,it-chapter-two-2019-dvd,IT: Chapter Two,15.98,15.98,0,MOVIES
+7205336252490,40365963640906,mystify-michael-hutchence-2019-blu-ray,Mystify: Michael Hutchence,12.99,12.99,0,MOVIES
+7205336023114,40365963411530,rambo-last-blood-blu-ray,Rambo: Last Blood,20.98,20.98,0,MOVIES
