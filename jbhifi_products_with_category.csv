@@ -1,4 +1,12 @@
 Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Category
+7216803283018,40373379596362,pc-game-s-t-a-l-k-e-r-2-heart-of-chornobyl-day-one-edition-code-in-box,S.T.A.L.K.E.R. 2: Heart of Chornobyl Day One Edition (Code in Box),99.0,9.0,90.91,GAMES SOFTWARE
+7333934563529,40425258778825,nothing-cmf-buds-pro-2-in-ear-headphones-orange,NOTHING CMF Buds Pro 2 In-Ear Headphones (Orange),109.0,109.0,0,AUDIO
+7333011783881,40422121668809,nanoleaf-blocks-combo-xl-smarter-kit,Nanoleaf Blocks Combo XL Smarter Kit,387.0,387.0,0,SMART HOME
+7333185192137,40424474017993,apple-macbook-pro-14-inch-with-m4-pro-chip-512gb-24gb-space-black,"Apple MacBook Pro 14-inch with M4 Pro Chip, 512GB/24GB (Space Black)",3699.0,3547.0,4.11,COMPUTERS
+7334487982281,40425836445897,moki-type-c-connect-headphones-with-inline-mic-control-black-white,Moki Type-C Connect Headphones with Inline Mic & Control (Black/White),39.0,39.0,0,AUDIO
+7334431719625,40425775268041,moki-mixi-wired-kids-over-ear-headphones-green-blue,Moki Mixi Wired Kids Over-Ear Headphones (Green/Blue),39.0,39.0,0,AUDIO
+7332663820489,40421764858057,nintendo-switch-ace-attorney-investigations-collection,Ace Attorney Investigations Collection,79.0,79.0,0,GAMES SOFTWARE
+7204324671562,40365324402762,belkin-mini-displayport-to-hdtv-adapter,Belkin Mini DisplayPort to HDTV Adapter,7.0,5.6,20.0,IT
 7333227036873,40424515764425,lenovo-ideapad-5-14-wuxga-oled-2-in-1-laptop-snapdragon-x-plus1tb,"Lenovo Ideapad 5 14"" WUXGA OLED 2-in-1 Laptop (Snapdragon X Plus)[1TB]",1947.0,1947.0,0,COMPUTERS
 7336142733513,40427581145289,playstation-5-kingdom-come-deliverance-royal-edition,Kingdom Come: Deliverance Royal Edition,79.0,79.0,0,GAMES SOFTWARE
 7204656611402,40365605781578,moki-navigator-noise-cancelling-wireless-over-ear-headphones-pink-volume-limited,Moki Navigator Noise Cancelling Wireless Over-Ear Headphones (Pink) [Volume Limited],89.0,89.0,0,AUDIO
@@ -40,7 +48,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334728499401,40426093773001,sandisk-extreme-pro-sd-uhs-ii-usb-c-reader,SanDisk Extreme PRO® SD™ UHS-II USB-C™ Reader,69.0,69.0,0,IT
 7335982989513,40427414061257,emtec-elitegold-uhs-1-u1-micro-sd-card-128gb,Emtec EliteGold UHS-1 U1 Micro SD Card (128GB),54.0,54.0,0,IT
 7332123279561,40421167890633,ps5-playstation-5-slim-1tb-console,PS5 PlayStation 5 Slim 1TB Console,877.0,877.0,0,GAMES HARDWARE
-7223121838154,40379381612618,hp-victus-16-1-fhd-144hz-gaming-laptop-intel-core-i7-geforce-rtx-4070ex-display-repack,"HP Victus 16.1"" FHD 144Hz Gaming Laptop (Intel Core  i7/GeForce RTX 4070)[Ex-Display/Repack]",1797.0,1797.0,0,COMPUTERS
 7204474912842,40365456687178,ps4-playstation-4-slim-500gb-console-black,PS4 PlayStation 4 Slim 500GB Console - Black,469.0,469.0,0,GAMES HARDWARE
 7333457166537,40424752087241,ps5-playstation-5-dualsense-edge-wireless-controller-midnight-black,PS5 PlayStation 5 DualSense Edge Wireless Controller - Midnight Black,328.0,328.0,0,GAMES HARDWARE
 7332096082121,40421140693193,ps5-playstation-link-usb-adapter,PS5 PlayStation Link™ USB adapter,39.0,39.0,0,GAMES HARDWARE
@@ -125,7 +132,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335597473993,40427012227273,breville-nespresso-essenza-mini-solo-white,Breville Nespresso Essenza Mini Solo (White),259.0,197.0,23.94,SMALL APPLIANCES
 7335973945545,40427403804873,dualsense-wireless-controller-usb-cable-for-pc-midnight-black,DualSense® Wireless Controller + USB Cable for PC (Midnight Black),129.0,129.0,0,GAMES HARDWARE
 7332196614345,40421241225417,withings-scanwatch-nova-blue,Withings ScanWatch Nova (Blue),889.0,597.0,32.85,FITNESS
-7204697079882,40365624688714,apple-magic-keyboard-with-touch-id-and-numeric-keypad-black,Apple Magic Keyboard with Touch ID and Numeric Keypad (Black),257.0,257.0,0,IT
 7204434214986,40365426016330,nextbase-622gw-dash-cam,Nextbase 622GW Dash Cam,447.0,447.0,0,CAMERAS
 7249020158026,40398349860938,marshall-woburn-iii-wireless-bluetooth-speaker-cream,Marshall Woburn III Wireless Bluetooth Speaker (Cream),849.0,849.0,0,AUDIO
 7249020026954,40398349828170,marshall-woburn-iii-wireless-bluetooth-speaker-black,Marshall Woburn III Wireless Bluetooth Speaker (Black),849.0,849.0,0,AUDIO
@@ -2102,7 +2108,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335759085769,40427180785865,nintendo-switch-king-of-tokyo,King of Tokyo,69.0,69.0,0,GAMES SOFTWARE
 7335759020233,40427180720329,vinyl-gordon-kim-sonic-youth-play-me-vinyl-lp,Play Me (Vinyl),54.99,54.99,0,MUSIC
 7335758921929,40427180622025,cd-gordon-kim-sonic-youth-play-me-cd,Play Me,29.99,29.99,0,MUSIC
-7335758889161,40427180589257,nintendo-switch-2-sonic-racing-crossworlds,Sonic Racing: CrossWorlds,149.0,149.0,0,GAMES SOFTWARE
 7335758856393,40427180556489,nintendo-switch-2-high-on-life-2,High on Life 2,109.0,109.0,0,GAMES SOFTWARE
 7204328472650,40365327876170,logitech-z313-2-1ch-pc-speaker-system,Logitech Z313 2.1CH PC Speaker System,99.0,99.0,0,IT
 7335758594249,40427180294345,breville-the-toast-pro-4-slice-toaster-cream,Breville The Toast Pro 4 Slice Toaster (Cream),229.0,229.0,0,SMALL APPLIANCES
@@ -2819,7 +2824,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335552843977,40426966384841,cd-taking-back-sunday-happiness-is-bonus-poster-cd-regualr,Happiness Is (Bonus Poster),6.99,6.99,0,MUSIC
 7335552778441,40426966319305,cd-nickelback-dark-horse-cd,Dark Horse,8.99,8.99,0,MUSIC
 7335552745673,40426966286537,cd-barnes-jimmy-cold-chisel-hits-cd,Hits,14.99,14.99,0,MUSIC
-7335496810697,40426907664585,ps5-playstation-5-dualsense-wireless-controller-genshin-impact-limited-edition,PS5 PlayStation 5 DualSense Wireless Controller (Genshin Impact Limited Edition),149.0,149.0,0,GAMES HARDWARE
 7335342801097,40426746380489,ps5-playstation-5-slim-console-fortnite-flowering-chaos-bundle,PS5 PlayStation 5 Slim Console Fortnite Flowering Chaos Bundle,878.0,878.0,0,GAMES HARDWARE
 7335551074505,40426964484297,samsung-galaxy-xcover7-5g-with-2degrees-sim,Samsung Galaxy XCover7 5G with 2Degrees SIM,599.0,599.0,0,COMMUNICATIONS
 7335550484681,40426963894473,robosen-transformers-g1-auto-converting-robot-soundwave-collectibles,Robosen Transformers G1 Auto-Converting Robot (Soundwave),2999.0,2999.0,0,MOVIES
@@ -10662,7 +10666,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333654200521,40424953643209,vinyl-deep-purple-perfect-strangers-vinyl-180gram-vinyl,Perfect Strangers (Vinyl) (180gram),69.99,69.99,0,MUSIC
 7333654167753,40424953610441,the-penguin-season-1-2024-3-blu-ray,The Penguin - Season 1,35.98,35.98,0,MOVIES
 7333654134985,40424953577673,the-penguin-season-1-2024-3dvd,The Penguin - Season 1,30.98,30.98,0,MOVIES
-7204530716746,40365502365770,jbl-endurance-peak-3-tws-sport-in-ear-headphones-black,JBL Endurance Peak 3 TWS Sport In-Ear Headphones (Black),94.0,94.0,0,AUDIO
 7333633491145,40424930574537,vinyl-earth-wem-dominator-live-in-london-nw1-2016-dark-star-effect-vinyl-lp-colour-may-vary,"""WEM DOMINATOR"" Live In London NW1, 2016 (Dark Star Effect Vinyl)",69.99,69.99,0,MUSIC
 7333223170249,40424511865033,ryze-element-smart-ring-size12-black,Ryze Element Smart Ring [Size12] (Black),369.0,369.0,0,FITNESS
 7333223137481,40424511832265,ryze-element-smart-ring-size-9-black,Ryze Element Smart Ring [Size 9] (Black),369.0,369.0,0,FITNESS
@@ -11706,7 +11709,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333499666633,40424794489033,vinyl-cymande-renascence-coral-colour-vinyl-lp-colour-may-vary,Renascence (Coral Colour Vinyl),67.99,67.99,0,MUSIC
 7333506777289,40424801763529,cd-lady-gaga-mayhem-cd,Mayhem,25.99,25.99,0,MUSIC
 7333505925321,40424800846025,playstation-5-wwe-2k25,WWE 2K25,39.0,39.0,0,GAMES SOFTWARE
-7333505990857,40424800911561,xbox-series-x-wwe-2k25,WWE 2K25,39.0,39.0,0,GAMES SOFTWARE
 7332288659657,40421382258889,vinyl-carson-ken-a-great-chaos-vinyl-lp,A Great Chaos (Vinyl),66.99,66.99,0,MUSIC
 7204352393290,40365350518858,alogic-ultra-mini-usb-c-sd-card-reader,ALOGIC Ultra Mini USB-C SD Card Reader,32.0,32.0,0,IT
 7204406689866,40365401997386,alogic-elements-displayport-cable-with-4k-support-2m,ALOGIC Elements DisplayPort Cable with 4K Support (2m),19.0,19.0,0,IT
@@ -12383,7 +12385,7 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333366989001,40424660435145,cd-nct-dream-the-4th-album-dreamscape-dreamscape-version-cd,The 4th Album ‘Dreamscape’ (Dreamscape Version),50.99,50.99,0,MUSIC
 7333366956233,40424660402377,cd-nct-dream-the-4th-album-dreamscape-construct-version-cd,The 4th Album ‘Dreamscape’ (Construct Version),50.99,50.99,0,MUSIC
 7333300895945,40424590475465,nextbase-piqo-1k-dashcam-with-32gb-sd-card,Nextbase PIQO 1K Dashcam with 32GB SD Card,199.0,149.0,25.13,CAMERAS
-7333191352521,40424480178377,jbl-partybox-stage-320-party-speaker-black,JBL PartyBox Stage 320 Party Speaker (Black),665.0,665.0,0,AUDIO
+7333191352521,40424480178377,jbl-partybox-stage-320-party-speaker-black-1,JBL PartyBox Stage 320 Party Speaker (Black),665.0,665.0,0,AUDIO
 7333327732937,40424621080777,vinyl-combs-luke-what-you-see-aint-always-what-you-get-vinyl-3lp,What You See Aint Always What You Get (Vinyl),108.99,108.99,0,MUSIC
 7317162360906,40409845071946,vinyl-morrison-van-astral-weeks-vinyl-lp,Astral Weeks (Vinyl),46.99,46.99,0,MUSIC
 7328673759306,40418033533002,vinyl-deftones-adrenaline-vinyl-lp,Adrenaline (Vinyl),50.99,50.99,0,MUSIC
@@ -12725,7 +12727,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333309710537,40424599683273,cd-nct-dream-the-4th-album-dreamscape-real-city-ver-cd,"The 4th Album 'DREAMSCAPE'"" [REAL CITY ver.]",48.99,48.99,0,MUSIC
 7333309415625,40424599388361,vinyl-wonder-stevie-the-definitive-collection-vinyl-2lp,The Definitive Collection (Vinyl),103.99,103.99,0,MUSIC
 7333309350089,40424599322825,dvd-music-rolling-stones-the-the-rolling-stones-welcome-to-shepherds-bush-4k-ultra-hd,The Rolling Stones - Welcome To Shepherds Bush,47.99,47.99,0,MUSIC
-7333309186249,40424599158985,vinyl-rolling-stones-the-welcome-to-shepherds-bush-vinyl-2lp,Welcome To Shepherds Bush (Vinyl),69.99,69.99,0,MUSIC
 7333309153481,40424599126217,cd-rolling-stones-the-welcome-to-shepherds-bush-cd-blu-ray-2cd-blu-ray,Welcome To Shepherds Bush (CD + Blu-ray),43.99,43.99,0,MUSIC
 7333309087945,40424599060681,cd-rolling-stones-the-welcome-to-shepherds-bush-2cd,Welcome To Shepherds Bush,38.99,38.99,0,MUSIC
 7333308760265,40424598700233,cd-hozier-unreal-unearth-unending-2cd,Unreal Unearth: Unending,42.99,42.99,0,MUSIC
@@ -14253,7 +14254,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7332999561417,40422109216969,playstation-5-deliver-at-all-costs,Deliver At All Costs,69.0,69.0,0,GAMES SOFTWARE
 7332998938825,40422108594377,otterbox-defender-xt-series-magsafe-case-for-iphone-16-pro-max-clear,Otterbox Defender XT Series MagSafe Case for iPhone 16 Pro Max (Clear),130.99,77.0,41.22,ACCESSORIES
 7332998709449,40422108332233,otterbox-defender-xt-series-magsafe-case-for-iphone-16-pro-clear,Otterbox Defender XT Series MagSafe Case for iPhone 16 Pro (Clear),130.99,77.0,41.22,ACCESSORIES
-7332998414537,40422108037321,otterbox-defender-series-magsafe-case-for-iphone-16-pro-black,Otterbox Defender Series MagSafe Case for iPhone 16 Pro (Black),60.0,60.0,0,ACCESSORIES
 7332984455369,40422094078153,vera-series-13-2024-dvd,Vera - Series 13,34.98,34.98,0,MOVIES
 7332984619209,40422094241993,it-ends-with-us-2024-blu-ray,It Ends With Us,29.98,29.98,0,MOVIES
 7332984848585,40422094471369,evangelion-3-33-you-can-not-redo-2012-dvd-1,Evangelion 3.33 - You Can (Not) Redo,34.98,34.98,0,MOVIES
@@ -14458,7 +14458,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7332948377801,40422056689865,kate-spade-new-york-protective-magsafe-case-for-iphone-16-pro-max-sunshine-floral,kate spade new york Protective MagSafe Case for iPhone 16 Pro Max (Sunshine Floral),80.99,80.99,0,ACCESSORIES
 7332947919049,40422056231113,panzerglass-ceramic-hoops-lens-protectors-for-iphone-16-16-plus,PanzerGlass Ceramic Hoops Lens Protectors for iPhone 16/16 Plus,20.0,20.0,0,ACCESSORIES
 7332947296457,40422055575753,panzerglass-3-in-1-protection-bundle-for-iphone-15-14-13,PanzerGlass 3-in-1 Protection Bundle for iPhone 15/14/13,100.99,100.99,0,ACCESSORIES
-7332948148425,40422056460489,kate-spade-new-york-liquid-glitter-magsafe-case-for-iphone-16-pro-opal-iridescent,kate spade new york Liquid Glitter MagSafe Case for iPhone 16 Pro (Opal Iridescent),50.0,50.0,0,ACCESSORIES
 7332947689673,40422056001737,panzerglass-hoops-lens-protectors-for-iphone-16-pro-pro-max,PanzerGlass Hoops Lens Protectors for iPhone 16 Pro/Pro Max,15.0,15.0,0,ACCESSORIES
 7332947558601,40422055837897,panzerglass-ultrawide-fit-ceramic-screen-protector-for-iphone-16-pro,PanzerGlass UltraWide Fit Ceramic Screen Protector for iPhone 16 Pro,50.0,50.0,0,ACCESSORIES
 7332948213961,40422056526025,3sixt-neo-stand-case-for-iphone-16-pro-max,3sixT Neo Stand Case for iPhone 16 Pro Max,60.99,37.0,39.33,ACCESSORIES
@@ -18013,7 +18012,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7332137173193,40421181784265,doctor-strange-2016-dvd,Doctor Strange,20.98,20.98,0,MOVIES
 7332282007753,40421375279305,cd-pearl-jam-dark-matter-cd,Dark Matter,39.99,39.99,0,MUSIC
 7332197695689,40421242306761,xcd-bluetooth-over-ear-headphones-black-1,XCD Bluetooth Over-Ear Headphones (Black),29.99,29.99,0,AUDIO
-7332197728457,40421242339529,xcd-bluetooth-over-ear-headphones-blue,XCD Bluetooth Over-Ear Headphones (Blue),29.99,27.0,9.97,AUDIO
 7332251304137,40421344510153,samsung-flip-suitcase-for-galaxy-s24-white,Samsung Flip Suitcase for Galaxy S24 (White),67.0,67.0,0,ACCESSORIES
 7210266493002,40369085055050,razer-cobra-customizable-gaming-mouse-black,Razer Cobra Customizable Gaming Mouse (Black),89.0,89.0,0,GAMES HARDWARE
 7331831644361,40420876058825,playmax-topography-x2-mouse-mat-black,Playmax Topography X2 Mouse Mat (Black),24.0,24.0,0,GAMES HARDWARE
@@ -19843,7 +19841,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7248645292106,40398140801098,remington-shea-soft-hair-dryer,Remington Shea Soft Hair Dryer,69.0,69.0,0,SMALL APPLIANCES
 7248651059274,40398141816906,remington-shea-soft-curling-wand,Remington Shea Soft Curling Wand,69.0,69.0,0,SMALL APPLIANCES
 7216805150794,40373380841546,remington-s2-silky-lady-shaver,Remington S2 Silky Lady Shaver,79.0,79.0,0,SMALL APPLIANCES
-7243067031626,40394796105802,remington-air-3d-plus-hairdryer,Remington Air 3D Plus Hairdryer,127.0,127.0,0,SMALL APPLIANCES
 7204799774794,40365675970634,braun-series-3-310s-rechargeable-wet-dry-shaver,Braun Series 3 310s Rechargeable Wet & Dry Shaver,149.0,78.0,47.65,SMALL APPLIANCES
 7248647848010,40398141063242,remington-pro-curls-styler,Remington Pro Curls Styler,39.0,39.0,0,SMALL APPLIANCES
 7249460035658,40398714011722,tp-link-deco-x50-ax3000-whole-home-mesh-wi-fi-6-system-1-pack,TP-Link Deco X50 AX3000 Whole Home Mesh Wi-Fi 6 System (1 Pack),249.0,249.0,0,IT
@@ -20526,7 +20523,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7206808977482,40367075197002,playstation-5-prodeus,Prodeus,69.0,69.0,0,GAMES SOFTWARE
 7204385718346,40365381550154,xbox-series-x-atlas-fallen,Atlas Fallen,89.0,89.0,0,GAMES SOFTWARE
 7206814122058,40367080046666,cd-ely-joe-flatland-lullaby-cd,Flatland Lullaby,25.99,25.99,0,MUSIC
-7206776242250,40367043969098,vinyl-p-h-f-purest-hell-pink-vinyl-4lp,Purest Hell (Pink Vinyl),34.99,34.99,0,MUSIC
 7206807502922,40367073853514,playstation-4-prodeus,Prodeus,69.0,69.0,0,GAMES SOFTWARE
 7206770999370,40367038955594,playstation-5-two-point-campus-enrolment-edition,Two Point Campus Enrolment Edition,35.0,35.0,0,GAMES SOFTWARE
 7206889259082,40367147450442,cd-sweeney-sunny-married-alone-cd,Married Alone,26.99,26.99,0,MUSIC
@@ -22858,7 +22854,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7206837878858,40367100854346,cd-wilsn-those-days-are-over-cd,Those Days Are Over,25.99,25.99,0,MUSIC
 7206837682250,40367100723274,superman-lois-season-1-2021-dvd,Superman & Lois - Season 1,35.98,35.98,0,MOVIES
 7206837649482,40367100657738,cd-bria-cuntry-covers-volume-2-cd,Cuntry Covers: Volume 2,29.99,29.99,0,MUSIC
-7206837583946,40367100592202,vinyl-baker-chet-chet-baker-sings-again-vinyl-lp,Chet Baker Sings Again (Vinyl),44.99,44.99,0,MUSIC
 7206837551178,40367100559434,cd-various-bubblerock-is-here-to-stay-volume-two-3cd,Bubblerock Is Here To Stay Volume Two,47.99,47.99,0,MUSIC
 7206837452874,40367100461130,cd-ost-elvis-cd,Elvis,26.99,26.99,0,MUSIC
 7206837256266,40367100297290,journal-for-jordan-a-2021-dvd,"Journal For Jordan, A",12.98,12.98,0,MOVIES
@@ -24136,7 +24131,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7206730104906,40367002157130,vinyl-ian-janis-between-the-lines-vinyl-lp,Between The Lines (Vinyl),32.99,32.99,0,MUSIC
 7206730235978,40367002288202,vinyl-walters-niko-escape-vinyl-lp,Escape (Vinyl),39.99,39.99,0,MUSIC
 7206730203210,40367002255434,locked-down-2021-dvd,Locked Down,15.98,15.98,0,MOVIES
-7204409671754,40365404848202,steelseries-rival-3-wireless-gaming-mouse,SteelSeries Rival 3 Wireless Gaming Mouse,97.0,97.0,0,GAMES HARDWARE
 7206729777226,40367001894986,vinyl-mobb-deep-infamy-vinyl-lp,Infamy (Vinyl),67.99,67.99,0,MUSIC
 7206729744458,40367001862218,cd-ingram-christone-kingfish-662-cd,662,26.99,26.99,0,MUSIC
 7206729646154,40367001763914,cd-mudhoney-every-good-boy-deserves-fudge-30th-anniversary-edition-2cd,Every Good Boy Deserves Fudge: 30th Anniversary Edition,39.99,39.99,0,MUSIC
@@ -24478,3 +24472,9 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7205536628810,40366074462282,cd-libertines-the-up-the-bracket-20th-anniversary-edition-cd,Up The Bracket (20th Anniversary Edition),27.99,27.99,0,MUSIC
 7205533122634,40366073643082,cd-prince-come-cd,Come,27.99,27.99,0,MUSIC
 7205533057098,40366073610314,cd-jesus-mary-chain-the-live-at-barrowland-cd,Live At Barrowland,26.99,26.99,0,MUSIC
+7205523193930,40366067449930,moonage-daydream-2022-dvd,Moonage Daydream,16.98,16.98,0,MOVIES
+7205520834634,40366064336970,cd-walker-stan-impossible-music-by-the-book-cd,Impossible (Music By The Book),23.99,23.99,0,MUSIC
+7205519884362,40366061453386,samsung-basic-bezel-frame-for-50-the-frame-tvs-white-2021,"Samsung Basic Bezel Frame for 50"" The Frame TVs (White) [2021]",149.0,149.0,0,VISUAL
+7205519851594,40366061420618,audioengine-a2-wireless-computer-speakers-gloss-white,Audioengine A2+ Wireless Computer Speakers (Gloss White),446.0,446.0,0,AUDIO
+7205519425610,40366060765258,audioengine-a5-wireless-powered-bookshelf-speakers-satin-black,Audioengine A5+ Wireless Powered Bookshelf Speakers (Satin Black),899.0,899.0,0,AUDIO
+7205519261770,40366060503114,samsung-chamfer-bezel-frame-for-55-the-frame-tvs-white-2021,"Samsung Chamfer Bezel Frame for 55"" The Frame TVs (White) [2021]",149.0,149.0,0,VISUAL
