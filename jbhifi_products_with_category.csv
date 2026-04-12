@@ -1,4 +1,15 @@
 Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Category
+7332304978121,40421398577353,nintendo-switch-epic-mickey-rebrushed,Epic Mickey Rebrushed,69.0,69.0,0,GAMES SOFTWARE
+7204372316234,40365369688138,playstation-5-battlefield-2042,Battlefield 2042,9.0,9.0,0,GAMES SOFTWARE
+7220633010250,40377801769034,hp-chromebook-x360-88y56pa-14-chromebook-128gb-pentium-silverex-display-repack,"HP Chromebook x360 88Y56PA 14"" Chromebook (128GB/Pentium Silver)[Ex-Display/Repack]",507.0,507.0,0,COMPUTERS
+7332858462409,40421959925961,nintendo-switch-rabbids-party-of-legends-code-in-box,Rabbids: Party of Legends (Code in Box),24.0,24.0,0,GAMES SOFTWARE
+7332666867913,40421767676105,goldair-2000w-multi-season-ceramic-tower-heater-fan,Goldair 2000W Multi Season Ceramic Tower Heater/Fan,289.0,227.0,21.45,SMALL APPLIANCES
+7318550970442,40411192787018,apple-iphone-15-pro-max-silicone-case-with-magsafe-black,Apple iPhone 15 Pro Max Silicone Case with MagSafe (Black),87.0,87.0,0,ACCESSORIES
+7203341303882,40364687491146,xbox-series-x-mortal-kombat-1,Mortal Kombat 1,19.0,19.0,0,GAMES SOFTWARE
+7333045829833,40422155714761,samsung-galaxy-s24-fe-5g-128gb-blue,Samsung Galaxy S24 FE 5G 128GB (Blue),1047.0,1047.0,0,COMMUNICATIONS
+7336335540425,40427790926025,cd-newtones-new-way-1980-82-cd,New Way 1980-82,29.99,29.99,0,MUSIC
+7204403085386,40365398589514,turtle-beach-stealth-pro-wireless-noise-cancelling-gaming-headset-for-playstation-black,Turtle Beach Stealth Pro Wireless Noise-Cancelling Gaming Headset for PlayStation (Black),297.0,297.0,0,GAMES HARDWARE
+7333802279113,40425122496713,ecovacs-deebot-t50-max-pro-omni-robotic-vacuum-mop-with-auto-mop-cleaning-and-self-emptying-base-station,Ecovacs DEEBOT T50 Max Pro OMNI Robotic Vacuum & Mop with Auto Mop Cleaning and Self-Emptying Base Station,1197.0,877.0,26.73,SMALL APPLIANCES
 7332744888521,40421845991625,xcd-0-5w-uhf-cb-handheld-radio-black,XCD 0.5W UHF CB Handheld Radio (Black),23.0,23.0,0,COMMUNICATIONS
 7206430244938,40366862434378,powerwave-asus-rog-ally-tempered-glass-screen-protector,Powerwave ASUS ROG Ally Tempered Glass Screen Protector,17.0,17.0,0,GAMES HARDWARE
 7336335409353,40427790794953,cd-notorious-b-i-g-the-born-again-cd,Born Again,17.99,17.99,0,MUSIC
@@ -153,8 +164,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334358974665,40425691709641,lg-86-qned80-ai-4k-uhd-smart-tv-2025,"LG 86"" QNED80 AI 4K UHD Smart TV [2025]",2988.0,2988.0,0,VISUAL
 7336321286345,40427776573641,nintendo-switch-2-little-nightmares-ii-enhanced-edition,Little Nightmares II: Enhanced Edition,64.0,64.0,0,GAMES SOFTWARE
 7333659934921,40424959508681,vinyl-cat-empire-the-bird-in-paradise-blue-wren-vinyl-lp-colour-may-vary,Bird In Paradise (Blue Wren Vinyl),49.99,49.99,0,MUSIC
-7204372316234,40365369688138,playstation-5-battlefield-2042,Battlefield 2042,9.0,9.0,0,GAMES SOFTWARE
-7332666867913,40421767676105,goldair-2000w-multi-season-ceramic-tower-heater-fan,Goldair 2000W Multi Season Ceramic Tower Heater/Fan,289.0,227.0,21.45,SMALL APPLIANCES
 7336321155273,40427776442569,cd-alice-in-chains-mtv-unplugged-cd,Mtv Unplugged,14.99,14.99,0,MUSIC
 7336280195273,40427733319881,delonghi-nespresso-env200wae-vertuo-up-bundle-white,De'Longhi Nespresso ENV200WAE Vertuo Up Bundle (White),499.0,499.0,0,SMALL APPLIANCES
 7336300478665,40427754848457,delonghi-ec890bk-dedica-duo-with-cold-brew-coffee-machine-black-1,De'Longhi EC890BK Dedica Duo with Cold Brew Coffee Machine (Black),599.0,599.0,0,SMALL APPLIANCES
@@ -454,7 +463,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334935986377,40426316628169,xbox-series-x-crimson-desert-day-one-edition,Crimson Desert Day One Edition,109.0,109.0,0,GAMES SOFTWARE
 7334935953609,40426316562633,playstation-5-crimson-desert-day-one-edition,Crimson Desert Day One Edition,109.0,109.0,0,GAMES SOFTWARE
 7333429903561,40424723480777,jbl-quantum-360-over-ear-wireless-gaming-headset-purple,JBL Quantum 360 Over-Ear Wireless Gaming Headset (Purple),137.0,97.0,29.2,GAMES HARDWARE
-7332229447881,40421273993417,nintendo-switch-ace-combat-7-skies-unknown-deluxe-edition,Ace Combat 7: Skies Unknown Deluxe Edition,49.0,49.0,0,GAMES SOFTWARE
 7332739645641,40421840715977,otterbox-defender-series-xt-case-for-galaxy-z-fold6-black,Otterbox Defender Series XT Case for Galaxy Z Fold6 (Black),80.0,80.0,0,ACCESSORIES
 7334582714569,40425942876361,meta-quest-3s-128gb,Meta Quest 3S 128GB,569.0,569.0,0,GAMES HARDWARE
 7336275181769,40427728273609,vinyl-cramps-the-cosat-to-coast-2lp-yellow-vinyl-180gram-vinyl,Cosat to Coast (2lp Yellow Vinyl) (180gram),53.99,53.99,0,MUSIC
@@ -823,7 +831,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7333469585609,40424764506313,samsung-galaxy-s25-ultra-512gb-titanium-black,Samsung Galaxy S25 Ultra 512GB (Titanium Black),2647.0,2647.0,0,COMMUNICATIONS
 7333408211145,40424701788361,hp-omnibook-ultra-14-2-2k-oled-laptop-ryzen-9-ai-365-1tbex-display-repack,"HP OmniBook Ultra 14"" 2.2K OLED Laptop (Ryzen 9 AI 365/1TB)[Ex-Display/Repack]",2307.0,2307.0,0,COMPUTERS
 7335805223113,40427227873481,logitech-g-pro-x2-superstrike-lightspeed-gaming-mouse,Logitech G PRO X2 SUPERSTRIKE LIGHTSPEED Gaming Mouse,349.0,349.0,0,GAMES HARDWARE
-7333996265673,40425324118217,hisense-75-q6qnz-4k-qled-smart-tv-2025,"Hisense 75"" Q6QNZ 4K QLED Smart TV [2025]",1482.0,1482.0,0,VISUAL
 7333825118409,40425145336009,bissell-3999f-crosswave-omniforce-edge-wet-dry-vac,Bissell 3999F CrossWave OmniForce Edge Wet Dry Vac,749.0,597.0,20.29,SMALL APPLIANCES
 7335412695241,40426818109641,one-nz-mobiwire-nikiti-2-black-with-prepay-sim-network-locked,One NZ MobiWire Nikiti 2 (Black) with Prepay SIM Network Locked,39.0,39.0,0,COMMUNICATIONS
 7335412957385,40426818371785,one-nz-smart-m26-black-with-prepay-sim-network-locked,One NZ Smart M26 (Black) with Prepay SIM Network Locked,99.0,99.0,0,COMMUNICATIONS
@@ -1416,7 +1423,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7204404068426,40365399408714,steelseries-rival-5-gaming-mouse,SteelSeries Rival 5 Gaming Mouse,117.0,117.0,0,GAMES HARDWARE
 7334199853257,40425531474121,dell-inspiron-14-7440-14-wuxga-2-in-1-laptop-intel-core-ultra-71tb,"Dell Inspiron 14 7440 14"" WUXGA 2-in-1 Laptop (Intel Core Ultra 7)[1TB]",2198.0,2198.0,0,COMPUTERS
 7204416094282,40365411237962,steelseries-apex-3-gaming-keyboard,SteelSeries Apex 3 Gaming Keyboard,147.0,147.0,0,GAMES HARDWARE
-7204396957770,40365392724042,steelseries-arctis-nova-pro-wireless-gaming-headset-for-xbox,SteelSeries Arctis Nova Pro Wireless Gaming Headset for Xbox,757.0,757.0,0,GAMES HARDWARE
 7332710219977,40421811192009,samsung-galaxy-z-flip6-5g-256gb-blue,Samsung Galaxy Z Flip6 5G 256GB (Blue),1897.0,1897.0,0,COMMUNICATIONS
 7335758889161,40427180589257,nintendo-switch-2-sonic-racing-crossworlds,Sonic Racing: CrossWorlds,149.0,149.0,0,GAMES SOFTWARE
 7333104845001,40424392884425,powera-fusion-pro-wireless-controller-with-lumectra-for-xbox-series-xs,PowerA Fusion Pro Wireless Controller with Lumectra for Xbox Series X|S,209.0,209.0,0,GAMES HARDWARE
@@ -2428,7 +2434,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336006877385,40427441946825,vinyl-denny-martin-latin-village-floral-swirl-vinyl-lp-colour-may-vary,Latin Village (Floral Swirl Vinyl),79.99,79.99,0,MUSIC
 7336006713545,40427441782985,vinyl-newsom-joanna-have-one-on-me-vinyl-3lp,Have One On Me (Vinyl),128.99,128.99,0,MUSIC
 7336006615241,40427441684681,vinyl-xx-the-coexist-2026-repackage-vinyl-lp-colour-may-vary,Coexist (2026 Repackage) (Vinyl),54.99,54.99,0,MUSIC
-7334705004745,40426069721289,google-pixel-9-5g-256gb-obsidian-refurbished-excellent,Google Pixel 9 5G 256GB (Obsidian) [~Refurbished: Excellent],1149.0,1149.0,0,COMMUNICATIONS
 7334440566985,40425784246473,apple-iphone-14-pro-max-256gb-deep-purple-refurbished-very-good,Apple iPhone 14 Pro Max 256GB (Deep Purple) [~Refurbished: Very Good],1259.0,1259.0,0,COMMUNICATIONS
 7334440337609,40425783984329,apple-iphone-14-pro-256gb-deep-purple-refurbished-very-good,Apple iPhone 14 Pro 256GB (Deep Purple) [~Refurbished: Very Good],1139.0,1139.0,0,COMMUNICATIONS
 7334440206537,40425783853257,apple-iphone-14-pro-128gb-space-black-refurbished-very-good,Apple iPhone 14 Pro 128GB (Space Black) [~Refurbished: Very Good],1049.0,1049.0,0,COMMUNICATIONS
@@ -3202,7 +3207,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334112821449,40425443655881,moza-table-clamp-for-yoke,Moza Table Clamp for Yoke,49.0,49.0,0,GAMES HARDWARE
 7334112002249,40425442836681,moza-racing-fsr2-formula-wheel,Moza Racing FSR2 Formula Wheel,1299.0,1299.0,0,GAMES HARDWARE
 7334111412425,40425442246857,next-level-racing-f-gt-elite-160-wheel-plate-edition,Next Level Racing F-Gt Elite 160 (Wheel Plate Edition),1499.0,1499.0,0,GAMES HARDWARE
-7334717685961,40426082861257,hp-omnibook-3-15-6-fhd-copilot-pc-laptop-ryzen-ai-5-512gb,"HP OmniBook 3 15.6"" FHD CoPilot+ PC Laptop (Ryzen AI 5) [512GB]",2387.0,2387.0,0,COMPUTERS
+7334717685961,40426082861257,hp-omnibook-3-15-6-fhd-copilot-pc-laptop-ryzen-ai-5-512gb,"HP OmniBook 3 15.6"" FHD CoPilot+ PC Laptop (Ryzen AI 5) [512GB]",1598.0,1598.0,0,COMPUTERS
 7335856373961,40427281088713,huawei-watch-wireless-super-charger,Huawei Watch Wireless Super Charger,49.0,49.0,0,FITNESS
 7335856341193,40427281055945,powerwave-pro-charging-station-for-nintendo-switch-2,Powerwave Pro Charging Station for Nintendo Switch 2,49.0,49.0,0,GAMES HARDWARE
 7335856308425,40427281023177,powerwave-type-c-to-hdmi-tv-adapter-for-nintendo-switch-2,Powerwave Type-C to HDMI TV Adapter for Nintendo Switch 2,44.0,44.0,0,GAMES HARDWARE
@@ -5776,7 +5781,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334961381577,40426342088905,cygnett-go-gen3-power-bank-5k-transdendent-pink,Cygnett Go Gen3 Power Bank [5K] (Transdendent Pink),39.95,39.95,0,ACCESSORIES
 7334951649481,40426332356809,cygnett-drivesync-wireless-adapter-for-android-auto-and-apple-car-play,Cygnett DriveSync Wireless Adapter for Android Auto and Apple Car Play,99.95,99.95,0,ACCESSORIES
 7334983958729,40426365354185,cygnett-encore-20k-power-bank-ivory,Cygnett Encore 20k Power Bank (Ivory),128.0,128.0,0,ACCESSORIES
-7204427628618,40365421887562,playmax-hurricane-race-flight-stand,Playmax Hurricane Race/Flight Stand,149.0,149.0,0,GAMES HARDWARE
 7335051067593,40426437935305,vinyl-tyler-the-creator-odd-future-chromakopia-opaque-white-vinyl-2lp-colour-may-vary,Chromakopia (Opaque White Vinyl),133.99,133.99,0,MUSIC
 7335051002057,40426437869769,cd-tyler-the-creator-odd-future-chromakopia-cd,Chromakopia,32.99,32.99,0,MUSIC
 7335049068745,40426435936457,aiper-scuba-x1-pro-max,Aiper Scuba X1 Pro Max,3699.0,3298.0,10.84,SMALL APPLIANCES
@@ -7752,7 +7756,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7334694846665,40426059432137,vinyl-radiohead-hail-to-the-thief-live-recordings-2003-2009-vinyl-lp,Hail To The Thief (Live Recordings 2003-2009) (Vinyl),67.99,67.99,0,MUSIC
 7334694813897,40426059399369,cd-radiohead-hailto-the-thief-live-recordings-2003-2009-cd,HailTo The Thief (Live Recordings 2003-2009),31.99,31.99,0,MUSIC
 7334388859081,40425722904777,tp-link-tapo-c206-indoor-outdoor-pan-tilt-cam,TP-Link Tapo C206 Indoor/Outdoor Pan & Tilt Cam,55.0,55.0,0,SMART HOME
-7334694715593,40426059301065,vinyl-kelly-paul-songs-from-the-south-1985-2019-clear-vinyl-2lp,Songs From The South 1985-2019 (Clear Vinyl),63.99,63.99,0,MUSIC
 7334694551753,40426059137225,tp-link-tapo-p110m-smart-wi-fi-plug-2-pack,TP-Link Tapo P110M Smart Wi-Fi Plug (2-Pack),64.0,64.0,0,SMART HOME
 7334694256841,40426058842313,vinyl-kuttner-danny-lilly-vinyl-lp,Lilly (Vinyl),62.99,62.99,0,MUSIC
 7205635620938,40366143963210,arlo-dual-charging-station-ultra-pro-go2-floodlights,Arlo Dual Charging Station (Ultra/Pro/Go2/Floodlights),109.0,109.0,0,SMART HOME
@@ -9686,7 +9689,7 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7334131269833,40425462825161,vinyl-b-o-b-b-o-b-presents-the-adventures-of-bobby-ray-vinyl-2lp,B.O.B Presents: The Adventures Of Bobby Ray (Vinyl),113.99,113.99,0,MUSIC
 7334131204297,40425462759625,vinyl-soft-bait-life-advice-vinyl-lp,Life Advice (Vinyl),54.99,54.99,0,MUSIC
 7334130745545,40425462333641,cd-behemoth-the-shit-ov-god-cd,The Shit Ov God,30.99,30.99,0,MUSIC
-7334129664201,40425461252297,asus-zenbook-14-14-3k-oled-2-in-1-laptop-intel-core-ultra-51tb,"ASUS Zenbook 14 14"" 3K OLED 2-in-1 Laptop (Intel Core Ultra 5)[1TB]",2699.0,2699.0,0,COMPUTERS
+7334129664201,40425461252297,asus-zenbook-14-14-3k-oled-2-in-1-laptop-intel-core-ultra-51tb,"ASUS Zenbook 14 14"" 3K OLED 2-in-1 Laptop (Intel Core Ultra 5)[1TB]",2547.0,2547.0,0,COMPUTERS
 7334129434825,40425461022921,vinyl-mother-mother-nostalgia-light-blue-coloured-vinyl-lp-colour-may-vary,Nostalgia (Light Blue Coloured Vinyl),69.99,69.99,0,MUSIC
 7334129402057,40425460990153,cd-mother-mother-nostalgia-cd,Nostalgia,27.99,27.99,0,MUSIC
 7334129172681,40425460760777,vinyl-ghost-bath-funeral-yellow-coloured-vinyl-2lp-colour-may-vary,Funeral  (Yellow Coloured Vinyl),95.99,95.99,0,MUSIC
@@ -11613,7 +11616,7 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333693489353,40425013477577,vinyl-velvet-underground-the-loaded-180gm-vinyl-2015-reissue-lp,Loaded (180gm Vinyl) (2015 Reissue),46.99,46.99,0,MUSIC
 7333410046153,40424703623369,psycho-pass-providence-movie-limited-edition-2023-blu-ray,Psycho-Pass: Providence - Movie (Limited Edition),56.98,56.98,0,MOVIES
 7333693161673,40425013149897,vinyl-greentea-peng-tell-dem-its-sunny-vinyl-2lp,Tell Dem It's Sunny (Vinyl),70.99,70.99,0,MUSIC
-7333693128905,40425013117129,asus-zenbook-a14-14-oled-laptop-copilot-pc512gb,"ASUS Zenbook A14 14"" OLED Laptop (Copilot+ PC)[512GB]",2699.0,2699.0,0,COMPUTERS
+7333693128905,40425013117129,asus-zenbook-a14-14-oled-laptop-copilot-pc512gb,"ASUS Zenbook A14 14"" OLED Laptop (Copilot+ PC)[512GB]",2367.0,2367.0,0,COMPUTERS
 7333693096137,40425013084361,cd-greentea-peng-tell-dem-its-sunny-cd,Tell Dem It's Sunny,30.99,30.99,0,MUSIC
 7333690966217,40425010954441,vinyl-tedeschi-trucks-band-revelator-red-vinyl-2lp,Revelator (Red Vinyl),101.99,101.99,0,MUSIC
 7333690573001,40425010561225,cd-sparhawk-alan-low-with-trampled-turtles-cd,With Trampled Turtles,28.99,28.99,0,MUSIC
@@ -14786,7 +14789,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7204467834954,40365449609290,braun-clean-and-charge-refills-6-pack,Braun Clean and Charge Refills (6 Pack),59.0,59.0,0,SMALL APPLIANCES
 7332475830473,40421574344905,impact-merch-barbie-mug-retro-ken-barbie-mugs,Impact Merch Barbie Mug (Retro Ken & Barbie),19.0,19.0,0,MOVIES
 7333050253513,40422160138441,vinyl-iommi-tony-black-sabbath-fused-blue-vinyl-2lp-colour-may-vary,Fused (Blue Vinyl),54.99,54.99,0,MUSIC
-7333050220745,40422160105673,vinyl-iommi-tony-black-sabbath-the-1996-dep-sessions-with-glenn-hughes-black-ice-vinyl-lp-colour-may-vary,The 1996 Dep Sessions With Glenn Hughes (Black Ice Vinyl),39.99,39.99,0,MUSIC
 7333050187977,40422160072905,xbox-series-x-monster-energy-supercross-25-the-official-videogame-day-one-edition,Monster Energy Supercross 25 - The Official Videogame Day One Edition,79.0,79.0,0,GAMES SOFTWARE
 7333050155209,40422160040137,playstation-5-monster-energy-supercross-25-the-official-videogame-day-one-edition,Monster Energy Supercross 25 - The Official Videogame Day One Edition,79.0,79.0,0,GAMES SOFTWARE
 7333049991369,40422159876297,vinyl-carlile-brandi-give-up-the-ghost-vinyl-lp,Give Up The Ghost (Vinyl),57.99,57.99,0,MUSIC
@@ -16218,7 +16220,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7332742824137,40421843927241,xbox-series-x-test-drive-unlimited-solar-crown,Test Drive Unlimited: Solar Crown,49.0,49.0,0,GAMES SOFTWARE
 7332742791369,40421843894473,playstation-5-test-drive-unlimited-solar-crown,Test Drive Unlimited: Solar Crown,49.0,49.0,0,GAMES SOFTWARE
 7332742758601,40421843861705,wiz-preso-smart-downlight,WiZ Preso Smart Downlight,69.0,69.0,0,SMART HOME
-7332739711177,40421840781513,panzerglass-hoops-lens-protector-for-galaxy-z-flip6,PanzerGlass Hoops Lens Protector for Galaxy Z Flip6,20.0,20.0,0,ACCESSORIES
 7332739023049,40421840093385,dyson-v11-advanced-stick-vacuum,Dyson V11™ Advanced Stick Vacuum,798.0,798.0,0,SMALL APPLIANCES
 7332737679561,40421838749897,govee-3s-75-85-immersion-kit-with-matter,"Govee 3S 75""-85"" Immersion Kit with Matter",269.0,269.0,0,SMART HOME
 7332728930505,40421829935305,sony-ult-tower-10-wireless-party-speaker,Sony ULT TOWER 10 Wireless Party Speaker,1599.0,1599.0,0,AUDIO
@@ -16433,7 +16434,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7332713103561,40421814075593,samsung-slim-s-pen-case-for-galaxy-z-fold6-navy,Samsung Slim S Pen Case for Galaxy Z Fold6 (Navy),147.0,147.0,0,ACCESSORIES
 7332713070793,40421814042825,samsung-slim-s-pen-case-for-galaxy-z-fold6-grey,Samsung Slim S Pen Case for Galaxy Z Fold6 (Grey),159.99,159.99,0,ACCESSORIES
 7332711432393,40421812404425,samsung-trail-band-for-galaxy-watch-ultra-white-sand,Samsung Trail Band for Galaxy Watch Ultra (White Sand),57.0,57.0,0,FITNESS
-7332709466313,40421810438345,samsung-galaxy-buds3-white,Samsung Galaxy Buds3 (White),217.0,217.0,0,AUDIO
 7332709826761,40421810798793,cable-guys-holdems-sonic,Cable Guys Holdems Sonic,29.0,15.0,48.28,GAMES HARDWARE
 7332709793993,40421810766025,cable-guys-holdems-fall-guys-hot-rod-flames,Cable Guys Holdems Fall Guys Hot Rod Flames,15.0,15.0,0,GAMES HARDWARE
 7332709761225,40421810733257,cable-guys-holdems-fall-guys-paint-dip,Cable Guys Holdems Fall Guys Paint Dip,15.0,15.0,0,GAMES HARDWARE
@@ -18641,7 +18641,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7250237915210,40399296430154,philips-sonicare-diamondclean-9000-electric-toothbrush-white,Philips Sonicare DiamondClean 9000 Electric Toothbrush (White),499.0,499.0,0,SMALL APPLIANCES
 7332303470793,40421397070025,ring-outdoor-camera-stick-up-cam-battery-white,Ring Outdoor Camera [Stick Up Cam] Battery (White),149.0,149.0,0,SMART HOME
 7204341514314,40365340065866,nyko-charge-base-for-ps5,Nyko Charge Base for PS5,37.0,37.0,0,GAMES HARDWARE
-7332304978121,40421398577353,nintendo-switch-epic-mickey-rebrushed,Epic Mickey Rebrushed,69.0,69.0,0,GAMES SOFTWARE
 7332304945353,40421398544585,xbox-epic-mickey-rebrushed,Epic Mickey Rebrushed,69.0,69.0,0,GAMES SOFTWARE
 7332304912585,40421398511817,playstation-5-epic-mickey-rebrushed,Epic Mickey Rebrushed,69.0,69.0,0,GAMES SOFTWARE
 7332286726345,40421380325577,tp-link-deco-x10-ax1500-whole-home-mesh-wi-fi-6-system-3-pack,TP-Link Deco X10 AX1500 Whole Home Mesh Wi-Fi 6 System (3 Pack),349.0,349.0,0,IT
@@ -19240,7 +19239,7 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7332181377225,40421225988297,cd-earth-rock-primitive-deadly-cd,Primitive & Deadly,31.99,31.99,0,MUSIC
 7249459150922,40398713356362,dora-the-lost-city-of-gold-2019-dvd,Dora & the Lost City of Gold,16.98,16.98,0,MOVIES
 7206381027402,40366777761866,godfather-the-collection-50th-anniversary-2022-dvd,"Godfather, The - Collection (50th Anniversary)",37.98,37.98,0,MOVIES
-7332173316297,40421217927369,lenovo-100e-4th-gen-11-6-hd-te-reo-chromebook-32gb-mediatek-kompanio-520,"Lenovo 100E (4th Gen) 11.6"" HD Te Reo Chromebook (32GB) [MediaTek Kompanio 520]",448.0,448.0,0,COMPUTERS
+7332173316297,40421217927369,lenovo-100e-4th-gen-11-6-hd-te-reo-chromebook-32gb-mediatek-kompanio-520,"Lenovo 100E (4th Gen) 11.6"" HD Te Reo Chromebook (32GB) [MediaTek Kompanio 520]",378.0,378.0,0,COMPUTERS
 7332169777353,40421214388425,razer-blackshark-v2-x-wired-esports-headset-black,Razer BlackShark V2 X Wired Esports Headset (Black),119.0,119.0,0,GAMES HARDWARE
 7332179574985,40421224186057,dumb-money-2024-dvd,Dumb Money,24.98,24.98,0,MOVIES
 7332179411145,40421224022217,dive-the-2023-dvd,"Dive, The",24.98,24.98,0,MOVIES
@@ -20354,7 +20353,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7331826172105,40420870586569,retirement-plan-the-2022-blu-ray,"Retirement Plan, The",17.99,17.99,0,MOVIES
 7331826008265,40420870422729,leverage-redemption-season-1-2021-dvd,Leverage: Redemption - Season 1,45.98,45.98,0,MOVIES
 7331821355209,40420865769673,vinyl-metallica-kill-em-all-jump-in-the-fire-engine-red-vinyl-lp,Kill 'Em All ('Jump In The Fire Engine' Red Vinyl),86.99,86.99,0,MUSIC
-7206772965450,40367040856138,fullmetal-alchemist-brotherhood-olivier-mira-armstrong-pop-vinyl-pop-vinyl,Fullmetal Alchemist: Brotherhood - Olivier Mira Armstrong Pop! Vinyl,4.99,4.99,0,MOVIES
 7206774865994,40367042396234,house-of-the-dragon-otto-hightower-pop-vinyl-pop-vinyl,House of the Dragon - Otto Hightower Pop! Vinyl,4.99,4.99,0,MOVIES
 7331823354057,40420867768521,cd-creation-rebel-hostile-environment-cd,Hostile Environment,34.99,34.99,0,MUSIC
 7331823288521,40420867702985,cd-slauson-malone-1-excelsior-cd,Excelsior,34.99,34.99,0,MUSIC
@@ -24475,3 +24473,5 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7206747897930,40367018016842,cd-lala-lala-i-want-the-door-to-open-cd,I Want The Door To Open,31.99,31.99,0,MUSIC
 7206747832394,40367017951306,cd-ost-velvet-underground-velvet-underground-a-documentary-film-2cd,Velvet Underground: A Documentary Film,29.99,29.99,0,MUSIC
 7206747734090,40367017853002,cd-carlile-brandi-in-these-silent-days-cd,In These Silent Days,29.99,29.99,0,MUSIC
+7206747668554,40367017787466,cd-aaliyah-i-care-4-u-cd,I Care 4 U,26.99,26.99,0,MUSIC
+7206747537482,40367017689162,cd-imperial-slave-imperial-slave-cd,Imperial Slave,24.99,24.99,0,MUSIC
