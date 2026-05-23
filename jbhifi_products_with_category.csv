@@ -1,8 +1,18 @@
 Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Category
+7334000951497,40425328902345,hisense-75-u8qnz-4k-uled-mini-led-smart-tv-2025,"Hisense 75"" U8QNZ 4K ULED Mini-LED Smart TV [2025]",2947.0,2947.0,0,VISUAL
+7230946541642,40384965673034,delonghi-eletta-explore-connect-fully-automatic-coffee-machine,De'Longhi Eletta Explore Connect Fully Automatic Coffee Machine,1698.0,1497.0,11.84,SMALL APPLIANCES
+7334024839369,40425354330313,samsung-65-s95f-oled-4k-smart-ai-tv-2025,"Samsung 65"" S95F OLED 4K Smart AI TV [2025]",4592.0,3988.0,13.15,VISUAL
+7335220478153,40426617176265,playmax-wireless-streamcast-microphone-black,Playmax Wireless Streamcast Microphone (Black),25.0,25.0,0,GAMES HARDWARE
+7336237891785,40427688198345,pokemon-tcg-mega-evolutionchaos-rising-blister,Pokémon TCG: Mega Evolution—Chaos Rising Blister,9.5,9.5,0,GAMES SOFTWARE
+7334453379273,40425799614665,fujifilm-x100vi-compact-camera-silver,Fujifilm X100VI Compact Camera (Silver),3249.0,2888.0,11.11,CAMERAS
+7331815030985,40420859445449,vinyl-evans-bill-how-my-heart-sings-vinyl-lp,How My Heart Sings! (Vinyl),49.99,49.99,0,MUSIC
+7336264073417,40427715723465,minix-peacemaker-vigiliante-collectibles,Minix: Peacemaker - Vigiliante,26.99,26.99,0,MOVIES
+7204346593354,40365344915530,apple-iphone-13-512gb-pink,Apple iPhone 13 512GB (Pink),997.0,997.0,0,COMMUNICATIONS
+7333045829833,40422155714761,samsung-galaxy-s24-fe-5g-128gb-blue,Samsung Galaxy S24 FE 5G 128GB (Blue),1047.0,897.0,14.33,COMMUNICATIONS
+7333990793417,40425317269705,hisense-32-a4qnz-hd-smart-tv-2025,"Hisense 32"" A4QNZ HD Smart TV [2025]",277.0,277.0,0,VISUAL
 7336726134985,40428209569993,epic-elvis-presley-in-concert-2026-4k-ultra-hd,Epic: Elvis Presley in Concert,52.98,52.98,0,MOVIES
 7336726102217,40428209537225,epic-elvis-presley-in-concert-2026-dvd,Epic: Elvis Presley in Concert,29.98,29.98,0,MOVIES
 7336726036681,40428209471689,epic-elvis-presley-in-concert-2026-blu-ray,Epic: Elvis Presley in Concert,36.98,36.98,0,MOVIES
-7336237760713,40427688067273,pokemon-tcg-mega-evolution-chaos-rising-three-booster-blister,Pokémon TCG: Mega Evolution - Chaos Rising Three-Booster Blister,29.0,29.0,0,GAMES SOFTWARE
 7205336252490,40365963640906,mystify-michael-hutchence-2019-blu-ray,Mystify: Michael Hutchence,25.98,25.98,0,MOVIES
 7331826532553,40420870947017,cost-the-2022-dvd,"Cost, The",25.98,25.98,0,MOVIES
 7206789742666,40367057043530,flee-2021-dvd,Flee,30.98,30.98,0,MOVIES
@@ -30,8 +40,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336602468553,40428081479881,cd-cranberries-the-everybody-else-is-doing-it-so-why-cant-we-reissue-cd,"Everybody Else Is Doing It, So Why Can’t We? (Reissue)",31.99,31.99,0,MUSIC
 7336602566857,40428081610953,vinyl-cranberries-the-everybody-else-is-doing-it-so-why-cant-we-vinyl-lp,"Everybody Else Is Doing It, So Why Can’t We? (Vinyl)",75.99,75.99,0,MUSIC
 7336602730697,40428081742025,cd-cranberries-the-everybody-else-is-doing-it-so-why-cant-we-deluxe-edition-2cd,"Everybody Else Is Doing It, So Why Can’t We? (Deluxe Edition)",35.99,35.99,0,MUSIC
-7335246332105,40426644275401,samsung-75-u8500f-crystal-uhd-4k-smart-tv-2025,"Samsung 75"" U8500F Crystal UHD 4K Smart TV [2025]",1998.0,1998.0,0,VISUAL
-7335220478153,40426617176265,playmax-wireless-streamcast-microphone-black,Playmax Wireless Streamcast Microphone (Black),25.0,25.0,0,GAMES HARDWARE
+7335246332105,40426644275401,samsung-75-u8500f-crystal-uhd-4k-smart-tv-2025,"Samsung 75"" U8500F Crystal UHD 4K Smart TV [2025]",1680.0,1448.0,13.81,VISUAL
 7336714961097,40428196954313,asus-tuf-a16-16-wuxga-144hz-gaming-laptop-intel-core-i7geforce-rtx-5060,"Asus TUF A16 16"" WUXGA 144Hz Gaming Laptop (Intel Core i7)[GeForce RTX 5060]",3299.0,2988.0,9.43,COMPUTERS
 7336714764489,40428196757705,asus-tuf-a16-16-wuxga-144hz-gaming-laptop-intel-core-i7-geforce-rtx-5050,"Asus TUF A16 16"" WUXGA 144Hz Gaming Laptop (Intel Core i7) [GeForce RTX 5050]",2899.0,2598.0,10.38,COMPUTERS
 7336713158857,40428195152073,asus-vivobook-go-14-full-hd-laptop-athlon-silver128gb,"Asus VivoBook Go 14"" Full HD Laptop (Athlon Silver)[128GB]",999.0,999.0,0,COMPUTERS
@@ -44,7 +53,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336718696649,40428200820937,playstation-5-control-ultimate-edition,Control Ultimate Edition,79.0,79.0,0,GAMES SOFTWARE
 7336718663881,40428200722633,the-fantastic-four-first-steps-4k-ultra-hd-blu-ray,The Fantastic Four: First Steps,88.98,88.98,0,MOVIES
 7335982956745,40427414028489,emtec-elitegold-uhs-1-u1-micro-sd-card-32gb,Emtec EliteGold UHS-1 U1 Micro SD Card (32GB),24.99,24.99,0,IT
-7334870745289,40426244407497,nintendo-switch-2-final-fantasy-vii-remake-intergrade-includes-magic-the-gathering-final-fantasy-play-booster,Final Fantasy VII Remake Intergrade (Includes Magic: The Gathering - FINAL FANTASY Play Booster),79.0,79.0,0,GAMES SOFTWARE
 7334664470729,40426025517257,what-do-you-meme-gif-edition-card-board-games,What Do You Meme? GIF Edition,54.99,54.99,0,MOVIES
 7334659457225,40426019881161,konix-mug-dungeons-dragons-beholder,Konix Mug (Dungeons & Dragons - Beholder),7.0,5.0,28.57,GAMES HARDWARE
 7334121308361,40425452699849,tubbz-mini-cosplaying-duck-collectible-jurassic-park-dilophosaurus-collectibles,Tubbz Mini Cosplaying Duck Collectible (Jurassic Park - Dilophosaurus),16.99,16.99,0,MOVIES
@@ -53,9 +61,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7332913152201,40422014615753,cable-guys-controller-phone-holder-optimus-prime,Cable Guys Controller/Phone Holder (Optimus Prime),49.0,25.0,48.98,GAMES HARDWARE
 7204381425738,40365377486922,joby-compact-action-kit,Joby Compact Action Kit,219.0,219.0,0,CAMERAS
 7336718467273,40428200526025,nyko-nintendo-switch-master-pak,Nyko Nintendo Switch Master Pak,53.0,47.0,11.32,GAMES HARDWARE
-7204368416842,40365365952586,cable-guys-controller-phone-holder-stitch,Cable Guys Controller/Phone Holder (Stitch),25.0,25.0,0,GAMES HARDWARE
 7204363534410,40365361201226,pdp-deluxe-travel-case-for-nintendo-switch-switch-lite,PDP Deluxe Travel case for Nintendo Switch & Switch Lite,34.0,27.0,20.59,GAMES HARDWARE
-7204352327754,40365350453322,pdp-dual-ultra-slim-charge-system-for-xbox,PDP Dual Ultra Slim Charge System for Xbox,57.0,57.0,0,GAMES HARDWARE
 7204334731338,40365333643338,razer-gigantus-v2-mouse-mat-xxl,Razer Gigantus V2 Mouse Mat (XXL),43.0,43.0,0,GAMES HARDWARE
 7204292952138,40365309755466,thrustmaster-t-flight-hotas-4-flight-stick-for-playstation,Thrustmaster T.Flight Hotas 4 Flight Stick for PlayStation,197.0,197.0,0,GAMES HARDWARE
 7204401971274,40365397475402,steelseries-arctis-nova-1-gaming-headset-black,SteelSeries Arctis Nova 1 Gaming Headset (Black),127.0,127.0,0,GAMES HARDWARE
@@ -102,12 +108,10 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7204415832138,40365410943050,xbox-series-x-way-of-the-hunter,Way of the Hunter,19.0,19.0,0,GAMES SOFTWARE
 7204391026762,40365386924106,xbox-series-x-s-t-a-l-k-e-r-2-heart-of-chornobyl-day-one-edition,S.T.A.L.K.E.R. 2: Heart of Chornobyl Day One Edition,89.0,69.0,22.47,GAMES SOFTWARE
 7334560858313,40425920987337,nintendo-switch-final-fantasy-x-x-2-hd-remaster-code-in-box,Final Fantasy X/X-2 HD Remaster (Code in Box),39.0,39.0,0,GAMES SOFTWARE
-7332129964233,40421174575305,playstation-5-suicide-squad-kill-the-justice-league-deluxe-edition,Suicide Squad: Kill the Justice League Deluxe Edition,9.0,9.0,0,GAMES SOFTWARE
 7332874485961,40421975949513,playstation-5-amerzone-the-explorers-legacy,Amerzone - The Explorer’s Legacy,35.0,35.0,0,GAMES SOFTWARE
 7332129997001,40421174608073,xbox-series-x-suicide-squad-kill-the-justice-league-deluxe-edition,Suicide Squad: Kill the Justice League Deluxe Edition,9.0,9.0,0,GAMES SOFTWARE
 7328421740618,40417793638474,xbox-series-x-mortal-kombat-11-ultimate,Mortal Kombat 11 Ultimate,69.0,59.0,14.49,GAMES SOFTWARE
 7332713595081,40421814567113,playstation-4-lets-sing-2025,Let's Sing 2025,69.0,69.0,0,GAMES SOFTWARE
-7204422451274,40365417300042,playstation-5-gotham-knights-special-edition,Gotham Knights Special Edition,39.0,29.0,25.64,GAMES SOFTWARE
 7204391354442,40365387219018,playstation-4-the-house-of-the-dead-remake-limidead-edition,The House of the Dead Remake: LimiDead Edition,12.0,12.0,0,GAMES SOFTWARE
 7204402233418,40365397770314,nintendo-switch-the-smurfs-2-the-prisoner-of-the-green-stone,The Smurfs 2: The Prisoner of the Green Stone,69.0,69.0,0,GAMES SOFTWARE
 7328634273866,40417992736842,nintendo-switch-matchpoint-tennis-championships-legends-edition,MATCHPOINT Tennis Championships Legends Edition,39.0,29.0,25.64,GAMES SOFTWARE
@@ -123,7 +127,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334123864265,40425455255753,playstation-5-tomb-raider-iv-vi-remastered-deluxe-edition,Tomb Raider IV-VI Remastered: Deluxe Edition,99.0,99.0,0,GAMES SOFTWARE
 7333146230985,40424434794697,playstation-5-resident-evil-3,Resident Evil 3,59.0,59.0,0,GAMES SOFTWARE
 7204545364042,40365512523850,nintendo-switch-hokko-life,Hokko Life,29.0,19.0,34.48,GAMES SOFTWARE
-7212851527754,40371023347786,nintendo-switch-dredge-deluxe-edition,Dredge: Deluxe Edition,59.0,29.0,50.85,GAMES SOFTWARE
 7333414502601,40424708079817,xbox-series-x-split-fiction,Split Fiction,79.0,59.0,25.32,GAMES SOFTWARE
 7213570949194,40371520766026,xbox-series-x-ea-sports-fc-24,EA Sports FC 24,29.0,9.0,68.97,GAMES SOFTWARE
 7332843192521,40421944852681,xbox-series-x-dragon-age-the-veilguard,Dragon Age: The Veilguard,19.0,19.0,0,GAMES SOFTWARE
@@ -132,14 +135,10 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7204412522570,40365408125002,xbox-series-x-dead-space,Dead Space,29.0,29.0,0,GAMES SOFTWARE
 7204354588746,40365352714314,xbox-one-the-elder-scrolls-v-skyrim-10th-anniversary-edition,The Elder Scrolls V: Skyrim 10th Anniversary Edition,49.0,49.0,0,GAMES SOFTWARE
 7334192939209,40425524560073,xbox-series-x-borderlands-4-super-deluxe-edition,Borderlands 4: Super Deluxe Edition,209.0,89.0,57.42,GAMES SOFTWARE
-7332365336777,40421459099849,xbox-one-the-witcher-3-wild-hunt-game-of-the-year-edition,The Witcher 3: Wild Hunt - Game of the Year Edition,29.0,29.0,0,GAMES SOFTWARE
-7333505925321,40424800846025,playstation-5-wwe-2k25,WWE 2K25,39.0,29.0,25.64,GAMES SOFTWARE
 7204413833290,40365409140810,playstation-5-marvels-midnight-suns-enhanced-edition,Marvel's Midnight Suns Enhanced Edition,45.0,45.0,0,GAMES SOFTWARE
 7204411768906,40365407043658,playstation-5-lego-2k-drive-aquadirt-edition,LEGO 2K Drive Aquadirt Edition,35.0,35.0,0,GAMES SOFTWARE
 7204380606538,40365376700490,xbox-series-x-tekken-8-launch-edition,Tekken 8 Launch Edition,59.0,49.0,16.95,GAMES SOFTWARE
-7204828414026,40365689667658,nintendo-switch-crash-bandicoot-n-sane-trilogy,Crash Bandicoot N. Sane Trilogy,59.0,49.0,16.95,GAMES SOFTWARE
 7204394303562,40365390135370,ps5-console-covers-nova-pink-disc-drive-console,PS5 Console Covers – Nova Pink (Disc Drive Console),99.0,77.0,22.22,GAMES HARDWARE
-7204355113034,40365353173066,playstation-4-the-last-of-us-part-ii,The Last of Us Part II,69.0,18.0,73.91,GAMES SOFTWARE
 7204354654282,40365352681546,3rd-earth-protection-kit-for-nintendo-switch-nintendo-switch-lite,3rd Earth Protection Kit for Nintendo Switch/Nintendo Switch Lite,23.0,17.0,26.09,GAMES HARDWARE
 7332584816841,40421684314313,nintendo-switch-donkey-kong-country-returns-hd,Donkey Kong Country Returns HD,99.0,99.0,0,GAMES SOFTWARE
 7332345184457,40421438980297,nintendo-switch-paper-mario-the-thousand-year-door,Paper Mario: The Thousand-Year Door,99.0,99.0,0,GAMES SOFTWARE
@@ -235,7 +234,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7332812751049,40421914345673,cd-falling-in-reverse-popular-monster-cd,Popular Monster,32.99,32.99,0,MUSIC
 7332719231177,40421820203209,zero-x-explora-fhd-digital-camera-black,Zero-X Explora FHD Digital Camera (Black),117.0,77.0,34.19,CAMERAS
 7335249051849,40426647158985,vinyl-human-instinct-the-stoned-guiter-vinyl-lp,Stoned Guiter (vinyl),62.99,62.99,0,MUSIC
-7333109399753,40424397635785,goldair-106cm-tower-fan,Goldair 106cm Tower Fan,137.0,137.0,0,SMALL APPLIANCES
 7332865278153,40421966741705,backbone-one-mobile-gaming-controller-usb-c-2nd-gen,Backbone One Mobile Gaming Controller - USB-C (2nd Gen),167.0,167.0,0,GAMES HARDWARE
 7332383293641,40421477056713,vinyl-griffin-taylor-in-green-ep-vinyl-lp,In Green EP (vinyl),9.99,9.99,0,MUSIC
 7328124403786,40417511899210,greatest-showman-the-2017-blu-ray-1,"Greatest Showman, The",24.98,24.98,0,MOVIES
@@ -244,7 +242,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7332233576649,40421326782665,panzer-lens-protector-for-s24,Panzer Lens Protector for S24,15.0,15.0,0,ACCESSORIES
 7204430676042,40365423919178,cd-j-dilla-jay-dee-jay-love-japan-cd,Jay Love Japan,31.99,31.99,0,MUSIC
 7332494573769,40421593186505,powerplay-ps4-charge-cable-3m,PowerPlay PS4 Charge Cable (3m),12.0,12.0,0,GAMES HARDWARE
-7332028940489,40421073551561,vinyl-future-purple-reign-vinyl-lp,Purple Reign (Vinyl),49.99,49.99,0,MUSIC
 7204840931402,40365697204298,satechi-usb-c-to-vga-adaptor,Satechi USB-C to VGA Adaptor,37.0,37.0,0,IT
 7334176850121,40425508503753,vinyl-ifrit-haunting-charpel-grounds-cd,Haunting Charpel Grounds,17.99,17.99,0,MUSIC
 7333050220745,40422160105673,vinyl-iommi-tony-black-sabbath-the-1996-dep-sessions-with-glenn-hughes-black-ice-vinyl-lp-colour-may-vary,The 1996 Dep Sessions With Glenn Hughes (Black Ice Vinyl),39.99,39.99,0,MUSIC
@@ -263,7 +260,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7204434083914,40365425885258,nextbase-rear-view-camera,Nextbase Rear View Camera,97.0,97.0,0,CAMERAS
 7336709292233,40428191154377,cd-pulp-separations-cd,Separations,27.99,27.99,0,MUSIC
 7333111627977,40424399864009,vinyl-darkthrone-goatlord-original-vinyl-lp,Goatlord (Original) (Vinyl),34.99,34.99,0,MUSIC
-7332214177993,40421258789065,otterbox-symmetry-series-case-for-iphone-11-clear,Otterbox Symmetry Series Case for iPhone 11 (Clear),69.99,37.0,47.14,ACCESSORIES
 7206723846218,40366996652106,vinyl-shihad-old-gods-red-vinyl-lp,Old Gods (Red Vinyl),59.99,59.99,0,MUSIC
 7205324816458,40365956595786,kevin-can-wait-season-2-2018-dvd,Kevin Can Wait - Season 2,24.98,24.98,0,MOVIES
 7328540229706,40417905967178,vinyl-segall-ty-harmonizer-vinyl-lp,Harmonizer (Vinyl),47.99,47.99,0,MUSIC
@@ -292,7 +288,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336614494409,40428093702345,powerwave-switch-joypad-super-edition-blue-red,Powerwave Switch Joypad Super Edition (Blue & Red),99.0,99.0,0,GAMES HARDWARE
 7336699625673,40428181422281,gopro-mission-1-pro-8k-compact-cinema-camera,GoPro Mission 1 Pro 8K Compact Cinema Camera,1399.0,1399.0,0,CAMERAS
 7204387127370,40365383090250,powerwave-switch-joypad-retro-edition-purple-grey,Powerwave Switch Joypad Retro Edition (Purple & Grey),99.0,99.0,0,GAMES HARDWARE
-7230946541642,40384965673034,delonghi-eletta-explore-connect-fully-automatic-coffee-machine,De'Longhi Eletta Explore Connect Fully Automatic Coffee Machine,1698.0,1497.0,11.84,SMALL APPLIANCES
 7336709128393,40428190990537,vinyl-bowie-david-the-next-day-vinyl-lp,The Next Day (Vinyl),137.99,137.99,0,MUSIC
 7336709030089,40428190892233,cd-bowie-david-the-next-day-cd,The Next Day,24.99,24.99,0,MUSIC
 7336709095625,40428190957769,vinyl-bowie-david-a-reality-tour-vinyl-3lp,A Reality Tour (Vinyl),192.99,192.99,0,MUSIC
@@ -427,7 +422,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336682881225,40428163170505,cd-whitechapel-new-era-of-corruption-a-cd,"New Era Of Corruption, A",33.99,33.99,0,MUSIC
 7336679702729,40428159992009,cd-various-soul-jazz-records-rebel-isalnd-soul-cd,Rebel Isalnd Soul,35.99,35.99,0,MUSIC
 7336603189449,40428082233545,vinyl-wigmore-gin-beautiful-mess-bleeding-heart-coloured-vinyl-lp-colour-may-vary,Beautiful Mess (Bleeding Heart Coloured Vinyl),70.99,70.99,0,MUSIC
-7334000951497,40425328902345,hisense-75-u8qnz-4k-uled-mini-led-smart-tv-2025,"Hisense 75"" U8QNZ 4K ULED Mini-LED Smart TV [2025]",2947.0,2947.0,0,VISUAL
 7206754648138,40367023980618,cd-williams-lucinda-runnin-down-a-dream-a-tribute-to-tom-petty-cd,Runnin' Down A Dream: A Tribute To Tom Petty,26.99,26.99,0,MUSIC
 7336681472201,40428161761481,cd-various-mos-uk-back-to-old-skool-indie-dance-classics-3-cd,Back to Old Skool Indie Dance Classics 3,9.99,9.99,0,MUSIC
 7204461183050,40365444333642,cd-various-punk-goes-pop-vol-7-cd,Punk Goes Pop Vol. 7,4.99,4.99,0,MUSIC
@@ -1245,7 +1239,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336572059849,40428045271241,kenwood-quickmix-go-hand-mixer-eucalyptus-green,Kenwood QuickMix Go Hand Mixer (Eucalyptus Green),75.0,68.0,9.33,SMALL APPLIANCES
 7336571994313,40428045205705,kenwood-go-stand-mixer-eucalyptus-green,Kenwood Go Stand Mixer (Eucalyptus Green),398.0,398.0,0,SMALL APPLIANCES
 7334027559113,40425357050057,samsung-50-qn90f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 50"" QN90F NEO QLED 4K Mini LED Smart AI TV [2025]",1880.0,1880.0,0,VISUAL
-7334948438217,40426329145545,lenovo-ideapad-slim-3-15-6-fhd-laptop-intel-core-i3128gb,"Lenovo IdeaPad Slim 3 15.6"" FHD Laptop (Intel Core i3)[128GB]",1199.0,897.0,25.19,COMPUTERS
 7336442396873,40427910987977,youtooz-five-nights-at-freddys-nightmare-fredbear-plush-9-collectibles,"Youtooz: Five Nights at Freddy's - Nightmare Fredbear Plush (9"")",59.99,59.99,0,MOVIES
 7336442364105,40427910955209,youtooz-five-nights-at-freddys-nightmare-cupcake-plush-9-collectibles,"Youtooz: Five Nights at Freddy's - Nightmare Cupcake Plush (9"")",59.99,59.99,0,MOVIES
 7336442331337,40427910922441,youtooz-five-nights-at-freddys-nightmare-plush-9-collectibles,"Youtooz: Five Nights at Freddy's - Nightmare Plush (9"")",59.99,59.99,0,MOVIES
@@ -3277,7 +3270,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336144994505,40427583406281,nintendo-amiibo-king-dedede-tank-star-kirby-air-riders,Nintendo amiibo - King Dedede & Tank Star (Kirby Air Riders),89.0,89.0,0,GAMES HARDWARE
 7336144863433,40427583275209,ayaneo-pocket-air-mini-2g-32gb-white,Ayaneo Pocket Air Mini 2G + 32GB White,249.0,249.0,0,GAMES HARDWARE
 7335904510153,40427329487049,apple-iphone-16-pro-max-512gb-natural-titanium-refurbished-very-good,Apple iPhone 16 Pro Max 512GB (Natural Titanium) [~Refurbished: Very Good],1899.0,1899.0,0,COMMUNICATIONS
-7335903559881,40427328536777,apple-iphone-16-pro-max-256gb-black-titanium-refurbished-very-good,Apple iPhone 16 Pro Max 256GB (Black Titanium) [~Refurbished: Very Good],1749.0,1749.0,0,COMMUNICATIONS
 7335897956553,40427322933449,apple-iphone-15-pro-max-256gb-blue-titanium-refurbished-very-good,Apple iPhone 15 Pro Max 256GB (Blue Titanium) [~Refurbished: Very Good],1499.0,1499.0,0,COMMUNICATIONS
 7335904215241,40427329192137,apple-iphone-16-pro-max-256gb-desert-titanium-refurbished-very-good,Apple iPhone 16 Pro Max 256GB (Desert Titanium) [~Refurbished: Very Good],1749.0,1749.0,0,COMMUNICATIONS
 7334438371529,40425782018249,apple-iphone-11-64gb-white-refurbished-excellent,Apple iPhone 11 64GB (White) [~Refurbished: Excellent],499.0,499.0,0,COMMUNICATIONS
@@ -3534,12 +3526,12 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336082604233,40427519934665,apple-ipad-air-11-inch-m4-128gb-wi-fi-cellular-purple,Apple iPad Air 11-inch M4 128GB Wi-Fi + Cellular (Purple),1499.0,1499.0,0,COMPUTERS
 7336082505929,40427519836361,apple-ipad-air-11-inch-m4-128gb-wi-fi-purple,Apple iPad Air 11-inch M4 128GB Wi-Fi (Purple),1100.0,1100.0,0,COMPUTERS
 7336082473161,40427519803593,apple-ipad-air-11-inch-m4-128gb-wi-fi-blue,Apple iPad Air 11-inch M4 128GB Wi-Fi (Blue),1100.0,1100.0,0,COMPUTERS
-7336080179401,40427517477065,apple-iphone-17e-256gb-black,Apple iPhone 17e 256GB (Black),1199.0,1199.0,0,COMMUNICATIONS
-7336080244937,40427517542601,apple-iphone-17e-512gb-black,Apple iPhone 17e 512GB (Black),1599.0,1599.0,0,COMMUNICATIONS
-7336080277705,40427517575369,apple-iphone-17e-256gb-white,Apple iPhone 17e 256GB (White),1199.0,1199.0,0,COMMUNICATIONS
-7336080146633,40427517444297,apple-iphone-17e-256gb-soft-pink,Apple iPhone 17e 256GB (Soft Pink),1199.0,1199.0,0,COMMUNICATIONS
-7336080212169,40427517509833,apple-iphone-17e-512gb-white,Apple iPhone 17e 512GB (White),1599.0,1599.0,0,COMMUNICATIONS
-7336080310473,40427517608137,apple-iphone-17e-512gb-soft-pink,Apple iPhone 17e 512GB (Soft Pink),1599.0,1599.0,0,COMMUNICATIONS
+7336080179401,40427517477065,apple-iphone-17e-256gb-black,Apple iPhone 17e 256GB (Black),1149.0,1149.0,0,COMMUNICATIONS
+7336080244937,40427517542601,apple-iphone-17e-512gb-black,Apple iPhone 17e 512GB (Black),1549.0,1549.0,0,COMMUNICATIONS
+7336080277705,40427517575369,apple-iphone-17e-256gb-white,Apple iPhone 17e 256GB (White),1149.0,1149.0,0,COMMUNICATIONS
+7336080146633,40427517444297,apple-iphone-17e-256gb-soft-pink,Apple iPhone 17e 256GB (Soft Pink),1149.0,1149.0,0,COMMUNICATIONS
+7336080212169,40427517509833,apple-iphone-17e-512gb-white,Apple iPhone 17e 512GB (White),1549.0,1549.0,0,COMMUNICATIONS
+7336080310473,40427517608137,apple-iphone-17e-512gb-soft-pink,Apple iPhone 17e 512GB (Soft Pink),1549.0,1549.0,0,COMMUNICATIONS
 7336030666953,40427466293449,philips-hd9875-90-7000-series-connected-8-3l-air-fryer-combi-xxxl,Philips HD9875/90 7000 Series Connected 8.3L Air Fryer Combi XXXL,399.0,148.0,62.91,SMALL APPLIANCES
 7336054489289,40427490803913,jackson-frameo-7-smart-frame-white,"Jackson Frameo 7"" Smart Frame (White)",99.0,99.0,0,CAMERAS
 7336066187465,40427503059145,tonies-audio-character-disney-101-dalmations-content-tonie,tonies Audio Character (Disney - 101 Dalmations),34.99,34.99,0,MOVIES
@@ -8473,16 +8465,16 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334836175049,40426209444041,cd-various-50-reggae-hits-2cd,50 Reggae Hits,40.99,40.99,0,MUSIC
 7334836142281,40426209411273,vinyl-sexsmith-ron-hangover-terrace-turquoise-vinyl-lp,Hangover Terrace (Turquoise Vinyl),60.99,60.99,0,MUSIC
 7334834929865,40426208198857,apple-airpods-pro-3,Apple AirPods Pro 3,418.0,418.0,0,AUDIO
-7334833553609,40426206757065,apple-iphone-17-512gb-white,Apple iPhone 17 512GB (White),2099.0,2099.0,0,COMMUNICATIONS
-7334833455305,40426206691529,apple-iphone-17-256gb-mist-blue,Apple iPhone 17 256GB (Mist Blue),1699.0,1699.0,0,COMMUNICATIONS
-7334833815753,40426207051977,apple-iphone-17-512gb-lavender,Apple iPhone 17 512GB (Lavender),2099.0,2099.0,0,COMMUNICATIONS
-7334833520841,40426206789833,apple-iphone-17-512gb-black,Apple iPhone 17 512GB (Black),2099.0,2099.0,0,COMMUNICATIONS
-7334833717449,40426206953673,apple-iphone-17-512gb-mist-blue,Apple iPhone 17 512GB (Mist Blue),2099.0,2099.0,0,COMMUNICATIONS
-7334833848521,40426207084745,apple-iphone-17-512gb-sage,Apple iPhone 17 512GB (Sage),2099.0,2099.0,0,COMMUNICATIONS
-7334833750217,40426206986441,apple-iphone-17-256gb-sage,Apple iPhone 17 256GB (Sage),1699.0,1699.0,0,COMMUNICATIONS
-7334833586377,40426206822601,apple-iphone-17-256gb-white,Apple iPhone 17 256GB (White),1699.0,1699.0,0,COMMUNICATIONS
-7334833422537,40426206658761,apple-iphone-17-256gb-lavender,Apple iPhone 17 256GB (Lavender),1699.0,1699.0,0,COMMUNICATIONS
-7334833357001,40426206593225,apple-iphone-17-256gb-black,Apple iPhone 17 256GB (Black),1699.0,1699.0,0,COMMUNICATIONS
+7334833553609,40426206757065,apple-iphone-17-512gb-white,Apple iPhone 17 512GB (White),2044.0,2044.0,0,COMMUNICATIONS
+7334833455305,40426206691529,apple-iphone-17-256gb-mist-blue,Apple iPhone 17 256GB (Mist Blue),1626.0,1626.0,0,COMMUNICATIONS
+7334833815753,40426207051977,apple-iphone-17-512gb-lavender,Apple iPhone 17 512GB (Lavender),2044.0,2044.0,0,COMMUNICATIONS
+7334833520841,40426206789833,apple-iphone-17-512gb-black,Apple iPhone 17 512GB (Black),2044.0,2044.0,0,COMMUNICATIONS
+7334833717449,40426206953673,apple-iphone-17-512gb-mist-blue,Apple iPhone 17 512GB (Mist Blue),2044.0,2044.0,0,COMMUNICATIONS
+7334833848521,40426207084745,apple-iphone-17-512gb-sage,Apple iPhone 17 512GB (Sage),2044.0,2044.0,0,COMMUNICATIONS
+7334833750217,40426206986441,apple-iphone-17-256gb-sage,Apple iPhone 17 256GB (Sage),1626.0,1626.0,0,COMMUNICATIONS
+7334833586377,40426206822601,apple-iphone-17-256gb-white,Apple iPhone 17 256GB (White),1626.0,1626.0,0,COMMUNICATIONS
+7334833422537,40426206658761,apple-iphone-17-256gb-lavender,Apple iPhone 17 256GB (Lavender),1626.0,1626.0,0,COMMUNICATIONS
+7334833357001,40426206593225,apple-iphone-17-256gb-black,Apple iPhone 17 256GB (Black),1626.0,1626.0,0,COMMUNICATIONS
 7334832931017,40426206167241,apple-iphone-air-512gb-light-gold,Apple iPhone Air 512GB (Light Gold),2046.0,2046.0,0,COMMUNICATIONS
 7334832865481,40426206101705,apple-iphone-air-512gb-sky-blue,Apple iPhone Air 512GB (Sky Blue),2046.0,2046.0,0,COMMUNICATIONS
 7334832734409,40426205970633,apple-iphone-air-256gb-sky-blue,Apple iPhone Air 256GB (Sky Blue),1646.0,1646.0,0,COMMUNICATIONS
@@ -8498,7 +8490,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334830211273,40426203447497,uag-plyo-magsafe-case-for-iphone-17-pro-max-black-clear-ombre,UAG Plyo MagSafe Case for iPhone 17 Pro Max (Black/Clear Ombre),99.99,99.99,0,ACCESSORIES
 7334829785289,40426203021513,zagg-invisibleshield-glass-xtr5-screen-protector-for-iphone-17,ZAGG InvisibleShield Glass XTR5 Screen Protector for iPhone 17,69.99,69.99,0,ACCESSORIES
 7334830178505,40426203414729,uag-plasma-xte-magsafe-case-for-iphone-17-pro-black-orange,UAG Plasma XTE MagSafe Case for iPhone 17 Pro (Black/Orange),119.99,119.99,0,ACCESSORIES
-7334829588681,40426202824905,care-by-panzerglass-flow-case-with-magsafe-for-iphone-17-pro-max-vanilla,CARE by PanzerGlass Flow Case with MagSafe for iPhone 17 Pro Max (Vanilla),52.49,37.0,29.51,ACCESSORIES
 7334829129929,40426202366153,3sixt-neostand-case-for-iphone-17-black,3sixT NeoStand Case for iPhone 17 (Black),59.99,59.99,0,ACCESSORIES
 7334828966089,40426202202313,3sixt-everclear-case-for-iphone-17-pro,3sixT Everclear+ Case for iPhone 17 Pro,49.99,49.99,0,ACCESSORIES
 7334828081353,40426201317577,case-mate-twinkle-magsafe-case-for-iphone-17-pro-max-twilight-silver,Case-Mate Twinkle MagSafe Case for iPhone 17 Pro Max (Twilight Silver),59.99,59.99,0,ACCESSORIES
@@ -8574,26 +8565,26 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334828245193,40426201481417,otterbox-defender-pro-magsafe-case-cam-control-for-iphone-17-pro-black,Otterbox Defender Pro MagSafe Case & Cam Control for iPhone 17 Pro (Black),129.99,129.99,0,ACCESSORIES
 7334828310729,40426201546953,otterbox-defender-xt-pro-magsafe-case-cam-control-for-iphone-17-pro-dark-side-black,Otterbox Defender XT Pro MagSafe Case & Cam Control for iPhone 17 Pro (Dark Side Black),129.99,129.99,0,ACCESSORIES
 7334828179657,40426201415881,otterbox-defender-xt-pro-magsafe-case-cam-control-for-iphone-17-dark-side-black,Otterbox Defender XT Pro MagSafe Case & Cam Control for iPhone 17 (Dark Side Black),129.99,129.99,0,ACCESSORIES
-7334831554761,40426204790985,apple-iphone-17-pro-max-512gb-silver,Apple iPhone 17 Pro Max 512GB (Silver),2949.0,2949.0,0,COMMUNICATIONS
+7334831554761,40426204790985,apple-iphone-17-pro-max-512gb-silver,Apple iPhone 17 Pro Max 512GB (Silver),2819.0,2819.0,0,COMMUNICATIONS
 7334831751369,40426204987593,apple-iphone-17-pro-max-1tb-silver,Apple iPhone 17 Pro Max 1TB (Silver),3349.0,3349.0,0,COMMUNICATIONS
 7334831456457,40426204692681,apple-iphone-17-pro-1tb-silver,Apple iPhone 17 Pro 1TB (Silver),3149.0,3149.0,0,COMMUNICATIONS
-7334831620297,40426204823753,apple-iphone-17-pro-max-512gb-cosmic-orange,Apple iPhone 17 Pro Max 512GB (Cosmic Orange),2949.0,2949.0,0,COMMUNICATIONS
-7334831423689,40426204659913,apple-iphone-17-pro-512gb-deep-blue,Apple iPhone 17 Pro 512GB (Deep Blue),2749.0,2749.0,0,COMMUNICATIONS
-7334831292617,40426204528841,apple-iphone-17-pro-256gb-silver,Apple iPhone 17 Pro 256GB (Silver),2349.0,2349.0,0,COMMUNICATIONS
-7334831259849,40426204496073,apple-iphone-17-pro-256gb-cosmic-orange,Apple iPhone 17 Pro 256GB (Cosmic Orange),2349.0,2349.0,0,COMMUNICATIONS
-7334831685833,40426204922057,apple-iphone-17-pro-max-256gb-cosmic-orange,Apple iPhone 17 Pro Max 256GB (Cosmic Orange),2549.0,2549.0,0,COMMUNICATIONS
-7334831587529,40426204856521,apple-iphone-17-pro-max-256gb-deep-blue,Apple iPhone 17 Pro Max 256GB (Deep Blue),2549.0,2549.0,0,COMMUNICATIONS
+7334831620297,40426204823753,apple-iphone-17-pro-max-512gb-cosmic-orange,Apple iPhone 17 Pro Max 512GB (Cosmic Orange),2819.0,2819.0,0,COMMUNICATIONS
+7334831423689,40426204659913,apple-iphone-17-pro-512gb-deep-blue,Apple iPhone 17 Pro 512GB (Deep Blue),2639.0,2639.0,0,COMMUNICATIONS
+7334831292617,40426204528841,apple-iphone-17-pro-256gb-silver,Apple iPhone 17 Pro 256GB (Silver),2239.0,2239.0,0,COMMUNICATIONS
+7334831259849,40426204496073,apple-iphone-17-pro-256gb-cosmic-orange,Apple iPhone 17 Pro 256GB (Cosmic Orange),2239.0,2239.0,0,COMMUNICATIONS
+7334831685833,40426204922057,apple-iphone-17-pro-max-256gb-cosmic-orange,Apple iPhone 17 Pro Max 256GB (Cosmic Orange),2439.0,2439.0,0,COMMUNICATIONS
+7334831587529,40426204856521,apple-iphone-17-pro-max-256gb-deep-blue,Apple iPhone 17 Pro Max 256GB (Deep Blue),2439.0,2439.0,0,COMMUNICATIONS
 7334831489225,40426204725449,apple-iphone-17-pro-1tb-deep-blue,Apple iPhone 17 Pro 1TB (Deep Blue),3149.0,3149.0,0,COMMUNICATIONS
 7334831915209,40426205151433,apple-iphone-17-pro-max-2tb-cosmic-orange,Apple iPhone 17 Pro Max 2TB (Cosmic Orange),4149.0,4149.0,0,COMMUNICATIONS
 7334831882441,40426205118665,apple-iphone-17-pro-max-2tb-deep-blue,Apple iPhone 17 Pro Max 2TB (Deep Blue),4149.0,4149.0,0,COMMUNICATIONS
 7334831849673,40426205053129,apple-iphone-17-pro-max-1tb-deep-blue,Apple iPhone 17 Pro Max 1TB (Deep Blue),3349.0,3349.0,0,COMMUNICATIONS
-7334831653065,40426204889289,apple-iphone-17-pro-max-256gb-silver,Apple iPhone 17 Pro Max 256GB (Silver),2549.0,2549.0,0,COMMUNICATIONS
+7334831653065,40426204889289,apple-iphone-17-pro-max-256gb-silver,Apple iPhone 17 Pro Max 256GB (Silver),2439.0,2439.0,0,COMMUNICATIONS
 7334831521993,40426204758217,apple-iphone-17-pro-1tb-cosmic-orange,Apple iPhone 17 Pro 1TB (Cosmic Orange),3149.0,3149.0,0,COMMUNICATIONS
-7334831390921,40426204627145,apple-iphone-17-pro-512gb-silver,Apple iPhone 17 Pro 512GB (Silver),2749.0,2749.0,0,COMMUNICATIONS
-7334831325385,40426204561609,apple-iphone-17-pro-256gb-deep-blue,Apple iPhone 17 Pro 256GB (Deep Blue),2349.0,2349.0,0,COMMUNICATIONS
+7334831390921,40426204627145,apple-iphone-17-pro-512gb-silver,Apple iPhone 17 Pro 512GB (Silver),2639.0,2639.0,0,COMMUNICATIONS
+7334831325385,40426204561609,apple-iphone-17-pro-256gb-deep-blue,Apple iPhone 17 Pro 256GB (Deep Blue),2239.0,2239.0,0,COMMUNICATIONS
 7334831816905,40426205085897,apple-iphone-17-pro-max-1tb-cosmic-orange,Apple iPhone 17 Pro Max 1TB (Cosmic Orange),3349.0,3349.0,0,COMMUNICATIONS
-7334831784137,40426205020361,apple-iphone-17-pro-max-512gb-deep-blue,Apple iPhone 17 Pro Max 512GB (Deep Blue),2949.0,2949.0,0,COMMUNICATIONS
-7334831358153,40426204594377,apple-iphone-17-pro-512gb-cosmic-orange,Apple iPhone 17 Pro 512GB (Cosmic Orange),2749.0,2749.0,0,COMMUNICATIONS
+7334831784137,40426205020361,apple-iphone-17-pro-max-512gb-deep-blue,Apple iPhone 17 Pro Max 512GB (Deep Blue),2819.0,2819.0,0,COMMUNICATIONS
+7334831358153,40426204594377,apple-iphone-17-pro-512gb-cosmic-orange,Apple iPhone 17 Pro 512GB (Cosmic Orange),2639.0,2639.0,0,COMMUNICATIONS
 7334826115273,40426199351497,playstation-5-warhammer-40000-space-marine-2-ultima-limited-edition,"Warhammer 40,000: Space Marine 2 Ultima Limited Edition",179.0,179.0,0,GAMES SOFTWARE
 7334824870089,40426198073545,skullcandy-crusher-540-active-over-ear-headphones-concrete,Skullcandy Crusher 540 Active Over-Ear Headphones (Concrete),248.0,248.0,0,AUDIO
 7334824739017,40426197942473,skullcandy-push-720-tws-open-ear-headphones-black,Skullcandy Push 720 TWS Open-Ear Headphones (Black),194.0,194.0,0,AUDIO
@@ -11400,7 +11391,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334030868681,40425360359625,samsung-50-the-frame-qled-4k-smart-tv-2025,"Samsung 50"" The Frame QLED 4K Smart TV [2025]",2198.0,2198.0,0,VISUAL
 7334030213321,40425359704265,samsung-65-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 65"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2025]",3088.0,2990.0,3.17,VISUAL
 7334030180553,40425359671497,samsung-75-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 75"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2025]",3980.0,3980.0,0,VISUAL
-7334024839369,40425354330313,samsung-65-s95f-oled-4k-smart-ai-tv-2025,"Samsung 65"" S95F OLED 4K Smart AI TV [2025]",4592.0,3988.0,13.15,VISUAL
 7334029623497,40425359114441,samsung-65-s90f-oled-4k-smart-ai-tv-2025,"Samsung 65"" S90F OLED 4K Smart AI TV [2025]",2758.0,2758.0,0,VISUAL
 7334030115017,40425359605961,samsung-85-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 85"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2025]",5478.0,5478.0,0,VISUAL
 7334029590729,40425359081673,samsung-55-s90f-oled-4k-smart-ai-tv-2025,"Samsung 55"" S90F OLED 4K Smart AI TV [2025]",1870.0,1870.0,0,VISUAL
@@ -14070,7 +14060,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7333486493897,40424781414601,cd-hootie-the-blowfish-the-atlantic-years-1994-2003-limited-box-set-5cd,The Atlantic Years 1994 2003 (Limited Box Set),59.99,59.99,0,MUSIC
 7333486362825,40424781283529,vinyl-smith-myles-a-minute-vinyl-lp,A Minute...(Vinyl),53.99,53.99,0,MUSIC
 7333486330057,40424781250761,cd-smith-myles-a-minute-cd,A Minute...,26.99,26.99,0,MUSIC
-7333485969609,40424780890313,vinyl-thin-lizzy-the-acoustic-sessions-clear-vinyl-lp-colour-may-vary,The Acoustic Sessions (Clear Vinyl),44.99,44.99,0,MUSIC
 7333485936841,40424780857545,cd-thin-lizzy-the-acoustic-sessions-cd,The Acoustic Sessions,27.99,27.99,0,MUSIC
 7333202264265,40424490729673,sony-linkbuds-open-true-wireless-earbuds-white,Sony LinkBuds Open True Wireless Earbuds (White),177.0,157.0,11.3,AUDIO
 7333202362569,40424490827977,sony-linkbuds-fit-tws-noise-cancelling-earbuds-white,Sony LinkBuds Fit TWS Noise Cancelling Earbuds (White),248.0,248.0,0,AUDIO
@@ -20262,7 +20251,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7328204816458,40417589198922,grinch-the-2018-2018-dvd-amaray-case,"Grinch, The (2018)",20.98,20.98,0,MOVIES
 7328303251530,40417683079242,booksmart-2019-dvd,Booksmart,12.98,12.98,0,MOVIES
 7256203100234,40402813517898,cd-prince-prince-cd,Prince,17.99,17.99,0,MUSIC
-7332182196425,40421226807497,breville-nespresso-vertuo-next-coffee-machine-bundle-black,Breville Nespresso Vertuo Next Coffee Machine Bundle (Black),287.0,287.0,0,SMALL APPLIANCES
 7206709428298,40366983938122,clerks-1994-dvd,Clerks,16.98,16.98,0,MOVIES
 7204379328586,40365375520842,sony-wh-1000xm5-premium-noise-cancelling-wireless-over-ear-headphones-silver,Sony WH-1000XM5 Premium Noise Cancelling Wireless Over-Ear Headphones (Silver),438.0,438.0,0,AUDIO
 7332095787209,40421140398281,tp-link-tapo-c500-outdoor-pan-tilt-wi-fi-security-camera,TP-Link Tapo C500 Outdoor Pan & Tilt Wi-Fi Security Camera,95.0,95.0,0,SMART HOME
@@ -21667,7 +21655,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7320150999114,40412558000202,vinyl-rodgers-paul-free-bad-company-midnight-rose-vinyl-lp,Midnight Rose (Vinyl),49.99,49.99,0,MUSIC
 7320147755082,40412556853322,apple-watch-45mm-magnetic-link-taupe-m-l,Apple Watch 45mm Magnetic Link (Taupe) [M/L],189.0,189.0,0,FITNESS
 7320147656778,40412556787786,cd-3teeth-endex-cd,Endex,25.99,25.99,0,MUSIC
-7320147132490,40412556656714,apple-watch-45mm-magnetic-link-evergreen-m-l,Apple Watch 45mm Magnetic Link (Evergreen) [M/L],157.0,157.0,0,FITNESS
 7320146313290,40412556591178,cd-saxe-jp-a-grey-area-cd,A Grey Area,29.99,29.99,0,MUSIC
 7320145100874,40412556460106,apple-watch-41mm-sport-band-mulberry-m-l,Apple Watch 41mm Sport Band (Mulberry) [M/L],89.0,89.0,0,FITNESS
 7320143659082,40412556361802,cd-malevolence-reign-of-suffering-cd,Reign Of Suffering,25.99,25.99,0,MUSIC
@@ -22352,7 +22339,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7204537172042,40365505609802,cd-dylan-bob-blood-on-the-tracks-cd,Blood On The Tracks,15.99,15.99,0,MUSIC
 7204519673930,40365493780554,cygnett-flexband-for-apple-watch-44-45mm-pink,Cygnett FlexBand for Apple Watch [44-45mm] (Pink),23.8,23.8,0,FITNESS
 7204471341130,40365453148234,delonghi-nespresso-vertuo-next-coffee-machine-bundle-white,De'Longhi Nespresso Vertuo Next Coffee Machine Bundle (White),287.0,287.0,0,SMALL APPLIANCES
-7204419108938,40365414154314,logitech-pop-keys-wireless-mechanical-keyboard-with-emoji-keys-cosmos-lavender,Logitech POP Keys Wireless Mechanical Keyboard with Emoji Keys (Cosmos Lavender),135.0,62.0,54.07,IT
 7204329914442,40365329121354,joby-gorillapod-1k-tripod,Joby GorillaPod 1K Tripod,97.0,97.0,0,CAMERAS
 7204308910154,40365316669514,gopro-suction-cup-mount,GoPro Suction Cup Mount,82.0,82.0,0,CAMERAS
 7204467867722,40365449642058,garmin-charging-data-cable-0-5m,Garmin Charging/Data Cable 0.5m,39.0,39.0,0,FITNESS
@@ -22501,7 +22487,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7249452007498,40398709162058,marshall-monitor-ii-anc-wireless-over-ear-headphones,Marshall Monitor II ANC Wireless Over-Ear-Headphones,417.0,417.0,0,AUDIO
 7249451909194,40398709096522,beats-studio-buds-true-wireless-noise-cancelling-earbuds-transparent,Beats Studio Buds + True Wireless Noise Cancelling Earbuds (Transparent),299.0,299.0,0,AUDIO
 7249451548746,40398708605002,i-saw-the-devil-2010-bluray,I Saw the Devil,44.98,44.98,0,MOVIES
-7249452138570,40398709293130,jbl-tune-670nc-adaptive-noise-cancelling-on-ear-headphones-white,JBL Tune 670NC Adaptive Noise Cancelling On-ear Headphones (White),97.0,77.0,20.62,AUDIO
 7249451384906,40398708473930,elizabeth-a-portrait-in-parts-2022-dvd,Elizabeth: A Portrait In Parts,25.98,25.98,0,MOVIES
 7249450729546,40398708146250,prisoner-collection-3-2022-dvd,Prisoner - Collection 3,180.98,180.98,0,MOVIES
 7249450008650,40398707785802,cd-raconteurs-the-white-stripes-broken-boy-soldiers-cd,Broken Boy Soldiers,25.99,25.99,0,MUSIC
@@ -22982,15 +22967,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7205884330058,40366317076554,energizer-alkaline-a76-coin-battery-2-pack,Energizer Alkaline A76 Coin Battery (2 Pack),6.99,6.99,0,ACCESSORIES
 7205890621514,40366320091210,energizer-lithium-2025-coin-battery-2-pack,Energizer Lithium 2025 Coin Battery (2 Pack),11.99,11.99,0,ACCESSORIES
 7205884657738,40366317371466,energizer-max-plus-aa-batteries-4-pack,Energizer Max Plus AA Batteries (4 Pack),15.99,15.99,0,ACCESSORIES
-7205884100682,40366316879946,energizer-max-aaa-battery-8-pack,Energizer Max AAA Battery (8 Pack),21.99,21.99,0,ACCESSORIES
-7205884526666,40366317240394,energizer-lithium-aa-batteries-4-pack,Energizer Lithium AA Batteries (4 Pack),32.99,32.99,0,ACCESSORIES
-7205884231754,40366316978250,energizer-lithium-aaa-batteries-4-pack,Energizer Lithium AAA Batteries (4 Pack),32.99,32.99,0,ACCESSORIES
-7210261151818,40369084563530,energizer-a27-battery-1-pack,Energizer A27 Battery (1 Pack),6.99,6.99,0,ACCESSORIES
-7204321132618,40365322141770,glass-chin-2015-dvd,Glass Chin,24.98,24.98,0,MOVIES
-7204424351818,40365419036746,cd-stewart-rod-another-country-deluxe-edition-cd,Another Country (Deluxe Edition),12.99,12.99,0,MUSIC
-7219008503882,40374916481098,the-white-lotus-the-complete-second-season-2022-dvd,The White Lotus - the Complete Second Season,15.98,15.98,0,MOVIES
-7219346014282,40375215685706,cd-chemical-brothers-the-for-that-beautiful-feeling-cd,For That Beautiful Feeling,29.99,29.99,0,MUSIC
-7218120097866,40374276227146,delonghi-magnifica-start-fully-automatic-coffee-machine-silver,De'Longhi Magnifica Start Fully Automatic Coffee Machine (Silver),899.0,899.0,0,SMALL APPLIANCES
 7217888493642,40374154199114,cd-mountain-goats-the-jenny-from-thebes-cd,Jenny From Thebes,26.99,26.99,0,MUSIC
 7217836949578,40374099968074,remington-all-in-1-titanium-grooming-system,Remington All-in-1 Titanium Grooming System,59.0,59.0,0,SMALL APPLIANCES
 7204648026186,40365603618890,kenwood-hbm60307gy-kenwood-triblade-xl-plus-hand-blender,Kenwood HBM60307GY Kenwood Triblade XL PLUS Hand Blender,148.0,148.0,0,SMALL APPLIANCES
@@ -24476,3 +24452,18 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7206811140170,40367077261386,vinyl-dream-theater-lost-not-forgotten-archives-awake-demos-1994-vinyl-2lp-cd,Lost Not Forgotten Archives: Awake Demos 1994 (Vinyl),49.99,49.99,0,MUSIC
 7206811107402,40367077228618,spider-man-no-way-home-2021-4k-ultra-hd,Spider-Man: No Way Home,29.98,29.98,0,MOVIES
 7206811009098,40367077163082,mitchells-vs-the-machines-the-dvd,"Mitchells Vs. The Machines, The",16.98,16.98,0,MOVIES
+7206810878026,40367076999242,spencer-2021-dvd,Spencer,20.98,20.98,0,MOVIES
+7206810714186,40367076835402,vinyl-weller-pauljam-style-council-illumination-vinyl-lp,Illumination (Vinyl),64.99,64.99,0,MUSIC
+7206810681418,40367076802634,cd-spice-girls-spiceworld-25th-anniversary-expanded-edition-2cd-mediabook,Spiceworld (25th Anniversary Expanded Edition),68.99,68.99,0,MUSIC
+7206810648650,40367076769866,vikings-complete-series-dvd,Vikings - Complete Series,219.98,219.98,0,MOVIES
+7206810550346,40367076704330,young-sheldon-season-4-2020-dvd,Young Sheldon - Season 4,20.98,20.98,0,MOVIES
+7206810484810,40367076638794,cd-rolling-stones-the-aftermath-us-version-japan-shm-cd-cd,Aftermath (US version) (Japan SHM-CD),45.99,45.99,0,MUSIC
+7206810386506,40367076540490,vinyl-baker-chet-art-pepper-picture-of-health-vinyl-lp,Picture Of Health (Vinyl),71.99,71.99,0,MUSIC
+7206810353738,40367076507722,cd-chelsea-jade-soft-spot-cd,Soft Spot,26.99,26.99,0,MUSIC
+7206810288202,40367076442186,cabin-fever-cabin-fever-2-spring-fever-2002-blu-ray,Cabin Fever/Cabin Fever 2: Spring Fever,40.98,40.98,0,MOVIES
+7206810517578,40367076671562,godfather-the-collection-50th-anniversary-2022-4k-ultra-hd,"Godfather, The - Collection (50th Anniversary)",139.98,139.98,0,MOVIES
+7206810320970,40367076474954,cd-celtic-frost-danse-macabre-cd-boxset-5cd-poster-badge-patch,Danse Macabre (CD Boxset),146.99,146.99,0,MUSIC
+7206810255434,40367076409418,cd-falco-sound-of-musik-the-the-greatest-hits-cd,"Sound Of Musik, The: The Greatest Hits",28.99,28.99,0,MUSIC
+7206810124362,40367076278346,carry-on-film-collection-volume-1-2022-blu-ray,Carry On... Film Collection Volume 1,62.98,62.98,0,MOVIES
+7206810026058,40367076245578,cd-caroline-caroline-cd,caroline,26.99,26.99,0,MUSIC
+7206809927754,40367076114506,cd-turner-frank-fthc-cd,FTHC,25.99,25.99,0,MUSIC
