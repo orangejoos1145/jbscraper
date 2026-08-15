@@ -1,4 +1,17 @@
 Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Category
+7333507563721,40424802549961,lg-98-ut9050-4k-uhd-led-tv-2024,"LG 98"" UT9050 4K UHD LED TV (2024)",3887.0,3887.0,0,VISUAL
+7336063467721,40427500175561,samsung-silicone-magnet-case-for-galaxy-s26-ultra-blue-violet,Samsung Silicone Magnet Case for Galaxy S26 Ultra (Blue Violet),89.99,89.99,0,ACCESSORIES
+7332208672969,40421253284041,jbl-live-770-wireless-over-ear-headphones-with-true-adaptive-nc-black,JBL Live 770 Wireless Over-Ear Headphones with True Adaptive NC (Black),163.0,163.0,0,AUDIO
+7334560137417,40425920233673,playstation-5-reanimal,REANIMAL,69.0,69.0,0,GAMES SOFTWARE
+7332672143561,40421772951753,nintendo-switch-mx-vs-atv-all-out-code-in-box,MX vs ATV All Out (Code in Box),35.0,35.0,0,GAMES SOFTWARE
+7332421730505,40421519524041,eufy-clean-robovac-x10-pro-omni-robotic-vacuum,Eufy Clean Robovac X10 Pro Omni Robotic Vacuum,897.0,897.0,0,SMALL APPLIANCES
+7205336252490,40365963640906,mystify-michael-hutchence-2019-blu-ray,Mystify: Michael Hutchence,25.98,25.98,0,MOVIES
+7205327175754,40365958037578,cd-sande-emeli-real-life-cd,Real Life,25.99,25.99,0,MUSIC
+7205318754378,40365953712202,men-in-black-international-jb-hi-fi-exclusive-edition-2019-4k-ultra-hd,Men in Black: International (JB Hi-Fi Exclusive Edition),29.98,29.98,0,MOVIES
+7332252614857,40421345820873,hp-350-compact-multi-device-bluetooth-keyboard-white,HP 350 Compact Multi-Device Bluetooth Keyboard (White),48.0,39.0,18.75,IT
+7204915937354,40365768212554,cd-diiv-deceiver-cd,Deceiver,25.99,25.99,0,MUSIC
+7204915576906,40365767491658,cd-banks-iii-cd,III,23.99,23.99,0,MUSIC
+7337515417801,40429103349961,dreame-swiftblade-trimmer,Dreame SwiftBlade Trimmer,249.0,249.0,0,SMALL APPLIANCES
 7337514664137,40429102530761,brook-pocket-auto-catch-lightning,Brook Pocket Auto Catch Lightning,79.0,79.0,0,GAMES HARDWARE
 7337514598601,40429102465225,brook-watchic-lite-colour-watch,Brook Watchic Lite Colour Watch,99.0,99.0,0,GAMES HARDWARE
 7337514401993,40429102268617,brook-wingman-p5-converter,Brook Wingman P5 Converter,129.0,129.0,0,GAMES HARDWARE
@@ -33,7 +46,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337497067721,40429084704969,cd-crow-sheryl-pick-you-up-cd,Pick You Up,32.99,32.99,0,MUSIC
 7337497133257,40429084770505,vinyl-crow-sheryl-pick-you-up-jb-exclusive-galaxy-blue-vinyl-lp,Pick You Up (JB Exclusive Galaxy Blue Vinyl),65.99,65.99,0,MUSIC
 7337497100489,40429084737737,vinyl-crow-sheryl-pick-you-up-vinyl-lp,Pick You Up (Vinyl),65.99,65.99,0,MUSIC
-7332208672969,40421253284041,jbl-live-770-wireless-over-ear-headphones-with-true-adaptive-nc-black,JBL Live 770 Wireless Over-Ear Headphones with True Adaptive NC (Black),163.0,163.0,0,AUDIO
 7204526260298,40365498892362,panzerglass-antibacterial-screen-protector-for-garmin-venu-2-40mm,PanzerGlass Antibacterial Screen Protector for Garmin Venu 2 (40mm),27.0,27.0,0,FITNESS
 7337498771657,40429086408905,robosen-optimus-prime-the-fallen-leader-edition,Robosen Optimus Prime (The Fallen Leader Edition),2499.0,2499.0,0,MOVIES
 7337498476745,40429086113993,lenovo-l16-16-wuxga-ips-portable-monitor,"Lenovo L16 16"" WUXGA IPS Portable Monitor",349.0,349.0,0,COMPUTERS
@@ -81,7 +93,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337453158601,40429040238793,tonies-toniebox-2-starter-set-pokemon-yellow-toniebox-2-starter-set,tonies Toniebox 2 Starter Set (Pokemon Yellow),259.99,259.99,0,MOVIES
 7334318571721,40425651044553,safe-by-panzer-ultrawide-fit-screen-protector-for-nothing-phone-3a-3a-pro,SAFE by Panzer UltraWide Fit Screen Protector for Nothing Phone 3A/3A Pro,30.99,27.0,12.88,ACCESSORIES
 7332530749641,40421629591753,vinyl-mystery-waitress-bright-black-night-vinyl-lp,Bright Black Night (Vinyl),29.99,29.99,0,MUSIC
-7332543332553,40421642141897,samsung-ms32dg4504agsa-32l-black-stainless-steel-microwave,Samsung MS32DG4504AGSA 32L Black Stainless Steel Microwave,257.0,257.0,0,SMALL APPLIANCES
 7336594309321,40428073189577,lg-65-ua8055-ai-uhd-4k-smart-tv-2026,"LG 65"" UA8055 AI UHD 4K Smart TV [2026]",897.0,897.0,0,VISUAL
 7337484091593,40429071597769,vinyl-tharpe-sister-rosetta-the-essential-collection-vinyl-lp,The Essential Collection (Vinyl),37.99,37.99,0,MUSIC
 7337484026057,40429071532233,vinyl-james-etta-the-essential-collection-vinyl-lp,The Essential Collection (Vinyl),37.99,37.99,0,MUSIC
@@ -377,7 +388,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7204443291722,40365432406090,confirmation-the-2016-dvd,"Confirmation, The",15.98,15.98,0,MOVIES
 7334359007433,40425691742409,lg-83-oled-evo-c5-ai-4k-uhd-smart-tv-2025,"LG 83"" OLED EVO C5 AI 4K UHD Smart TV [2025]",7297.0,7297.0,0,VISUAL
 7337439985865,40429026738377,cd-kerbdog-kerbdog-cd,Kerbdog,4.99,4.99,0,MUSIC
-7334029557961,40425359048905,samsung-48-s90f-oled-4k-smart-ai-tv-2025,"Samsung 48"" S90F OLED 4K Smart AI TV [2025]",2487.0,1998.0,19.66,VISUAL
 7333529944265,40424826273993,cd-okkervil-river-away-cd,Away,23.99,23.99,0,MUSIC
 7204450631754,40365436928074,cd-avalanches-the-wildflower-deluxe-edition-cd,Wildflower (Deluxe Edition),24.99,24.99,0,MUSIC
 7204436869194,40365427654730,code-geass-akito-the-exiled-ep-4-from-the-memories-of-hatred-2012-dvd,Code Geass: Akito The Exiled Ep 4 - From The Memories Of Hatred,14.98,14.98,0,MOVIES
@@ -830,7 +840,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337367044297,40428940132553,hori-compact-playstand-for-nintendo-switch-mario,Hori Compact PlayStand for Nintendo Switch (Mario),14.0,14.0,0,GAMES HARDWARE
 7204391518282,40365387350090,hori-horipad-controller-for-nintendo-switch,Hori HORIPAD+ Controller for Nintendo Switch,73.0,57.0,21.92,GAMES HARDWARE
 7331824042185,40420868456649,popsockets-magsafe-popgrip-clear-glitter,Popsockets Magsafe PopGrip (Clear Glitter),62.99,62.99,0,ACCESSORIES
-7332702453961,40421803393225,popsockets-popgrip-soft-shores,PopSockets PopGrip (Soft Shores),22.99,22.99,0,ACCESSORIES
 7334788825289,40426160652489,ecoflow-river-3-plus-portable-power-station,EcoFlow River 3 Plus Portable Power Station,599.0,599.0,0,ACCESSORIES
 7337364979913,40428938035401,safe-by-panzer-ultrawide-fit-screen-protector-for-oppo-reno16-pro,SAFE by Panzer UltraWide Fit Screen Protector for OPPO Reno16 Pro,29.95,29.95,0,ACCESSORIES
 7337343090889,40428915982537,motorola-moto-g47-impenetrable,motorola moto g47 (Impenetrable),549.0,549.0,0,COMMUNICATIONS
@@ -1031,7 +1040,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334304317641,40425636790473,vinyl-carpenter-sabrina-mans-best-friend-jb-exclusive-iridescent-white-vinyl-lp,Man's Best Friend (JB Exclusive Iridescent White Vinyl),79.99,79.99,0,MUSIC
 7204416618570,40365411729482,lowepro-adventura-tlz-30-iii-camera-bag-black,Lowepro Adventura  TLZ 30 III Camera Bag (Black),57.0,57.0,0,CAMERAS
 7337356460233,40428929450185,samsung-55-m80h-mini-led-4k-samsung-vision-ai-smart-tv-2026,"Samsung 55"" M80H Mini LED 4K Samsung Vision AI Smart TV [2026]",1598.0,1598.0,0,VISUAL
-7337356427465,40428929417417,samsung-85-m80h-mini-led-4k-samsung-vision-ai-smart-tv-2026,"Samsung 85"" M80H Mini LED 4K Samsung Vision AI Smart TV [2026]",4498.0,4498.0,0,VISUAL
+7337356427465,40428929417417,samsung-85-m80h-mini-led-4k-samsung-vision-ai-smart-tv-2026,"Samsung 85"" M80H Mini LED 4K Samsung Vision AI Smart TV [2026]",4388.0,3898.0,11.17,VISUAL
 7337360883913,40428933873865,vinyl-flo-therapy-at-the-club-blue-vinyl-lp-colour-may-vary,Therapy At The Club (Blue Vinyl),79.99,79.99,0,MUSIC
 7337338470601,40428911296713,cd-flo-therapy-at-the-club-cd,Therapy At The Club,33.99,33.99,0,MUSIC
 7337338110153,40428910969033,vinyl-bring-me-the-horizon-there-is-a-hell-believe-me-ive-seen-it-there-is-a-heaven-lets-keep-it-a-secret-vinyl-2lp,There Is A Hell Believe Me I’ve Seen It. There Is A Heaven Let’s Keep It A Secret (Vinyl),97.99,97.99,0,MUSIC
@@ -2252,13 +2261,13 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337120497865,40428676088009,vinyl-fat-dog-cancel-me-im-tired-vinyl-lp,Cancel Me (I’m Tired) (Vinyl),63.99,63.99,0,MUSIC
 7337120727241,40428676317385,cd-fat-dog-cancel-me-im-tired-cd,Cancel Me (I’m Tired),31.99,31.99,0,MUSIC
 7337107554505,40428658491593,hisense-65-s7snz-4k-hi-qled-canvastv-2026,Hisense 65'' S7SNZ 4K Hi-QLED CanvasTV [2026],3298.0,2498.0,24.26,VISUAL
-7336659157193,40428139020489,samsung-85-r85h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 85"" R85H Micro RGB 4K Smart AI TV [2026]",8265.0,8050.0,2.6,VISUAL
-7336645001417,40428124668105,samsung-65-s90h-oled-4k-smart-ai-tv-2026,"Samsung 65"" S90H OLED 4K Smart AI TV [2026]",5685.0,5685.0,0,VISUAL
+7336659157193,40428139020489,samsung-85-r85h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 85"" R85H Micro RGB 4K Smart AI TV [2026]",8050.0,7498.0,6.86,VISUAL
+7336645001417,40428124668105,samsung-65-s90h-oled-4k-smart-ai-tv-2026,"Samsung 65"" S90H OLED 4K Smart AI TV [2026]",4998.0,4698.0,6.0,VISUAL
 7336644968649,40428124635337,samsung-77-s95h-oled-4k-smart-ai-tv-2026,"Samsung 77"" S95H OLED 4K Smart AI TV [2026]",12278.0,10998.0,10.43,VISUAL
 7336644804809,40428124471497,samsung-83-s85h-oled-4k-smart-ai-tv-2026,"Samsung 83"" S85H OLED 4K Smart AI TV [2026]",9488.0,8998.0,5.16,VISUAL
 7336659255497,40428139086025,samsung-100-r85h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 100"" R85H Micro RGB 4K Smart AI TV [2026]",21998.0,13885.0,36.88,VISUAL
 7336652832969,40428132696265,hisense-55-s7snz-4k-hi-qled-canvastv-2026,Hisense 55'' S7SNZ 4K Hi-QLED CanvasTV [2026],2598.0,1988.0,23.48,VISUAL
-7336644706505,40428124373193,samsung-55-s85h-oled-4k-smart-ai-tv-2026,"Samsung 55"" S85H OLED 4K Smart AI TV [2026]",3598.0,3080.0,14.4,VISUAL
+7336644706505,40428124373193,samsung-55-s85h-oled-4k-smart-ai-tv-2026,"Samsung 55"" S85H OLED 4K Smart AI TV [2026]",3080.0,2796.0,9.22,VISUAL
 7336644673737,40428124340425,samsung-65-s85h-oled-4k-smart-ai-tv-2026,"Samsung 65"" S85H OLED 4K Smart AI TV [2026]",4885.0,4885.0,0,VISUAL
 7336497119433,40427969478857,tcl-98-p8ls-qd-mini-led-4k-uhd-google-tv-2026,"TCL 98"" P8LS QD-Mini LED 4K UHD Google TV [2026]",6998.0,6998.0,0,VISUAL
 7336761786569,40428265406665,sony-50-bravia-2-ii-4k-led-google-tv-2026,"Sony 50"" BRAVIA 2 II 4K LED Google TV [2026]",1498.0,1298.0,13.35,VISUAL
@@ -2271,7 +2280,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336447967433,40427917017289,tcl-85-p7ls-qled-4k-uhd-google-tv-with-gemini-2026,"TCL 85"" P7LS QLED 4K UHD Google TV with Gemini [2026]",3998.0,3295.0,17.58,VISUAL
 7336661188809,40428141117641,ffalcon-65-u65a-4k-led-google-tv-2026,"FFalcon 65"" U65A 4K LED Google TV [2026]",1099.0,1099.0,0,VISUAL
 7336903770313,40428419219657,lg-85-nu85-nano-ai-uhd-4k-smart-tv-2026,"LG 85"" NU85 NANO AI UHD 4K Smart TV [2026]",3548.0,3548.0,0,VISUAL
-7336645034185,40428124733641,samsung-85-r95h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 85"" R95H Micro RGB 4K Smart AI TV [2026]",12388.0,11083.0,10.53,VISUAL
+7336645034185,40428124733641,samsung-85-r95h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 85"" R95H Micro RGB 4K Smart AI TV [2026]",11083.0,10498.0,5.28,VISUAL
 7336448196809,40427917246665,tcl-65-c8l-premium-sqd-mini-led-google-tv-4k-uhd-2026,"TCL 65"" C8L Premium SQD-Mini LED Google TV 4K UHD [2026]",3088.0,3088.0,0,VISUAL
 7336652865737,40428132729033,hisense-75-s7sau-4k-hi-qled-canvastv-2026,Hisense 75'' S7SAU 4K Hi-QLED CanvasTV [2026],3770.0,3498.0,7.21,VISUAL
 7336647360713,40428127060169,lg-50-qned70b-ai-mini-led-4k-smart-tv-2026,"LG 50"" QNED70B AI Mini-LED 4K Smart TV [2026]",1398.0,1398.0,0,VISUAL
@@ -2365,7 +2374,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336741798089,40428225429705,kodak-gold-200-35mm-film-36-exposure,Kodak Gold 200 35mm Film (36 Exposure),34.0,34.0,0,CAMERAS
 7336741699785,40428225331401,kodak-pixpro-fz45-digital-compact-camera-silver,Kodak Pixpro FZ45 Digital Compact Camera (Silver),349.0,349.0,0,CAMERAS
 7336741568713,40428225200329,kodak-pixpro-fz45-digital-compact-camera-white,Kodak Pixpro FZ45 Digital Compact Camera (White),349.0,349.0,0,CAMERAS
-7206833225802,40367096660042,vinyl-state-champs-kings-of-the-new-age-vinyl-lp,Kings Of The New Age (Vinyl),29.99,29.99,0,MUSIC
 7206774898762,40367042723914,vinyl-weather-station-the-how-is-it-that-i-should-look-at-the-stars-gold-vinyl-lp,How Is It That I Should Look At The Stars (Gold Vinyl),29.99,29.99,0,MUSIC
 7328608321610,40417968521290,vinyl-newman-randy-good-old-boys-vinyl-2lp,Good Old Boys (Vinyl),59.99,59.99,0,MUSIC
 7206817103946,40367082864714,vinyl-end-boss-they-seek-my-head-vinyl-lp,They Seek My Head (Vinyl),24.99,24.99,0,MUSIC
@@ -3131,8 +3139,8 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336894955721,40428410175689,pillow-talk-4k-ultra-hd,Pillow Talk,40.98,40.98,0,MOVIES
 7336318697673,40427773984969,welcome-to-derry-season-1-2026-3-4k-ultra-hd-blu-ray,Welcome to Derry - Season 1,84.98,84.98,0,MOVIES
 7331807789257,40420852203721,cd-screaming-jets-the-essential-the-cd,"Essential, The",13.99,13.99,0,MUSIC
-7336644837577,40428124504265,samsung-42-s90h-oled-4k-smart-ai-tv-2026,"Samsung 42"" S90H OLED 4K Smart AI TV [2026]",3798.0,3798.0,0,VISUAL
-7336644903113,40428124569801,samsung-48-s90h-oled-4k-smart-ai-tv-2026,"Samsung 48"" S90H OLED 4K Smart AI TV [2026]",3885.0,3885.0,0,VISUAL
+7336644837577,40428124504265,samsung-42-s90h-oled-4k-smart-ai-tv-2026,"Samsung 42"" S90H OLED 4K Smart AI TV [2026]",3594.0,2696.0,24.99,VISUAL
+7336644903113,40428124569801,samsung-48-s90h-oled-4k-smart-ai-tv-2026,"Samsung 48"" S90H OLED 4K Smart AI TV [2026]",3885.0,3198.0,17.68,VISUAL
 7336761852105,40428265472201,sony-65-bravia-2-ii-4k-led-google-tv-2026,"Sony 65"" BRAVIA 2 II 4K LED Google TV [2026]",1785.0,1785.0,0,VISUAL
 7336761819337,40428265439433,sony-55-bravia-2-ii-4k-led-google-tv-2026,"Sony 55"" BRAVIA 2 II 4K LED Google TV [2026]",1688.0,1485.0,12.03,VISUAL
 7336873558217,40428387565769,cd-urban-keith-flow-state-cd,flow state,31.99,31.99,0,MUSIC
@@ -3381,13 +3389,13 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336816640201,40428322717897,vinyl-yu-su-foundry-vinyl-lp,Foundry (Vinyl),75.99,75.99,0,MUSIC
 7336804843721,40428308496585,cd-swallow-blown-2cd,Blown,39.99,39.99,0,MUSIC
 7336581300425,40428056281289,jackson-rapid-charge-pd20w-usb-c-usb-a-wall-adaptor,Jackson Rapid Charge PD20W USB-C / USB-A Wall Adaptor,36.99,31.44,15.0,ACCESSORIES
-7336659091657,40428138954953,samsung-75-r85h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 75"" R85H Micro RGB 4K Smart AI TV [2026]",7284.0,5998.0,17.66,VISUAL
+7336659091657,40428138954953,samsung-75-r85h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 75"" R85H Micro RGB 4K Smart AI TV [2026]",5998.0,5398.0,10.0,VISUAL
 7336659222729,40428139053257,samsung-75-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 75"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2026]",5980.0,5980.0,0,VISUAL
-7336659517641,40428139380937,samsung-75-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 75"" M70H Mini LED 4K Smart AI TV [2026]",3185.0,3185.0,0,VISUAL
-7336659484873,40428139315401,samsung-75-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 75"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",4285.0,4285.0,0,VISUAL
+7336659517641,40428139380937,samsung-75-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 75"" M70H Mini LED 4K Smart AI TV [2026]",3098.0,3098.0,0,VISUAL
+7336659484873,40428139315401,samsung-75-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 75"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",4285.0,3998.0,6.7,VISUAL
 7336659386569,40428139249865,samsung-55-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 55"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",2185.0,2185.0,0,VISUAL
-7336659288265,40428139151561,samsung-65-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 65"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",2898.0,2898.0,0,VISUAL
-7336659353801,40428139217097,samsung-85-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 85"" M70H Mini LED 4K Smart AI TV [2026]",4398.0,4398.0,0,VISUAL
+7336659288265,40428139151561,samsung-65-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 65"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",2795.0,2694.0,3.61,VISUAL
+7336659353801,40428139217097,samsung-85-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 85"" M70H Mini LED 4K Smart AI TV [2026]",4388.0,3898.0,11.17,VISUAL
 7336659321033,40428139184329,samsung-100-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 100"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",12598.0,10485.0,16.77,VISUAL
 7336659189961,40428139118793,samsung-55-r85h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 55"" R85H Micro RGB 4K Smart AI TV [2026]",3685.0,3534.0,4.1,VISUAL
 7336659124425,40428138987721,samsung-65-r85h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 65"" R85H Micro RGB 4K Smart AI TV [2026]",4565.0,3778.0,17.24,VISUAL
@@ -3546,9 +3554,8 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336332427465,40427787813065,denon-dht-s316-home-theatre-sound-bar-system-ex-demo,Denon DHT-S316 Home Theatre Sound Bar System [~Ex Demo],397.0,397.0,0,AUDIO
 7204651106378,40365604634698,lg-s75q-3-1-2-channel-380w-dolby-atmos-soundbar-ex-demo,LG S75Q 3.1.2 Channel 380W Dolby Atmos Soundbar [~Ex Demo],557.0,557.0,0,AUDIO
 7204341940298,40365340426314,denon-dht-s516-soundbar-with-subwoofer-ex-demo,Denon DHT-S516 Soundbar with Subwoofer [~Ex Demo],747.0,747.0,0,AUDIO
-7332226924745,40421271470281,soundboks-gen-4-wireless-speaker-ex-demo,Soundboks Gen 4 Wireless Speaker [~Ex Demo],1497.0,1497.0,0,AUDIO
 7332734107849,40421835178185,samsung-s700d-s-series-ultra-slim-soundbar-black-2024-ex-demo,Samsung S700D S-Series Ultra Slim Soundbar (Black) [2024] [~Ex Demo],487.0,487.0,0,AUDIO
-7336645066953,40428124700873,samsung-75-r95h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 75"" R95H Micro RGB 4K Smart AI TV [2026]",11558.0,11558.0,0,VISUAL
+7336645066953,40428124700873,samsung-75-r95h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 75"" R95H Micro RGB 4K Smart AI TV [2026]",9726.0,8498.0,12.63,VISUAL
 7333030985929,40422140870857,jbl-ma7100-7-2-channel-8k-high-performance-av-receiver-white-ex-demo,JBL MA7100 7.2 Channel 8K High Performance AV Receiver (White) [~Ex Demo],1347.0,1347.0,0,AUDIO
 7332372381897,40421466144969,philips-soundbar-2-1-with-wireless-subwoofer-ex-demo,Philips Soundbar 2.1 with Wireless Subwoofer [~Ex Demo],367.0,367.0,0,AUDIO
 7204379787338,40365375946826,sony-sa-rs3s-add-on-100w-wireless-rear-speakers-ex-demo,Sony SA-RS3S Add-On 100W Wireless Rear Speakers [~Ex Demo],657.0,657.0,0,AUDIO
@@ -4008,8 +4015,8 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336675213513,40428155273417,predator-badlands-blu-ray,Predator Badlands,76.98,76.98,0,MOVIES
 7336618754249,40428098060489,stm-studio-shell-for-13-macbook-air-retina-m5-m4-m3-m2-clear,"STM Studio Shell for 13"" MacBook Air Retina M5/M4/M3/M2 (Clear)",90.99,90.99,0,ACCESSORIES
 7336644608201,40428124274889,samsung-85-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 85"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",5592.0,5398.0,3.47,VISUAL
-7336644935881,40428124602569,samsung-83-s90h-oled-4k-smart-ai-tv-2026,"Samsung 83"" S90H OLED 4K Smart AI TV [2026]",12485.0,12485.0,0,VISUAL
-7336604532937,40428083708105,samsung-77-s90h-oled-4k-smart-ai-tv-2026,"Samsung 77"" S90H OLED 4K Smart AI TV [2026]",9585.0,9585.0,0,VISUAL
+7336644935881,40428124602569,samsung-83-s90h-oled-4k-smart-ai-tv-2026,"Samsung 83"" S90H OLED 4K Smart AI TV [2026]",12485.0,9698.0,22.32,VISUAL
+7336604532937,40428083708105,samsung-77-s90h-oled-4k-smart-ai-tv-2026,"Samsung 77"" S90H OLED 4K Smart AI TV [2026]",9585.0,9548.0,0.39,VISUAL
 7336604401865,40428083609801,samsung-77-s85h-oled-4k-smart-ai-tv-2026,"Samsung 77"" S85H OLED 4K Smart AI TV [2026]",6285.0,6285.0,0,VISUAL
 7336644640969,40428124307657,samsung-65-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 65"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2026]",4285.0,4285.0,0,VISUAL
 7336659452105,40428139348169,samsung-27-the-movingstyle-lsm7f-qhd-touch-interaction-movable-screen-2026,"Samsung 27"" The Movingstyle LSM7F QHD Touch Interaction Movable Screen [2026]",2298.0,2298.0,0,VISUAL
@@ -4329,10 +4336,10 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336604565705,40428083773641,samsung-65-s95h-oled-4k-smart-ai-tv-2026,"Samsung 65"" S95H OLED 4K Smart AI TV [2026]",7285.0,7285.0,0,VISUAL
 7336604500169,40428083740873,samsung-83-s95h-oled-4k-smart-ai-tv-2026,"Samsung 83"" S95H OLED 4K Smart AI TV [2026]",14588.0,14588.0,0,VISUAL
 7336604369097,40428083577033,samsung-55-s90h-oled-4k-smart-ai-tv-2026,"Samsung 55"" S90H OLED 4K Smart AI TV [2026]",4888.0,4888.0,0,VISUAL
-7336604467401,40428083675337,samsung-65-r95h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 65"" R95H Micro RGB 4K Smart AI TV [2026]",5998.0,5998.0,0,VISUAL
+7336604467401,40428083675337,samsung-65-r95h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 65"" R95H Micro RGB 4K Smart AI TV [2026]",5988.0,5798.0,3.17,VISUAL
 7336604336329,40428083544265,samsung-55-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 55"" M70H Mini LED 4K Smart AI TV [2026]",1388.0,1388.0,0,VISUAL
 7336604303561,40428083511497,samsung-43-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 43"" M70H Mini LED 4K Smart AI TV [2026]",895.0,895.0,0,VISUAL
-7336604434633,40428083642569,samsung-65-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 65"" M70H Mini LED 4K Smart AI TV [2026]",2088.0,2088.0,0,VISUAL
+7336604434633,40428083642569,samsung-65-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 65"" M70H Mini LED 4K Smart AI TV [2026]",1864.0,1864.0,0,VISUAL
 7336604270793,40428083478729,samsung-50-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 50"" M70H Mini LED 4K Smart AI TV [2026]",1090.0,1090.0,0,VISUAL
 7336579334345,40428054315209,tonies-audio-character-blippi-content-tonie,tonies Audio Character (Blippi),34.99,34.99,0,MOVIES
 7336569372873,40428042387657,samsung-music-studio-5-hw-ls51h-2-0ch-wi-fi-speaker-white-2026,Samsung Music Studio 5 HW-LS51H 2.0ch Wi-Fi Speaker (White) [2026],649.99,649.99,0,AUDIO
@@ -6734,7 +6741,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336056750281,40427493425353,3sixt-pureflex-nano-case-for-samsung-galaxy-s26-ultra-clear,3sixT PureFlex+ Nano Case for Samsung Galaxy S26 Ultra (Clear),50.99,50.99,0,ACCESSORIES
 7336029356233,40427464949961,3sixt-easyfit-screen-protector-for-samsung-galaxy-s26,3sixT EasyFit Screen Protector for Samsung Galaxy S26,40.99,40.99,0,ACCESSORIES
 7336063205577,40427499913417,samsung-silicone-magnet-case-for-galaxy-s26-black-1,Samsung Silicone Magnet Case for Galaxy S26+ (Black),89.99,89.99,0,ACCESSORIES
-7336063467721,40427500175561,samsung-silicone-magnet-case-for-galaxy-s26-ultra-blue-violet,Samsung Silicone Magnet Case for Galaxy S26 Ultra (Blue Violet),89.99,89.99,0,ACCESSORIES
 7336063172809,40427499880649,samsung-rugged-magnet-case-for-galaxy-s26-ultra-black,Samsung Rugged Magnet Case for Galaxy S26 Ultra (Black),75.99,75.99,0,ACCESSORIES
 7336062976201,40427499716809,samsung-rugged-magnet-case-for-galaxy-s26-black,Samsung Rugged Magnet Case for Galaxy S26 (Black),75.99,75.99,0,ACCESSORIES
 7336062943433,40427499684041,samsung-clear-magnet-case-for-galaxy-s26,Samsung Clear Magnet Case for Galaxy S26,79.99,79.99,0,ACCESSORIES
@@ -10173,7 +10179,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334983893193,40426365255881,cygnett-encore-20k-power-bank-black,Cygnett Encore 20k Power Bank (Black),190.99,190.99,0,ACCESSORIES
 7335045267657,40426432102601,paperlike-screen-protector-v3-0-for-ipad-air-11-m2,"Paperlike Screen Protector v3.0 for iPad Air 11"" M2",75.99,75.99,0,ACCESSORIES
 7335045169353,40426432004297,paperlike-screen-protector-v3-0-for-ipad-pro-11-m4,"Paperlike Screen Protector v3.0 for iPad Pro 11"" M4",75.99,75.99,0,ACCESSORIES
-7335026032841,40426412277961,gopro-hero13-black-5-3k-hypersmooth-6-0-action-cam-power-bundle,GoPro Hero13 Black 5.3K HyperSmooth 6.0 Action Cam Power Bundle,939.0,939.0,0,CAMERAS
 7335002767561,40426388816073,belkin-boostcharge-65w-usb-c-pd-3-1-wall-charger-usb-c-cable,Belkin BoostCharge 65W USB-C PD 3.1 Wall Charger + USB-C Cable,79.99,79.99,0,IT
 7334983991497,40426365386953,cygnett-encore-10k-power-bank-ivory,Cygnett Encore 10k Power Bank (Ivory),133.99,133.99,0,ACCESSORIES
 7334983860425,40426365223113,cygnett-encore-20k-power-bank-tan,Cygnett Encore 20k Power Bank (Tan),190.99,190.99,0,ACCESSORIES
@@ -13782,7 +13787,7 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7334108856521,40425439690953,3rd-earth-pvc-brown-leather-protection-case-for-nintendo-switch-2,3rd Earth PVC Brown Leather Protection Case for Nintendo Switch 2,28.0,28.0,0,GAMES HARDWARE
 7334108758217,40425439592649,vinyl-odesza-music-to-refine-to-a-remix-companion-to-severance-pearl-transparent-vinyl-lp-colour-may-vary,Music To Refine To: A Remix Companion to Severance (Pearl Transparent Vinyl),62.99,62.99,0,MUSIC
 7334108561609,40425439363273,vinyl-mike-showbiz-vinyl-2lp,Showbiz! (Vinyl),124.99,124.99,0,MUSIC
-7333988663497,40425315139785,sony-75-bravia-5-4k-hdr-mini-led-google-tv-2025,"Sony 75"" BRAVIA 5 4K HDR Mini LED Google TV [2025]",3485.0,3485.0,0,VISUAL
+7333988663497,40425315139785,sony-75-bravia-5-4k-hdr-mini-led-google-tv-2025,"Sony 75"" BRAVIA 5 4K HDR Mini LED Google TV [2025]",3356.0,3356.0,0,VISUAL
 7334062883017,40425392865481,ffalcon-32-s55-hd-led-smart-tv-2025,"FFalcon 32"" S55 HD LED Smart TV [2025]",299.0,276.0,7.69,VISUAL
 7334062981321,40425392963785,ffalcon-40-s55-full-hd-led-smart-tv-2025,"FFalcon 40"" S55 Full HD LED Smart TV [2025]",399.0,399.0,0,VISUAL
 7328333561930,40417710866506,fishermans-friend-2019-dvd,Fisherman’s Friend,15.98,15.98,0,MOVIES
@@ -13858,7 +13863,7 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7334085624009,40425416065225,nintendo-switch-world-of-goo-2,World of Goo 2,25.0,25.0,0,GAMES SOFTWARE
 7256184684618,40402804965450,vinyl-stapleton-chris-from-a-room-vol-1-vinyl-lp,From A Room: Vol 1 (Vinyl),69.99,69.99,0,MUSIC
 7256367497290,40402865881162,vinyl-soundgarden-louder-than-love-vinyl-lp,Louder Than Love (Vinyl),68.99,68.99,0,MUSIC
-7333988761801,40425315238089,sony-65-bravia-5-4k-hdr-mini-led-google-tv-2025,"Sony 65"" BRAVIA 5 4K HDR Mini LED Google TV [2025]",2788.0,2788.0,0,VISUAL
+7333988761801,40425315238089,sony-65-bravia-5-4k-hdr-mini-led-google-tv-2025,"Sony 65"" BRAVIA 5 4K HDR Mini LED Google TV [2025]",2788.0,2588.0,7.17,VISUAL
 7333988729033,40425315205321,sony-65-bravia-8-ii-4k-hdr-oled-google-tv-2025,"Sony 65"" BRAVIA 8 II 4K HDR OLED Google TV [2025]",5584.0,5584.0,0,VISUAL
 7333992628425,40425319858377,hyperx-pulsefire-saga-pro-wired-gaming-mouse,HyperX Pulsefire Saga Pro Wired Gaming Mouse,129.0,129.0,0,GAMES HARDWARE
 7333992595657,40425319825609,hyperx-quadcast-2-s-usb-microphone-black,HyperX QuadCast 2 S USB Microphone (Black),379.0,379.0,0,GAMES HARDWARE
@@ -15502,7 +15507,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333651775689,40424951218377,vinyl-kamaal-yussef-black-focus-vinyl-vinyl,Black Focus (Vinyl),70.99,70.99,0,MUSIC
 7333651710153,40424951152841,vinyl-davidson-delaney-swim-down-low-lp-dcvinyl-vinyl,SWIM DOWN LOW LP/DC(vinyl),36.99,36.99,0,MUSIC
 7333650464969,40424949907657,lenovo-legion-r34w-30-34-qhd-180hz-curved-gaming-monitor,"Lenovo Legion R34w-30 34"" QHD 180Hz Curved Gaming Monitor",547.0,547.0,0,COMPUTERS
-7333486821577,40424781742281,urbanista-copenhagen-2-true-wireless-earbuds-lavender-purple,Urbanista Copenhagen 2 True Wireless Earbuds (Lavender Purple),67.0,67.0,0,AUDIO
 7333646500041,40424945713353,cd-phoebe-rings-aseurai-cd,Aseurai,31.99,31.99,0,MUSIC
 7333446910153,40424741765321,garmin-hrm-200-heart-rate-monitor-xs-s,Garmin HRM 200 Heart Rate Monitor (XS - S),169.0,143.65,15.0,FITNESS
 7333446844617,40424741699785,garmin-hrm-200-heart-rate-monitor-m-xl,Garmin HRM 200 Heart Rate Monitor (M - XL),169.0,143.65,15.0,FITNESS
@@ -15558,7 +15562,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333636178121,40424933261513,tp-link-tapo-smart-wi-fi-light-strip-multicolour-5m,TP-Link Tapo Smart Wi-Fi Light Strip Multicolour (5m),94.0,75.0,20.21,SMART HOME
 7333636112585,40424933195977,origins-sense-espresso-machine-graphite,Origins Sense Espresso Machine (Graphite),797.0,597.0,25.09,SMALL APPLIANCES
 7333057986761,40422167838921,robosen-transformers-g1-auto-converting-robot-megatron-collectibles,Robosen Transformers G1 Auto-Converting Robot (Megatron),2499.0,2499.0,0,MOVIES
-7333635915977,40424932999369,origins-classic-espresso-machine-black,Origins Classic Espresso Machine (Black),697.0,497.0,28.69,SMALL APPLIANCES
 7333635883209,40424932966601,origins-slimline-espresso-machine-black,Origins Slimline Espresso Machine (Black),599.0,298.0,50.25,SMALL APPLIANCES
 7332884316361,40421985812681,govee-neon-rope-light-2s-4m,Govee Neon Rope Light 2S 4M,199.0,199.0,0,SMART HOME
 7333634343113,40424931426505,vinyl-beta-band-the-the-three-e-p-s-vinyl-2lp,The Three E.P.'s (Vinyl),101.99,101.99,0,MUSIC
@@ -19745,7 +19748,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7332714250441,40421815222473,youtooz-stranger-things-hellfire-club-eddie-figures,Youtooz Stranger Things Hellfire Club Eddie,59.99,59.99,0,MOVIES
 7332713529545,40421814501577,samsung-silicone-case-with-ring-for-galaxy-z-flip6-navy,Samsung Silicone Case with Ring for Galaxy Z Flip6 (Navy),64.7,64.7,0,ACCESSORIES
 7332713496777,40421814468809,samsung-silicone-stand-case-with-grip-for-galaxy-z-fold6-grey,Samsung Silicone Stand Case with Grip for Galaxy Z Fold6 (Grey),97.0,97.0,0,ACCESSORIES
-7332713464009,40421814436041,samsung-clear-case-with-grip-for-galaxy-z-fold6,Samsung Clear Case with Grip for Galaxy Z Fold6,64.7,64.7,0,ACCESSORIES
 7332713398473,40421814370505,samsung-kindsuit-case-for-galaxy-z-flip6-grey,Samsung Kindsuit Case for Galaxy Z Flip6 (Grey),127.0,127.0,0,ACCESSORIES
 7332713267401,40421814239433,samsung-silicone-case-with-ring-for-galaxy-z-flip6-grey,Samsung Silicone Case with Ring for Galaxy Z Flip6 (Grey),64.7,64.7,0,ACCESSORIES
 7332713169097,40421814141129,samsung-kindsuit-case-for-galaxy-z-fold6-brown,Samsung Kindsuit Case for Galaxy Z Fold6 (Brown),107.0,107.0,0,ACCESSORIES
@@ -20199,7 +20201,7 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7332574920905,40421674320073,waitress-the-musical-dvd,Waitress - The Musical,29.98,29.98,0,MOVIES
 7332574855369,40421674254537,fast-charlie-dvd,Fast Charlie,29.98,29.98,0,MOVIES
 7204834967626,40365692813386,terminator-2-judgement-day-1991-blu-ray,Terminator 2: Judgement Day,20.98,20.98,0,MOVIES
-7332574560457,40421673959625,vinyl-spacemen-3-spiritualized-a-perfect-prescription-original-gold-sleeve-edition-vinyl-lp,A Perfect Prescription (Original Gold Sleeve Edition) (Vinyl),60.99,60.99,0,MUSIC
+7332574560457,40421673959625,vinyl-spacemen-3-spiritualized-a-perfect-prescription-original-gold-sleeve-edition-vinyl-lp,A Perfect Prescription (Original Gold Sleeve Edition) (Vinyl),70.99,70.99,0,MUSIC
 7332573806793,40421673173193,cd-carpenter-sabrina-short-n-sweet-cd,Short n' Sweet,27.99,27.99,0,MUSIC
 7332573511881,40421672878281,cd-abba-collected-3cd,Collected,50.99,50.99,0,MUSIC
 7332573479113,40421672845513,vinyl-kehlani-crash-jb-exclusive-black-yellow-splatter-vinyl-lp,Crash (JB Exclusive Black & Yellow Splatter Vinyl),69.99,69.99,0,MUSIC
@@ -20425,7 +20427,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7332548247753,40421647122633,vinyl-rolling-stones-the-decembers-children-and-everybodys-us-version-vinyl-lp,December’s Children (And Everybody’s) (US Version Vinyl),69.99,69.99,0,MUSIC
 7332525965513,40421624742089,jbl-live-670-wireless-on-hear-headphones-with-true-adaptive-nc-blue,JBL Live 670 Wireless On-Hear Headphones with True Adaptive NC (Blue),229.99,128.0,44.35,AUDIO
 7332525998281,40421624774857,jbl-live-670-wireless-on-hear-headphones-with-true-adaptive-nc-white,JBL Live 670 Wireless On-Hear Headphones with True Adaptive NC (White),229.99,128.0,44.35,AUDIO
-7332526031049,40421624807625,jbl-live-670-wireless-on-hear-headphones-with-true-adaptive-nc-black,JBL Live 670 Wireless On-Hear Headphones with True Adaptive NC (Black),229.99,128.0,44.35,AUDIO
 7332547395785,40421646270665,vinyl-ost-andrew-lloyd-webber-starlight-express-40th-anniversary-zoetrope-vinyl-lp-colour-may-vary,Starlight Express: 40TH Anniversary  (Zoetrope Vinyl),54.99,54.99,0,MUSIC
 7332543529161,40421642338505,cd-trainor-meghan-timeless-cd,Timeless,26.99,26.99,0,MUSIC
 7332543430857,40421642240201,vinyl-trainor-meghan-timeless-vinyl-lp,Timeless (Vinyl),74.99,74.99,0,MUSIC
