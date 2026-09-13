@@ -1,4 +1,14 @@
 Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Category
+7334453379273,40425799614665,fujifilm-x100vi-compact-camera-silver,Fujifilm X100VI Compact Camera (Silver),3249.0,3249.0,0,CAMERAS
+7332969677001,40422079168713,powera-protection-case-for-nintendo-switch-color-splash-heroes,PowerA Protection Case for Nintendo Switch (Color Splash Heroes),37.0,37.0,0,GAMES HARDWARE
+7337404334281,40428985712841,bose-quietcomfort-earbuds-rosewood-mauve,Bose QuietComfort Earbuds (Rosewood Mauve),329.0,329.0,0,AUDIO
+7337404399817,40428985778377,bose-soundlink-flex-portable-speaker-2nd-gen-rosewood-mauve,Bose SoundLink Flex Portable Speaker 2nd Gen (Rosewood Mauve),274.0,274.0,0,AUDIO
+7337404367049,40428985745609,bose-soundlink-micro-portable-speaker-2nd-gen-dewdrop-mint,Bose SoundLink Micro Portable Speaker 2nd Gen (Dewdrop Mint),199.0,199.0,0,AUDIO
+7337404301513,40428985680073,bose-quietcomfort-earbuds-dewdrop-mint,Bose QuietComfort Earbuds (Dewdrop Mint),329.0,329.0,0,AUDIO
+7337404268745,40428985647305,bose-quietcomfort-headphones-gen-2-dewdrop-mint,Bose QuietComfort Headphones Gen 2 (Dewdrop Mint),599.95,599.95,0,AUDIO
+7337404465353,40428985843913,bose-soundlink-flex-portable-speaker-2nd-gen-dewdrop-mint,Bose SoundLink Flex Portable Speaker 2nd Gen (Dewdrop Mint),279.0,279.0,0,AUDIO
+7337404432585,40428985811145,bose-quietcomfort-headphones-gen-2-rosewood-mauve,Bose QuietComfort Headphones Gen 2 (Rosewood Mauve),599.95,599.95,0,AUDIO
+7204389519434,40365385384010,sandisk-extreme-pro-microsdxc-uhs-i-card-with-adapter-256gb,SanDisk Extreme Pro MicroSDXC UHS-I Card with Adapter (256GB),159.0,147.0,7.55,IT
 7334036635849,40425366061257,samsung-65-qn80f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 65"" QN80F Neo QLED 4K Mini LED Smart AI TV [2025]",2098.0,2098.0,0,VISUAL
 7204423565386,40365418283082,logitech-g-astro-a30-wireless-headset-for-xbox-navy,Logitech G Astro A30 Wireless Headset for Xbox (Navy),297.0,297.0,0,GAMES HARDWARE
 7332474716361,40421573230793,lg-55-oled-evo-c4-4k-uhd-smart-tv-2024,"LG 55"" OLED EVO C4 4K UHD Smart TV (2024)",1997.0,1997.0,0,VISUAL
@@ -62,7 +72,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335893532873,40427318509769,apple-iphone-15-256gb-blue-refurbished-very-good,Apple iPhone 15 256GB (Blue) [~Refurbished: Very Good],1049.0,1049.0,0,COMMUNICATIONS
 7332954079433,40422063472841,apple-iphone-16-plus-256gb-white,Apple iPhone 16 Plus 256GB (White),1897.0,1897.0,0,COMMUNICATIONS
 7328129351754,40417515044938,vinyl-prodigy-the-no-tourists-vinyl-2lp,No Tourists (Vinyl),96.99,96.99,0,MUSIC
-7237305172042,40390588891210,logitech-casa-pop-up-desk-nordic-calm,Logitech Casa Pop-Up Desk (Nordic Calm),97.0,97.0,0,IT
 7337808298185,40429416087753,cd-dean-olivia-the-art-of-loving-1-year-anniversary-cd-blu-ray-audio-cd-bluray,The Art Of Loving 1 Year Anniversary (CD + Blu-ray Audio),48.99,48.99,0,MUSIC
 7204378017866,40365374308426,elgato-solid-arm,Elgato Solid Arm,79.0,79.0,0,GAMES HARDWARE
 7333018599625,40422128484553,elgato-game-capture-4k-x,Elgato Game Capture 4K X,439.0,439.0,0,GAMES HARDWARE
@@ -372,8 +381,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7236856479818,40390234144842,lenovo-thinkvision-m15-15-6-full-hd-portable-monitor,"Lenovo ThinkVision M15 15.6"" Full HD Portable Monitor",297.0,247.0,16.84,COMPUTERS
 7335293550793,40426692280521,lenovo-loq-15-6-full-hd-144hz-gaming-laptop-ryzen-5geforce-rtx-5050,"Lenovo LOQ 15.6"" Full HD 144Hz Gaming Laptop (Ryzen 5)[GeForce RTX 5050]",2199.0,1897.0,13.73,COMPUTERS
 7204396040266,40365391642698,sandisk-ultra-microsdhc-uhs-i-card-128gb,SanDisk Ultra microSDHC UHS-I Card (128GB),57.0,57.0,0,IT
-7333990858953,40425317335241,hisense-40-a4qnz-full-hd-smart-tv-2025,"Hisense 40"" A4QNZ Full HD Smart TV [2025]",357.0,357.0,0,VISUAL
-7332744003785,40421845106889,nintendo-switch-emio-the-smiling-man-famicom-detective-club,Emio – The Smiling Man: Famicom Detective Club,39.0,39.0,0,GAMES SOFTWARE
 7337795715273,40429403373769,anker-solix-v1-smart-ev-charger-7-4kw-7m-cable,Anker SOLIX V1 Smart EV Charger (7.4kW - 7m Cable),999.0,999.0,0,ACCESSORIES
 7337795584201,40429403242697,anker-solix-100w-bifacial-portable-solar-panel,Anker SOLIX 100W Bifacial Portable Solar Panel,499.0,499.0,0,ACCESSORIES
 7337794863305,40429402521801,vinyl-tubs-the-hard-life-vinyl-lp,Hard Life (Vinyl),60.99,60.99,0,MUSIC
@@ -547,7 +554,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334727647433,40426092921033,cygnett-tekview-case-for-ipad-a16-10-9-10th-gen-deep-navy,"Cygnett TekView Case for iPad A16/10.9"" 10th Gen (Deep Navy)",70.99,70.99,0,ACCESSORIES
 7334694060233,40426058645705,dyson-v9-submarine-wet-and-dry-stick-vacuum,Dyson V9 Submarine Wet and Dry Stick Vacuum,1049.0,1049.0,0,SMALL APPLIANCES
 7334366642377,40425699442889,eufy-solocam-s340-security-camera,Eufy SoloCam S340 Security Camera,499.0,499.0,0,SMART HOME
-7332702453961,40421803393225,popsockets-popgrip-soft-shores,PopSockets PopGrip (Soft Shores),22.99,22.99,0,ACCESSORIES
 7337174925513,40428737528009,nintendo-switch-2-onimusha-way-of-the-sword-steelbook-edition,Onimusha: Way of the Sword SteelBook Edition,145.0,145.0,0,GAMES SOFTWARE
 7337758195913,40429362610377,playstation-5-final-fantasy-vii-revelation-bundle,FINAL FANTASY VII REVELATION Bundle,649.0,649.0,0,GAMES SOFTWARE
 7337758163145,40429362577609,nintendo-switch-2-final-fantasy-vii-revelation-bundle,FINAL FANTASY VII REVELATION Bundle,649.0,649.0,0,GAMES SOFTWARE
@@ -559,7 +565,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337504080073,40429091717321,eufycam-c37-2k-pan-tilt-zoom-security-system-2-pack,eufyCam C37 2K Pan-Tilt-Zoom Security System (2 Pack),579.0,579.0,0,SMART HOME
 7337757573321,40429361955017,cd-title-fight-floral-green-cd,Floral Green,32.99,32.99,0,MUSIC
 7337757540553,40429361922249,cd-title-fight-shed-cd,Shed,32.99,32.99,0,MUSIC
-7332309467337,40421403099337,remarkable-marker-tips-refill-for-marker-plus-9-pack,reMarkable Marker Tips Refill for Marker Plus (9-Pack),27.0,27.0,0,IT
 7337753870537,40429357662409,vinyl-title-fight-shed-vinyl-lp,Shed (Vinyl),70.99,70.99,0,MUSIC
 7337753805001,40429357629641,vinyl-title-fight-floral-green-vinyl-lp,Floral Green (Vinyl),70.99,70.99,0,MUSIC
 7337749512393,40429353828553,vinyl-system-of-a-down-toxicity-jb-exclusive-25th-anniversay-edition-amber-smoke-coloured-vinyl-lp-7-vinyl,Toxicity (JB Exclusive 25th Anniversay Edition Amber Smoke Coloured Vinyl),115.99,115.99,0,MUSIC
@@ -684,7 +689,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337628696777,40429228327113,apple-polishing-cloth,Apple Polishing Cloth,19.0,19.0,0,ACCESSORIES
 7337277161673,40428847890633,mova-e50-ultra-wet-and-dry-robotic-vacuum,MOVA E50 Ultra Wet and Dry Robotic Vacuum,1299.0,1299.0,0,SMALL APPLIANCES
 7332370677961,40421464441033,alogic-elements-displayport-to-hdmi-cable-2m,ALOGIC Elements DisplayPort to HDMI Cable (2m),27.99,27.99,0,IT
-7333613338825,40424910127305,nintendo-switch-tony-hawks-pro-skater-3-4,Tony Hawk's Pro Skater 3 + 4,89.0,79.0,11.24,GAMES SOFTWARE
 7333881184457,40425204613321,nothing-phone-3a-5g-128gb-black,NOTHING Phone (3a) 5G 128GB (Black),569.0,517.0,9.14,COMMUNICATIONS
 7337544614089,40429135888585,sony-ult-tower-7-wireless-part-speaker,Sony ULT Tower 7 Wireless Part Speaker,899.0,899.0,0,AUDIO
 7337670049993,40429270892745,dyson-camerajet-dual-bristle-brush-heads-2-pack,Dyson CameraJet™ Dual-bristle brush heads (2 Pack),55.0,55.0,0,SMALL APPLIANCES
@@ -695,7 +699,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337600811209,40429199589577,dyson-camerajet-electric-toothbrush-with-flosser-and-starter-kit-ultra-blue,Dyson CameraJet™ Electric Toothbrush With Flosser and Starter Kit (Ultra Blue),849.0,849.0,0,SMALL APPLIANCES
 7337600745673,40429199524041,dyson-camerajet-electric-toothbrush-with-flosser-and-starter-kit-ceramic-pink,Dyson CameraJet™ Electric Toothbrush With Flosser and Starter Kit (Ceramic Pink),849.0,849.0,0,SMALL APPLIANCES
 7337544581321,40429135855817,sony-ult-tower-max-wireless-party-speaker,Sony ULT Tower Max Wireless Party Speaker,1999.0,1999.0,0,AUDIO
-7204369334346,40365366837322,playstation-4-tiny-tinas-wonderlands,Tiny Tina's Wonderlands,9.0,9.0,0,GAMES SOFTWARE
 7337671262409,40429272105161,vinyl-gonzalez-jose-veneer-vinyl-lp,Veneer (Vinyl),81.99,81.99,0,MUSIC
 7337671098569,40429271941321,vinyl-suicideboys-sing-me-a-lullaby-my-sweet-temptation-jb-exckusive-black-cream-vinyl-lp-colour-may-vary,"Sing Me a Lullaby, My Sweet Temptation (JB Exckusive Black & Cream Vinyl)",70.99,70.99,0,MUSIC
 7335835074761,40427258085577,vinyl-raye-this-music-may-contain-hope-orange-vinyl-2lp-colour-may-vary,THIS MUSIC MAY CONTAIN HOPE. (Orange Vinyl),90.99,90.99,0,MUSIC
@@ -886,8 +889,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337535471817,40429125238985,honor-600-pro-5g-512gb-black,HONOR 600 Pro 5G 512GB (Black),1699.0,1699.0,0,COMMUNICATIONS
 7337535439049,40429125206217,honor-600-5g-256gb-golden-white,HONOR 600 5G 256GB (Golden White),1199.0,1199.0,0,COMMUNICATIONS
 7337535635657,40429125402825,honor-600-pro-5g-512gb-orange,HONOR 600 Pro 5G 512GB (Orange),1699.0,1699.0,0,COMMUNICATIONS
-7334438568137,40425782214857,apple-iphone-12-128gb-black-refurbished-excellent,Apple iPhone 12 128GB (Black) [~Refurbished: Excellent],649.0,649.0,0,COMMUNICATIONS
-7204308582474,40365316407370,cd-massive-attack-no-protection-cd,No Protection,27.99,27.99,0,MUSIC
 7204315955274,40365319454794,cd-raitt-bonnie-nick-of-time-cd,Nick Of Time,13.99,13.99,0,MUSIC
 7337469280457,40429056590025,tonies-book-tonie-minecraft-the-island-book-tonie,tonies Book Tonie (Minecraft - The Island),24.99,24.99,0,MOVIES
 7204370153546,40365367623754,arlo-technologies-ultra-2-spotlight-camera-3-camera-system,Arlo Technologies Ultra 2 Spotlight Camera (3 Camera System),947.0,947.0,0,SMART HOME
@@ -2767,7 +2768,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7204339810378,40365338460234,joby-griptight-pro-2-telepod,Joby GripTight PRO 2 TelePod,189.99,189.99,0,CAMERAS
 7337325920457,40428898779337,vinyl-deep-purple-fireball-vinyl-reissue-lp,Fireball (Vinyl) (Reissue),56.99,56.99,0,MUSIC
 7337069969609,40428620185801,sony-bravia-theatre-bar-5-soundbar,Sony BRAVIA Theatre Bar 5 Soundbar,649.0,598.0,7.86,AUDIO
-7337269264585,40428838322377,powera-battle-dragon-advanced-wireless-controller-with-lumectra-for-pc-ghost-dragon,PowerA Battle Dragon Advanced Wireless Controller with Lumectra for PC (Ghost Dragon),79.0,79.0,0,GAMES HARDWARE
 7337270378697,40428839403721,halloween-1-5-box-set-1978-5dvd,Halloween: 1-5 (Box Set),71.98,71.98,0,MOVIES
 7337247080649,40428814663881,jbl-xtreme-5-portable-bluetooth-speaker-black,JBL Xtreme 5 Portable Bluetooth Speaker (Black),499.99,499.99,0,AUDIO
 7337247015113,40428814598345,jbl-live-beam-4-tws-adaptive-noise-cancelling-earbuds-black,JBL Live Beam 4 TWS Adaptive Noise Cancelling Earbuds (Black),289.99,289.99,0,AUDIO
@@ -5230,7 +5230,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336696611017,40428178276553,lenovo-chrome-14m8911-14-wuxga-chromebook-mtk540128gb-4gb,"Lenovo Chrome 14M8911 14"" WUXGA Chromebook (MTK540)[128GB/4GB]",588.0,588.0,0,COMPUTERS
 7336696709321,40428178374857,lenovo-chrome-14m8911-14-wuxga-touch-chromebook-mtk540128gb-8gb,"Lenovo Chrome 14M8911 14"" WUXGA Touch Chromebook (MTK540)[128GB/8GB]",1099.0,1099.0,0,COMPUTERS
 7336696479945,40428178145481,hp-omnibook-3-14-wuxga-ai-pc-laptop-ryzen-ai-7512gb,"HP OmniBook 3 14"" WUXGA AI PC Laptop (Ryzen AI 7)[512GB]",2799.0,1798.0,35.76,COMPUTERS
-7336696250569,40428177883337,hp-laptop-15-fc0820au-15-6-full-hd-laptop-ryzen-5512gb,"HP Laptop 15-fc0820AU 15.6"" Full HD Laptop (Ryzen 5)[512GB]",1088.0,1088.0,0,COMPUTERS
 7336696512713,40428178178249,hp-omnibook-5-16-wuxga-oled-ai-pc-laptop-intel-core-ultra-5-3221tb,"HP OmniBook 5 16"" WUXGA OLED AI PC Laptop (Intel Core Ultra 5 - 322)[1TB]",3399.0,3399.0,0,COMPUTERS
 7336696447177,40428178112713,hp-omnibook-3-14-wuxga-ai-pc-laptop-ryzen-ai-5512gb,"HP OmniBook 3 14"" WUXGA AI PC Laptop (Ryzen AI 5)[512GB]",2599.0,2599.0,0,COMPUTERS
 7336696414409,40428178079945,hp-laptop-15-fc0816au-15-6-full-hd-laptop-ryzen-7512gb,"HP Laptop 15-fc0816AU 15.6"" Full HD Laptop (Ryzen 7)[512GB]",2499.0,1698.0,32.05,COMPUTERS
@@ -8118,7 +8117,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335982006473,40427412685001,samsung-galaxy-s26-ultra-5g-512gb-cobalt-violet,Samsung Galaxy S26 Ultra 5G 512GB (Cobalt Violet),1849.0,1849.0,0,COMMUNICATIONS
 7335981973705,40427412652233,samsung-galaxy-s26-5g-512gb-black-1,Samsung Galaxy S26+ 5G 512GB (Black),2078.0,1948.0,6.26,COMMUNICATIONS
 7335981940937,40427412619465,samsung-galaxy-s26-ultra-5g-512gb-white,Samsung Galaxy S26 Ultra 5G 512GB (White),1849.0,1849.0,0,COMMUNICATIONS
-7335981908169,40427412586697,samsung-galaxy-s26-5g-256gb-sky-blue-1,Samsung Galaxy S26+ 5G 256GB (Sky Blue),1778.0,1598.0,10.12,COMMUNICATIONS
 7335981842633,40427412521161,samsung-galaxy-s26-ultra-5g-1tb-sky-blue,Samsung Galaxy S26 Ultra 5G 1TB (Sky Blue),3068.0,3068.0,0,COMMUNICATIONS
 7335981809865,40427412488393,samsung-galaxy-s26-ultra-5g-256gb-white,Samsung Galaxy S26 Ultra 5G 256GB (White),1999.0,1999.0,0,COMMUNICATIONS
 7335981711561,40427412357321,samsung-galaxy-s26-ultra-5g-256gb-cobalt-violet,Samsung Galaxy S26 Ultra 5G 256GB (Cobalt Violet),1999.0,1999.0,0,COMMUNICATIONS
@@ -8471,7 +8469,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334440566985,40425784246473,apple-iphone-14-pro-max-256gb-deep-purple-refurbished-very-good,Apple iPhone 14 Pro Max 256GB (Deep Purple) [~Refurbished: Very Good],1149.0,1149.0,0,COMMUNICATIONS
 7334439846089,40425783492809,apple-iphone-14-256gb-blue-refurbished-excellent,Apple iPhone 14 256GB (Blue) [~Refurbished: Excellent],999.0,999.0,0,COMMUNICATIONS
 7334704054473,40426068771017,google-pixel-9-pro-xl-5g-128gb-obsidian-refurbished-excellent,Google Pixel 9 Pro XL 5G 128GB (Obsidian) [~Refurbished: Excellent],1399.0,1399.0,0,COMMUNICATIONS
-7334440304841,40425783951561,apple-iphone-14-pro-256gb-gold-refurbished-very-good,Apple iPhone 14 Pro 256GB (Gold) [~Refurbished: Very Good],1139.0,1139.0,0,COMMUNICATIONS
 7336006058185,40427441127625,vinyl-xx-the-xx-vinyl-lp-1,xx (Vinyl),54.99,54.99,0,MUSIC
 7335992066249,40427426808009,vinyl-neighbourhood-the-ultrasound-deluxe-album-starfish-orange-vinyl-2lp-colour-may-vary,(((((ultraSOUND)))))+ (Deluxe Album) (Starfish Orange Vinyl),137.99,137.99,0,MUSIC
 7335992197321,40427426906313,vinyl-amos-tori-strange-little-girls-expanded-edition-vinyl-2lp,Strange Little Girls (Expanded Edition) (Vinyl),119.99,119.99,0,MUSIC
@@ -8856,7 +8853,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7332915445961,40422016909513,cd-fat-dog-woof-cd,WOOF.,24.99,24.99,0,MUSIC
 7249445322826,40398705328202,vinyl-buzzcocks-love-bites-vinyl-lp,Love Bites (Vinyl),46.99,46.99,0,MUSIC
 7206750552138,40367020376138,cd-twenty-one-pilots-scaled-and-icy-cd,Scaled And Icy,23.99,23.99,0,MUSIC
-7204714741834,40365637271626,cd-various-post-no-bills-cd,Post No Bills,4.99,4.99,0,MUSIC
 7335918862537,40427344134345,tonies-cuddle-plush-disney-mickey-mouse-content-tonie,tonies Cuddle Plush (Disney: Mickey Mouse),59.99,59.99,0,MOVIES
 7335918665929,40427343872201,tonies-cuddle-plush-disney-winnie-the-pooh-content-tonie,tonies Cuddle Plush (Disney: Winnie the Pooh),59.99,59.99,0,MOVIES
 7335918534857,40427343741129,tonies-cuddle-plush-disney-the-lion-king-simba-content-tonie,tonies Cuddle Plush (Disney: The Lion King - Simba),59.99,59.99,0,MOVIES
@@ -17448,7 +17444,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333504221385,40424799109321,demon-slayer-kimetsu-no-yaiba-entertainment-district-arc-2022-blu-ray,Demon Slayer: Kimetsu No Yaiba: Entertainment District Arc,66.98,66.98,0,MOVIES
 7333503860937,40424798748873,demon-slayer-kimetsu-no-yaiba-mugen-train-arc-2021-blu-ray,Demon Slayer: Kimetsu No Yaiba: Mugen Train Arc,47.98,47.98,0,MOVIES
 7333504581833,40424799469769,your-fat-friend-dvd,Your Fat Friend,24.98,12.49,50.0,MOVIES
-7333504254153,40424799142089,exhuma-2023-blu-ray,Exhuma,34.98,17.49,50.0,MOVIES
 7333504352457,40424799273161,world-in-my-corner-1956-dvd,World in My Corner,19.98,9.99,50.0,MOVIES
 7333504319689,40424799207625,ren-stimpy-show-the-1991-dvd,"Ren & Stimpy Show, The -",84.98,84.98,0,MOVIES
 7333504090313,40424798978249,club-zero-2023-dvd,Club Zero,24.98,12.49,50.0,MOVIES
@@ -24966,3 +24961,9 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7204845158474,40365699629130,canon-gi-690-pixma-endurance-ink-bottle-magenta,Canon GI-690 Pixma Endurance Ink Bottle (Magenta),31.99,31.99,0,IT
 7204295147594,40365311328330,belkin-cat6-snagless-moulded-patch-cable-3-0m,Belkin CAT6 Snagless Moulded Patch Cable (3.0m),18.99,18.99,0,IT
 7204845125706,40365699596362,canon-gi-690-pixma-endurance-ink-bottle-yellow,Canon GI-690 Pixma Endurance Ink Bottle (Yellow),31.99,31.99,0,IT
+7204570693706,40365534445642,cd-dire-straits-brothers-in-arms-remastered-cd,Brothers In Arms (Remastered),12.99,12.99,0,MUSIC
+7204326375498,40365325975626,canon-gi-690-pixma-endurance-ink-bottle-cyan,Canon GI-690 Pixma Endurance Ink Bottle (Cyan),31.99,31.99,0,IT
+7204424777802,40365419364426,arlo-ultra-magnetic-wall-mount,Arlo Ultra Magnetic Wall Mount,79.99,79.99,0,SMART HOME
+7204406657098,40365401931850,alogic-fusion-usb-c-to-hdmi-cable-2m,ALOGIC Fusion USB-C to HDMI Cable (2m),59.99,59.99,0,IT
+7204361076810,40365358907466,alogic-elite-adjustable-laptop-riser-space-grey,ALOGIC Elite Adjustable Laptop Riser (Space Grey),119.99,119.99,0,IT
+7205385896010,40365994180682,3sixt-silicone-band-for-apple-watch-38-40mm-pink,3sixT Silicone Band for Apple Watch [38/40mm] (Pink),39.99,39.99,0,FITNESS
