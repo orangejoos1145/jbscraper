@@ -1,4 +1,10 @@
 Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Category
+7333990793417,40425317269705,hisense-32-a4qnz-hd-smart-tv-2025,"Hisense 32"" A4QNZ HD Smart TV [2025]",277.0,277.0,0,VISUAL
+7332429496521,40421527322825,samsung-98-du9000-crystal-led-uhd-4k-smart-tv-2024,"Samsung 98"" DU9000 Crystal LED UHD 4K Smart TV [2024]",4298.0,4298.0,0,VISUAL
+7334036635849,40425366061257,samsung-65-qn80f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 65"" QN80F Neo QLED 4K Mini LED Smart AI TV [2025]",2098.0,2098.0,0,VISUAL
+7334694060233,40426058645705,dyson-v9-submarine-wet-and-dry-stick-vacuum,Dyson V9 Submarine Wet and Dry Stick Vacuum,1049.0,598.0,42.99,SMALL APPLIANCES
+7335334117577,40426737434825,8bitdo-pro-3-bluetooth-gamepad-grey-edition,8BitDo Pro 3 Bluetooth Gamepad (Grey Edition),119.0,119.0,0,GAMES HARDWARE
+7337762488521,40429367001289,bose-tv-speaker-2nd-gen,Bose TV Speaker 2nd Gen,499.0,499.0,0,AUDIO
 7204489363530,40365469827146,sony-wh-ch720-wireless-noise-cancelling-over-ear-headphones-black,Sony WH-CH720 Wireless Noise Cancelling Over-Ear Headphones (Black),299.99,299.99,0,AUDIO
 7337858597065,40429468516553,soundcore-nebula-p1-home-projector,Soundcore Nebula P1 Home Projector,1598.0,1598.0,0,VISUAL
 7337858498761,40429468451017,soundcore-nebula-p1i-home-projector,Soundcore Nebula P1i Home Projector,698.0,698.0,0,VISUAL
@@ -19,7 +25,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337922166985,40429534544073,cd-traore-lobi-rainy-season-blues-cd,Rainy Season Blues,39.99,39.99,0,MUSIC
 7337922101449,40429534478537,cd-thunders-johnny-the-heartbre-l-a-m-f-definitive-edition-3lp-vinyl-cd,l.a.m.f. Definitive Edition (3lp Vinyl),74.99,74.99,0,MUSIC
 7337922003145,40429534380233,vinyl-sunn-o-domkirke-180gm-vinyl-reissue-2lp,Domkirke (180gm Vinyl) (Reissue),55.99,55.99,0,MUSIC
-7333629526217,40424926609609,navman-mivue-930-dc-dash-camera,Navman MiVue 930 DC Dash Camera,247.0,187.0,24.29,CAMERAS
 7337921904841,40429534281929,vinyl-public-service-broadcasting-live-at-brixton-limited-edition-2lp-coloured-vinyl-dvd-vinyl,Live at Brixton (Limited Edition 2lp Coloured Vinyl + Dvd),49.99,49.99,0,MUSIC
 7337921839305,40429534183625,vinyl-orchestra-of-spheres-brothers-and-sisters-of-the-black-lagoon-vinyl-vinyl,Brothers and Sisters of the Black Lagoon (Vinyl),35.99,35.99,0,MUSIC
 7337921708233,40429534052553,vinyl-dollar-brand-african-marketplace-vinyl-180gram-vinyl,African Marketplace (Vinyl) (180gram),47.99,47.99,0,MUSIC
@@ -52,14 +57,10 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334947913929,40426328621257,msi-cyborg-15-15-6-fhd-144hz-gaming-laptop-intel-core-7-geforce-rtx-5050,"MSI Cyborg 15 15.6"" FHD 144Hz Gaming Laptop (Intel Core 7) [GeForce RTX 5050]",2599.0,2599.0,0,COMPUTERS
 7206856130634,40367117533258,rwby-x-justice-league-super-heroes-huntsmen-part-one-2022-bluray,RWBY X Justice League: Super heroes & Huntsmen Part One,21.98,21.98,0,MOVIES
 7337308291273,40428880330953,hyperx-cloud-stinger-3-wired-gaming-headset-black,HyperX Cloud Stinger 3 Wired Gaming Headset (Black),89.0,89.0,0,GAMES HARDWARE
-7336659419337,40428139282633,samsung-55-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 55"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2026]",3288.0,3288.0,0,VISUAL
-7334438994121,40425782640841,apple-iphone-13-128gb-midnight-refurbished-excellent,Apple iPhone 13 128GB (Midnight) [~Refurbished: Excellent],616.59,616.59,0,COMMUNICATIONS
 7337915646153,40429527924937,vinyl-fender-sam-seventeen-going-under-deluxe-crystal-clear-vinyl-2lp-colour-may-vary,Seventeen Going Under (Deluxe Crystal Clear Vinyl),114.99,114.99,0,MUSIC
 7337915613385,40429527892169,vinyl-teeks-lovers-comet-jb-exclusive-silver-vinyl-lp-colour-may-vary,Lovers Comet (JB Exclusive Silver Vinyl),97.99,97.99,0,MUSIC
 7337915580617,40429527859401,vinyl-teeks-lovers-comet-vinyl-lp,Lovers Comet (Vinyl),88.99,88.99,0,MUSIC
 7337915547849,40429527826633,cd-teeks-lovers-comet-cd,Lovers Comet,26.99,26.99,0,MUSIC
-7333871157449,40425194094793,trading-card-accessories-geek-culture-35pt-toploaders-25-pack,Geek Culture 35pt Toploaders (25 Pack),5.99,5.99,0,GAMES SOFTWARE
-7334788759753,40426160586953,trading-card-accessories-palms-off-collectors-series-9-pocket-zip-binder-black,Palms Off Collector’s Series 9 Pocket Zip Binder (Black),54.99,54.99,0,GAMES SOFTWARE
 7336327217353,40427782537417,panzerglass-fender-camera-lens-protector-for-iphone-17-pro-max-cosmic-orange,PanzerGlass Fender Camera Lens Protector for iPhone 17 Pro Max (Cosmic Orange),40.99,40.99,0,ACCESSORIES
 7337819046089,40429426999497,ledger-flex-crypto-hardware-wallet-with-recovery-key-ferro-fuchsia,Ledger Flex Crypto Hardware Wallet with Recovery Key (Ferro Fuchsia),499.0,499.0,0,IT
 7337818652873,40429426639049,ledger-nano-s-plus-crypto-hardware-wallet-neptune-blue,Ledger Nano S Plus Crypto Hardware Wallet (Neptune Blue),119.99,119.99,0,IT
@@ -99,7 +100,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337873604809,40429483950281,samsung-galaxy-z-fold6-5g-256gb-silver-shadow-refurbished-good,Samsung Galaxy Z Fold6 5G 256GB (Silver Shadow) [~Refurbished: Good],1335.53,1335.53,0,COMMUNICATIONS
 7337870721225,40429481033929,samsung-galaxy-s25-256gb-mint-refurbished-excellent,Samsung Galaxy S25 256GB (Mint) [~Refurbished: Excellent],1213.31,1213.31,0,COMMUNICATIONS
 7337871573193,40429481885897,samsung-galaxy-s24-5g-256gb-amber-yellow-refurbished-very-good-1,Samsung Galaxy S24 5G 256GB (Amber Yellow) [~Refurbished: Very Good],817.89,817.89,0,COMMUNICATIONS
-7337869672649,40429479985353,samsung-galaxy-s25-256gb-navy-refurbished-as-new,Samsung Galaxy S25 256GB (Navy) [~Refurbished: As New],1306.78,1306.78,0,COMMUNICATIONS
 7337873670345,40429483983049,samsung-galaxy-z-fold6-5g-256gb-navy-refurbished-good,Samsung Galaxy Z Fold6 5G 256GB (Navy) [~Refurbished: Good],1335.53,1335.53,0,COMMUNICATIONS
 7337875833033,40429486145737,google-pixel-8-pro-5g-128gb-bay-refurbished-excellent,Google Pixel 8 Pro 5G 128GB (Bay) [~Refurbished: Excellent],821.78,821.78,0,COMMUNICATIONS
 7337885270217,40429496402121,google-pixel-9-pro-5g-128gb-hazel-refurbished-very-good,Google Pixel 9 Pro 5G 128GB (Hazel) [~Refurbished: Very Good],1137.95,1137.95,0,COMMUNICATIONS
@@ -115,7 +115,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337869115593,40429479428297,samsung-galaxy-s24-ultra-5g-256gb-titanium-yellow-refurbished-as-new,Samsung Galaxy S24 Ultra 5G 256GB (Titanium Yellow) [~Refurbished: As New],1321.16,1321.16,0,COMMUNICATIONS
 7337675620553,40429276692681,apple-iphone-14-plus-128gb-starlight-refurbished-as-new,Apple iPhone 14 Plus 128GB (Starlight) [~Refurbished: As New],940.11,940.11,0,COMMUNICATIONS
 7337673195721,40429274235081,apple-iphone-12-pro-max-128gb-pacific-blue-refurbished-as-new,Apple iPhone 12 Pro Max 128GB (Pacific Blue) [~Refurbished: As New],767.56,767.56,0,COMMUNICATIONS
-7337874784457,40429485097161,google-pixel-7a-5g-128gb-charcoal-refurbished-as-new,Google Pixel 7a 5G 128GB (Charcoal) [~Refurbished: As New],490.89,490.89,0,COMMUNICATIONS
 7337673556169,40429274595529,apple-iphone-13-256gb-blue-refurbished-as-new,Apple iPhone 13 256GB (Blue) [~Refurbished: As New],789.13,789.13,0,COMMUNICATIONS
 7337430450377,40429013565641,apple-iphone-15-pro-256gb-natural-titanium-refurbished-good,Apple iPhone 15 Pro 256GB (Natural Titanium) [~Refurbished: Good],1349.91,1349.91,0,COMMUNICATIONS
 7337676210377,40429277249737,apple-iphone-15-128gb-yellow-refurbished-as-new,Apple iPhone 15 128GB (Yellow) [~Refurbished: As New],1170.18,1170.18,0,COMMUNICATIONS
@@ -132,7 +131,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334439649481,40425783296201,apple-iphone-14-128gb-purple-refurbished-excellent,Apple iPhone 14 128GB (Purple) [~Refurbished: Excellent],781.95,781.95,0,COMMUNICATIONS
 7335904444617,40427329421513,apple-iphone-16-pro-max-256gb-white-titanium-refurbished-excellent,Apple iPhone 16 Pro Max 256GB (White Titanium) [~Refurbished: Excellent],2061.66,2061.66,0,COMMUNICATIONS
 7335904411849,40427329388745,apple-iphone-16-pro-max-256gb-natural-titanium-refurbished-excellent,Apple iPhone 16 Pro Max 256GB (Natural Titanium) [~Refurbished: Excellent],2061.66,2061.66,0,COMMUNICATIONS
-7335904149705,40427329126601,apple-iphone-16-pro-max-512gb-black-titanium-refurbished-excellent,Apple iPhone 16 Pro Max 512GB (Black Titanium) [~Refurbished: Excellent],2227.01,2227.01,0,COMMUNICATIONS
 7335903527113,40427328504009,apple-iphone-16-pro-max-256gb-black-titanium-refurbished-excellent,Apple iPhone 16 Pro Max 256GB (Black Titanium) [~Refurbished: Excellent],2061.66,2061.66,0,COMMUNICATIONS
 7335899234505,40427324211401,apple-iphone-16-pro-256gb-black-titanium-refurbished-excellent,Apple iPhone 16 Pro 256GB (Black Titanium) [~Refurbished: Excellent],1989.78,1989.78,0,COMMUNICATIONS
 7335898579145,40427323556041,apple-iphone-15-pro-max-256gb-white-titanium-refurbished-very-good,Apple iPhone 15 Pro Max 256GB (White Titanium) [~Refurbished: Very Good],1500.89,1500.89,0,COMMUNICATIONS
@@ -159,7 +157,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334470189257,40425816490185,samsung-galaxy-s23-ultra-5g-256gb-phantom-black-refurbished-very-good,Samsung Galaxy S23 Ultra 5G 256GB (Phantom Black) [~Refurbished: Very Good],904.18,904.18,0,COMMUNICATIONS
 7335904248009,40427329224905,apple-iphone-16-pro-max-512gb-desert-titanium-refurbished-excellent,Apple iPhone 16 Pro Max 512GB (Desert Titanium) [~Refurbished: Excellent],2227.01,2227.01,0,COMMUNICATIONS
 7335904215241,40427329192137,apple-iphone-16-pro-max-256gb-desert-titanium-refurbished-very-good,Apple iPhone 16 Pro Max 256GB (Desert Titanium) [~Refurbished: Very Good],1939.44,1939.44,0,COMMUNICATIONS
-7335901069513,40427326046409,apple-iphone-16-pro-256gb-natural-titanium-refurbished-very-good,Apple iPhone 16 Pro 256GB (Natural Titanium) [~Refurbished: Very Good],1881.92,1881.92,0,COMMUNICATIONS
 7335900971209,40427325948105,apple-iphone-16-pro-256gb-white-titanium-refurbished-excellent,Apple iPhone 16 Pro 256GB (White Titanium) [~Refurbished: Excellent],1989.78,1989.78,0,COMMUNICATIONS
 7335896907977,40427321884873,apple-iphone-15-pro-max-256gb-black-titanium-refurbished-very-good,Apple iPhone 15 Pro Max 256GB (Black Titanium) [~Refurbished: Very Good],1500.89,1500.89,0,COMMUNICATIONS
 7335894319305,40427319296201,apple-iphone-15-128gb-pink-refurbished-very-good,Apple iPhone 15 128GB (Pink) [~Refurbished: Very Good],1026.39,1026.39,0,COMMUNICATIONS
@@ -170,7 +167,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334703595721,40426068312265,google-pixel-8-5g-128gb-rose-refurbished-excellent,Google Pixel 8 5G 128GB (Rose) [~Refurbished: Excellent],660.01,660.01,0,COMMUNICATIONS
 7334438961353,40425782608073,apple-iphone-13-128gb-midnight-refurbished-very-good,Apple iPhone 13 128GB (Midnight) [~Refurbished: Very Good],573.45,573.45,0,COMMUNICATIONS
 7334438666441,40425782313161,apple-iphone-12-128gb-black-refurbished-very-good,Apple iPhone 12 128GB (Black) [~Refurbished: Very Good],537.51,537.51,0,COMMUNICATIONS
-7334438502601,40425782149321,apple-iphone-11-64gb-black-refurbished-excellent,Apple iPhone 11 64GB (Black) [~Refurbished: Excellent],444.04,444.04,0,COMMUNICATIONS
 7334440206537,40425783853257,apple-iphone-14-pro-128gb-space-black-refurbished-very-good,Apple iPhone 14 Pro 128GB (Space Black) [~Refurbished: Very Good],968.88,968.88,0,COMMUNICATIONS
 7337884614857,40429495746761,apple-ipad-10-2-inch-256gb-wi-fi-cellular-silver-9th-gen-refurbished-good,Apple iPad 10.2-inch 256GB Wi-Fi + Cellular (Silver) [9th Gen] [~Refurbished: Good],591.31,591.31,0,COMPUTERS
 7337880912073,40429492043977,apple-ipad-32gb-wi-fi-silver-8th-gen-refurbished-very-good,Apple iPad 32GB Wi-Fi (Silver) [8th Gen] [~Refurbished: Very Good],360.21,360.21,0,COMPUTERS
@@ -248,7 +244,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337870000329,40429480313033,samsung-galaxy-s24-5g-256gb-marble-grey-refurbished-excellent,Samsung Galaxy S24 5G 256GB (Marble Grey) [~Refurbished: Excellent],861.03,861.03,0,COMMUNICATIONS
 7337869607113,40429479919817,samsung-galaxy-s25-256gb-silver-shadow-refurbished-as-new,Samsung Galaxy S25 256GB (Silver Shadow) [~Refurbished: As New],1306.78,1306.78,0,COMMUNICATIONS
 7337869181129,40429479493833,samsung-galaxy-s24-5g-256gb-cobalt-violet-refurbished-as-new,Samsung Galaxy S24+ 5G 256GB (Cobalt Violet) [~Refurbished: As New],1083.9,1083.9,0,COMMUNICATIONS
-7337876521161,40429486833865,google-pixel-8-5g-128gb-hazel-refurbished-good,Google Pixel 8 5G 128GB (Hazel) [~Refurbished: Good],579.13,579.13,0,COMMUNICATIONS
 7337868918985,40429479231689,samsung-galaxy-s24-5g-256gb-marble-grey-refurbished-as-new,Samsung Galaxy S24 5G 256GB (Marble Grey) [~Refurbished: As New],954.49,954.49,0,COMMUNICATIONS
 7337873375433,40429483688137,samsung-galaxy-z-flip6-5g-256gb-mint-refurbished-good,Samsung Galaxy Z Flip6 5G 256GB (Mint) [~Refurbished: Good],889.79,889.79,0,COMMUNICATIONS
 7337902964937,40429514555593,google-pixel-8-5g-128gb-obsidian-refurbished-very-good,Google Pixel 8 5G 128GB (Obsidian) [~Refurbished: Very Good],601.19,601.19,0,COMMUNICATIONS
@@ -563,7 +558,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7333036064969,40422145949897,turntables-vinyl-care-carbon-fiber-stylus-vinyl-care-carbon-fiber-stylus-brush-accessories-other,Vinyl Care Carbon Fiber Stylus Brush,15.99,15.99,0,MUSIC
 7204330209354,40365329383498,netgear-ex3110-ac750-dual-band-wi-fi-range-extender,Netgear EX3110 AC750 Dual Band Wi-Fi Range Extender,77.0,77.0,0,IT
 7337868198089,40429478510793,vinyl-black-seeds-the-on-the-sun-20th-anniversary-edition-jb-exclusive-yellow-vinyl-2lp,On the Sun (20th Anniversary Edition JB Exclusive Yellow Vinyl),78.99,78.99,0,MUSIC
-7334359007433,40425691742409,lg-83-oled-evo-c5-ai-4k-uhd-smart-tv-2025,"LG 83"" OLED EVO C5 AI 4K UHD Smart TV [2025]",7297.0,7297.0,0,VISUAL
 7337629057225,40429228687561,sony-wh-1000xm4c-wireless-noise-cancelling-over-ear-headphones-lavender,Sony WH-1000XM4C Wireless Noise Cancelling Over-ear Headphones (Lavender),439.99,439.99,0,AUDIO
 7337618931913,40429218431177,sony-wh-1000xm4c-wireless-noise-cancelling-over-ear-headphones-silver,Sony WH-1000XM4C Wireless Noise Cancelling Over-ear Headphones (Silver),439.99,439.99,0,AUDIO
 7337618899145,40429218398409,sony-wh-1000xm4c-wireless-noise-cancelling-over-ear-headphones-black,Sony WH-1000XM4C Wireless Noise Cancelling Over-ear Headphones (Black),439.99,439.99,0,AUDIO
@@ -650,7 +644,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337404268745,40428985647305,bose-quietcomfort-headphones-gen-2-dewdrop-mint,Bose QuietComfort Headphones Gen 2 (Dewdrop Mint),599.95,599.95,0,AUDIO
 7337404465353,40428985843913,bose-soundlink-flex-portable-speaker-2nd-gen-dewdrop-mint,Bose SoundLink Flex Portable Speaker 2nd Gen (Dewdrop Mint),249.0,249.0,0,AUDIO
 7337404432585,40428985811145,bose-quietcomfort-headphones-gen-2-rosewood-mauve,Bose QuietComfort Headphones Gen 2 (Rosewood Mauve),599.95,599.95,0,AUDIO
-7334036635849,40425366061257,samsung-65-qn80f-neo-qled-4k-mini-led-smart-ai-tv-2025,"Samsung 65"" QN80F Neo QLED 4K Mini LED Smart AI TV [2025]",2098.0,2098.0,0,VISUAL
 7204423565386,40365418283082,logitech-g-astro-a30-wireless-headset-for-xbox-navy,Logitech G Astro A30 Wireless Headset for Xbox (Navy),297.0,297.0,0,GAMES HARDWARE
 7335178862793,40426575298761,jbl-partybox-on-the-go-mk2-portable-party-speaker,JBL PartyBox On The Go MK2 Portable Party Speaker,447.0,447.0,0,AUDIO
 7206179176522,40366501789770,vinyl-silverchair-cemetery-silver-green-marbled-12-vinyl-lp,Cemetery (Silver & Green Marbled 12'' Vinyl),29.99,29.99,0,MUSIC
@@ -684,7 +677,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337846014153,40429454393545,nintendo-switch-2-tomb-raider-legacy-of-atlantis-deluxe-edition,Tomb Raider: Legacy of Atlantis - Deluxe Edition,139.0,139.0,0,GAMES SOFTWARE
 7337848733897,40429457408201,nintendo-switch-2-tomb-raider-legacy-of-atlantis-day-one-edition,Tomb Raider: Legacy of Atlantis - Day One Edition,118.0,118.0,0,GAMES SOFTWARE
 7336569503945,40428042518729,samsung-q-series-hw-q600h-3-1-2ch-soundbar-with-subwoofer-2026,Samsung Q-series HW-Q600H 3.1.2ch Soundbar with Subwoofer [2026],999.99,999.99,0,AUDIO
-7332429496521,40421527322825,samsung-98-du9000-crystal-led-uhd-4k-smart-tv-2024,"Samsung 98"" DU9000 Crystal LED UHD 4K Smart TV [2024]",4298.0,4298.0,0,VISUAL
 7337846177993,40429454590153,nintendo-switch-2-metaphor-refantazio,Metaphor ReFantazio,109.0,109.0,0,GAMES SOFTWARE
 7337845653705,40429454033097,nintendo-switch-2-metaphor-refantazio-steelbook-edition,Metaphor ReFantazio SteelBook Edition,129.0,129.0,0,GAMES SOFTWARE
 7337845752009,40429454098633,nintendo-switch-2-marvels-guardians-of-the-galaxy-encore-edition,Marvel's Guardians of the Galaxy: Encore Edition,69.0,69.0,0,GAMES SOFTWARE
@@ -1513,7 +1505,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337646522569,40429246775497,cassette-badu-erykah-the-alchemist-before-the-world-blows-the-abi-and-alan-experiment-erykah-art-cassette,Before The World Blows: The Abi and Alan Experiment (Erykah Art),31.99,31.99,0,MUSIC
 7337646391497,40429246644425,cd-badu-erykah-the-alchemist-before-the-world-blows-the-abi-and-alan-experiment-cd,Before The World Blows: The Abi and Alan Experiment,37.99,37.99,0,MUSIC
 7337650290889,40429250642121,cd-death-metal-leprosy-deluxe-edition-2cd,Leprosy (Deluxe Edition),26.99,26.99,0,MUSIC
-7204434477130,40365426212938,cygnett-30w-usb-c-wall-charger-white,Cygnett 30W USB-C Wall Charger (White),37.0,37.0,0,ACCESSORIES
 7337636528329,40429236551881,garmin-fenix-9-pro-43mm-carbon-grey-dlc-titanium-with-black-pebble-grey-silicone-band,Garmin fenix 9 Pro 43mm (Carbon Grey DLC Titanium with Black/Pebble Grey Silicone Band),2299.0,2299.0,0,FITNESS
 7337646948553,40429247234249,garmin-fenix-9-pro-47mm-solar-titanium-with-pebble-gray-silicone-band,Garmin fenix 9 Pro 47mm Solar (Titanium with Pebble Gray Silicone Band),2199.0,2199.0,0,FITNESS
 7337626534089,40429226033353,samsung-fast-wireless-charger-for-watch-ultra2-watch9,Samsung Fast Wireless Charger for Watch Ultra2 & Watch9,65.99,65.99,0,FITNESS
@@ -2338,7 +2329,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337456271561,40429043581129,vinyl-veils-the-the-runaway-found-vinyl-lp,The Runaway Found (Vinyl),59.99,59.99,0,MUSIC
 7337456238793,40429043548361,vinyl-veils-the-nux-vomica-vinyl-lp,Nux Vomica (Vinyl),59.99,59.99,0,MUSIC
 7337456173257,40429043417289,vinyl-veils-the-sun-gangs-vinyl-lp-1,Sun Gangs (Vinyl),59.99,59.99,0,MUSIC
-7336339341513,40427794727113,samsung-mx-st90b-sound-tower-ex-demo,Samsung MX-ST90B Sound Tower [~Ex Demo],657.0,657.0,0,AUDIO
 7337410592969,40428992004297,ryze-elevate-gen2-smart-watch-cream-red,Ryze Elevate Gen2 Smart Watch (Cream & Red),119.99,119.99,0,FITNESS
 7337410658505,40428992069833,ryze-flex-gen-2-smart-watch-black-blue,Ryze Flex Gen 2 Smart Watch (Black & Blue),169.99,169.99,0,FITNESS
 7337410691273,40428992135369,ryze-elevate-gen2-smart-watch-pink-hot-pink,Ryze Elevate Gen2 Smart Watch (Pink & Hot Pink),119.99,119.99,0,FITNESS
@@ -12248,7 +12238,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7334982811849,40426364174537,air-america-1990-blu-ray-1,Air America,28.98,28.98,0,MOVIES
 7334973604041,40426354966729,huawei-watch-gt-6-41mm-black,Huawei Watch GT 6 41mm (Black),228.0,228.0,0,FITNESS
 7334973571273,40426354933961,huawei-watch-gt-6-46mm-black,Huawei Watch GT 6 46mm (Black),228.0,228.0,0,FITNESS
-7334973538505,40426354901193,huawei-watch-gt-6-pro-46mm-black,Huawei Watch GT 6 Pro 46mm (Black),428.0,328.0,23.36,FITNESS
 7334980616393,40426361979081,huawei-watch-gt-6-41mm-purple,Huawei Watch GT 6 41mm (Purple),378.0,228.0,39.68,FITNESS
 7334982615241,40426363977929,elgato-stream-deck-mini-discord-version,Elgato Stream Deck Mini (Discord Version),119.0,119.0,0,GAMES HARDWARE
 7334981697737,40426363060425,tcl-603-handset-black,TCL 603 Handset (Black),149.0,149.0,0,COMMUNICATIONS
@@ -16367,13 +16356,11 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333871354057,40425194324169,tubbz-cosplaying-duck-collectible-reservoir-dogs-mr-white-collectibles,Tubbz Cosplaying Duck Collectible (Reservoir Dogs - Mr White),39.99,39.99,0,MOVIES
 7333871321289,40425194291401,tubbz-cosplaying-duck-collectible-reservoir-dogs-mr-pink-collectibles,Tubbz Cosplaying Duck Collectible (Reservoir Dogs - Mr Pink),39.99,39.99,0,MOVIES
 7333871288521,40425194258633,trading-card-accessories-geek-culture-clear-matte-sleeves-50-pack,Geek Culture Clear Matte Sleeves (50 Pack),4.99,4.99,0,GAMES SOFTWARE
-7333871255753,40425194225865,trading-card-accessories-geek-culture-mini-snap-cases-5-pack,Geek Culture Mini Snap Cases (5 Pack),9.99,9.99,0,GAMES SOFTWARE
 7333871222985,40425194193097,trading-card-accessories-geek-culture-pull-tab-sleeves-50-pack,Geek Culture Pull-Tab Sleeves (50 Pack),3.99,3.99,0,GAMES SOFTWARE
 7333871190217,40425194127561,trading-card-accessories-geek-culture-penny-sleeves-100-pack,Geek Culture Penny Sleeves (100 Pack),2.49,2.49,0,GAMES SOFTWARE
 7333871124681,40425194160329,tubbz-cosplaying-duck-collectible-reservoir-dogs-mr-orange-collectibles,Tubbz Cosplaying Duck Collectible (Reservoir Dogs - Mr Orange),39.99,39.99,0,MOVIES
 7333871091913,40425194062025,trading-card-accessories-geek-culture-perfect-fit-sleeves-100-pack,Geek Culture Perfect Fit Sleeves (100 Pack),5.99,5.99,0,GAMES SOFTWARE
 7333871059145,40425194029257,trading-card-accessories-geek-culture-magnet-case-35pt,Geek Culture Magnet Case 35pt,3.99,3.99,0,GAMES SOFTWARE
-7333871026377,40425193996489,trading-card-accessories-geek-culture-card-stands-5-pack,Geek Culture Card Stands (5 Pack),4.99,4.99,0,GAMES SOFTWARE
 7333870993609,40425193963721,tubbz-cosplaying-duck-collectible-reservoir-dogs-mr-blonde-collectibles,Tubbz Cosplaying Duck Collectible (Reservoir Dogs - Mr Blonde),39.99,39.99,0,MOVIES
 7333237063881,40424525856969,moza-quick-release-adapter,Moza Quick Release Adapter,149.0,149.0,0,GAMES HARDWARE
 7333870960841,40425193930953,tubbz-cosplaying-duck-collectible-naruto-naruto-uzumaki-1st-edition-collectibles,Tubbz Cosplaying Duck Collectible (Naruto - Naruto Uzumaki: 1st Edition),39.99,39.99,0,MOVIES
@@ -18626,7 +18613,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333356208329,40424649654473,my-life-is-murder-series-4-2023-dvd,My Life is Murder - Series 4,34.98,34.98,0,MOVIES
 7333356175561,40424649621705,la-brea-season-3-2024-dvd,La Brea - Season 3,34.98,17.49,50.0,MOVIES
 7333356142793,40424649588937,la-brea-complete-series-1-3-2024-dvd,La Brea - Complete Series 1-3,70.98,70.98,0,MOVIES
-7333356110025,40424649556169,la-brea-complete-series-1-3-2024-blu-ray,La Brea - Complete Series 1-3,94.98,47.49,50.0,MOVIES
 7333356077257,40424649523401,intelligence-season-2-2021-dvd,Intelligence - Season 2,29.98,14.99,50.0,MOVIES
 7333356044489,40424649490633,horse-named-winx-a-2014-dvd,"Horse Named Winx, A",24.98,24.98,0,MOVIES
 7333356011721,40424649457865,ford-v-holden-2023-dvd,Ford v Holden,19.98,19.98,0,MOVIES
@@ -19180,7 +19166,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333008539849,40422118228169,firefly-video-creator-kit-mini-tripod-with-pan-head-phone-holder,FireFly Video Creator Kit Mini Tripod with Pan Head & Phone Holder,49.99,49.99,0,CAMERAS
 7333008474313,40422118162633,firefly-yogapod-flexible-tripod,Firefly YogaPod Flexible Tripod,39.99,39.99,0,CAMERAS
 7333148623049,40424437186761,firefly-fft-f2-flexible-tripod,Firefly FFT-F2 Flexible Tripod,35.99,35.99,0,CAMERAS
-7333198430409,40424487289033,vinyl-ub40-ub45-red-vinyl-lp,UB45 (Red Vinyl),75.99,75.99,0,MUSIC
 7333197545673,40424486404297,scarfies-25-year-anniversary-special-edition-1999-blu-ray,Scarfies - 25 Year Anniversary Special Edition,34.98,34.98,0,MOVIES
 7333197086921,40424485978313,into-the-labyrinth-complete-series-1981-dvd,Into the Labyrinth - Complete Series,42.98,21.49,50.0,MOVIES
 7333198168265,40424487026889,movie-teller-the-2023-dvd,"Movie Teller, The",29.98,14.99,50.0,MOVIES
@@ -19634,7 +19619,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7333107466441,40424395702473,powera-usb-c-to-usb-c-charge-cable-for-ps5-3m,PowerA USB-C to USB-C Charge Cable for PS5 (3m),22.0,22.0,0,GAMES HARDWARE
 7333104812233,40424392851657,powera-etched-lumectra-enhanced-wireless-controller-for-nintendo-switch-galactic-vortex,PowerA Etched Lumectra Enhanced Wireless Controller for Nintendo Switch (Galactic Vortex),97.0,97.0,0,GAMES HARDWARE
 7333104779465,40424392818889,powera-wireless-controller-for-xbox-series-xs-fortnite,PowerA Wireless Controller for Xbox Series X|S (Fortnite),149.0,149.0,0,GAMES HARDWARE
-7332760977609,40421862211785,teenage-mutant-ninja-turtles-comics-raphael-ninja-with-red-motorcycle-bst-axn-figure-action-figure,Teenage Mutant Ninja Turtles (Comics) - Raphael Ninja with Red Motorcycle BST AXN Figure,79.99,79.99,0,MOVIES
 7332181409993,40421226021065,robosen-transformers-g1-auto-converting-robot-grimlock-collectibles,Robosen Transformers G1 Auto-Converting Robot (Grimlock),2899.0,2899.0,0,MOVIES
 7333007753417,40422117441737,homedics-triple-action-shiatsu-foot-massager-with-heat,Homedics Triple Action Shiatsu Foot Massager with Heat,159.99,159.99,0,FITNESS
 7332724342985,40421825347785,apple-usb-c-to-lightning-cable-2m-1,Apple USB-C to Lightning Cable (2m),65.0,65.0,0,ACCESSORIES
@@ -21098,7 +21082,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7332728373449,40421829378249,wiz-colour-tunable-white-g95-e27-smart-bulb-gen-2,WiZ Colour & Tunable White G95 E27 Smart Bulb [Gen 2],45.99,45.99,0,SMART HOME
 7332728275145,40421829279945,wiz-colour-white-portable-light,WiZ Colour & White Portable Light,164.99,164.99,0,SMART HOME
 7332728406217,40421829411017,philips-hue-white-ambience-mr16-bluetooth-bulb,Philips Hue White Ambience MR16 Bluetooth Bulb,74.99,74.99,0,SMART HOME
-7332728340681,40421829345481,wiz-neon-flex-strip-3m-kit,WiZ Neon Flex Strip 3m Kit,117.0,117.0,0,SMART HOME
 7332728242377,40421829247177,wiz-colour-white-light-bar-dual-pack,WiZ Colour & White Light Bar Dual Pack,119.99,119.99,0,SMART HOME
 7332728504521,40421829509321,vinyl-eminem-the-death-of-slim-shady-coup-de-grace-red-blue-opaque-vinyl-2lp,The Death of Slim Shady (Coup De Grace) (Red & Blue Opaque Vinyl),95.99,95.99,0,MUSIC
 7332728438985,40421829443785,cd-eminem-the-death-of-slim-shady-coup-de-grace-cd,The Death of Slim Shady (Coup De Grace),30.99,30.99,0,MUSIC
@@ -21663,7 +21646,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7332571971785,40421671338185,vinyl-only-ones-the-even-serpents-shine-flaming-coloured-vinyl-lp-colour-may-vary,Even Serpents Shine (Flaming Coloured Vinyl),49.99,49.99,0,MUSIC
 7332571939017,40421671305417,vinyl-only-ones-the-the-only-ones-translucent-green-coloured-vinyl-lp-colour-may-vary,The Only Ones  (Translucent Green Coloured Vinyl),49.99,49.99,0,MUSIC
 7332571906249,40421671272649,vinyl-mclaren-malcolm-paris-vinyl-2lp,Paris (Vinyl),49.99,49.99,0,MUSIC
-7332569907401,40421669273801,xbox-series-x-metal-gear-solid-delta-snake-eater-day-one-edition,Metal Gear Solid Delta: Snake Eater Day One Edition,139.0,119.0,14.39,GAMES SOFTWARE
 7332569219273,40421668585673,last-tango-in-halifax-series-1-5-2012-dvd,Last Tango In Halifax - Series 1-5,66.98,66.98,0,MOVIES
 7332539302089,40421638144201,wahl-colour-pro-chrome-combo,Wahl Colour Pro Chrome Combo,129.99,129.99,0,SMALL APPLIANCES
 7332531077321,40421629919433,logitech-combo-touch-keyboard-case-for-ipad-air-11-m2-5th-4th-gen-oxford-grey,"Logitech Combo Touch Keyboard Case for iPad Air 11"" M2/5th/4th Gen (Oxford Grey)",379.99,379.99,0,ACCESSORIES
@@ -24568,7 +24550,6 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7331809231049,40420853645513,vinyl-talking-heads-true-stories-transparent-red-coloured-vinyl-lp,True Stories (Transparent Red Coloured Vinyl),74.99,74.99,0,MUSIC
 7331809198281,40420853612745,vinyl-talking-heads-true-stories-vinyl-lp,True Stories (Vinyl),57.99,57.99,0,MUSIC
 7331808477385,40420852891849,cd-dogstar-somewhere-between-the-power-lines-cd,Somewhere Between the Power Lines,27.99,27.99,0,MUSIC
-7331808248009,40420852662473,vinyl-darkness-the-permission-to-land-again-vinyl-box-5lp,Permission To Land...Again (Vinyl Box),199.99,199.99,0,MUSIC
 7331808116937,40420852531401,cd-darkness-the-permission-to-land-again-2cd,Permission To Land...Again,39.99,39.99,0,MUSIC
 7331808084169,40420852498633,vinyl-darkness-the-permission-to-land-again-vinyl-lp,Permission To Land...Again (Vinyl),66.99,66.99,0,MUSIC
 7331808051401,40420852465865,cd-darkness-the-permission-to-land-again-4cd-dvd-4cd-dvd,Permission To Land...Again (4CD/DVD),131.99,131.99,0,MUSIC
@@ -24973,3 +24954,22 @@ Cleaner (Terra Red)",749.0,749.0,0,SMALL APPLIANCES
 7204403871818,40365399310410,xbox-series-x-evil-west,Evil West,59.0,59.0,0,GAMES SOFTWARE
 7206769098826,40367037218890,cd-simpson-sturgill-ballad-of-dood-juanita-the-cd,"Ballad Of Dood & Juanita, The",23.99,23.99,0,MUSIC
 7206735872074,40367007400010,lair-2021-dvd,Lair (2021),12.98,12.98,0,MOVIES
+7206720208970,40366993440842,nintendo-switch-shin-megami-tensei-v,Shin Megami Tensei V,49.0,49.0,0,GAMES SOFTWARE
+7204413145162,40365408288842,playstation-4-mato-anomalies-day-one-edition,Mato Anomalies Day One Edition,69.0,69.0,0,GAMES SOFTWARE
+7204438835274,40365429129290,cd-rammstein-sehnsucht-anniversary-edition-cd,Sehnsucht: Anniversary Edition,70.99,70.99,0,MUSIC
+7206777552970,40367045181514,cd-orton-che-whisky-on-the-shelf-cd,WHISKY ON THE SHELF,6.99,6.99,0,MUSIC
+7204656742474,40365605814346,xbox-series-x-gord-deluxe-edition,Gord Deluxe Edition,15.0,15.0,0,GAMES SOFTWARE
+7204420714570,40365415694410,playstation-5-ghost-song,Ghost Song,59.0,59.0,0,GAMES SOFTWARE
+7204419207242,40365414219850,vinyl-rammstein-sehnsucht-anniversary-edition-vinyl-2lp,Sehnsucht: Anniversary Edition (Vinyl),137.99,137.99,0,MUSIC
+7206831325258,40367095021642,cd-griffin-patty-tape-cd,Tape,26.99,26.99,0,MUSIC
+7206739804234,40367010873418,vinyl-genesis-tommy-goldilocks-x-vinyl-lp,Goldilocks X (Vinyl),29.99,29.99,0,MUSIC
+7204421337162,40365416251466,playstation-5-mato-anomalies-day-one-edition,Mato Anomalies Day One Edition,69.0,69.0,0,GAMES SOFTWARE
+7204401184842,40365396623434,xbox-series-x-new-tales-from-the-borderlands-deluxe-edition,New Tales From The Borderlands Deluxe Edition,19.0,19.0,0,GAMES SOFTWARE
+7206770180170,40367038234698,cd-austin-jennifer-k-journey-cd,Journey,4.99,4.99,0,MUSIC
+7207718813770,40367854583882,xbox-series-x-remnant-2,Remnant 2,59.0,59.0,0,GAMES SOFTWARE
+7204477272138,40365457670218,cd-oasis-knebworth-1996-2cd,Knebworth 1996,26.99,26.99,0,MUSIC
+7204422320202,40365417201738,xbox-series-x-a-plague-tale-requiem,A Plague Tale: Requiem,49.0,49.0,0,GAMES SOFTWARE
+7206778273866,40367045804106,vinyl-various-sunreturn-see-you-on-the-horizon-vinyl-lp,Sunreturn: See You On The Horizon (Vinyl),34.99,34.99,0,MUSIC
+7204379951178,40365376110666,playstation-5-the-eternal-cylinder,The Eternal Cylinder,49.0,49.0,0,GAMES SOFTWARE
+7206733840458,40367005499466,cd-kuti-femi-made-kuti-legacy-2cd,Legacy +,32.99,32.99,0,MUSIC
+7206812254282,40367078277194,out-of-towners-the-imprint-collection-special-edition-1970-blu-ray,"Out Of Towners, The (Imprint Collection Special Edition)",35.98,35.98,0,MOVIES
