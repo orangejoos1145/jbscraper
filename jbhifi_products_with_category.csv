@@ -1,8 +1,22 @@
 Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Category
-7334704808137,40426069524681,google-pixel-8-pro-5g-128gb-obsidian-refurbished-very-good,Google Pixel 8 Pro 5G 128GB (Obsidian) [~Refurbished: Very Good],740.9,740.9,0,COMMUNICATIONS
+7333038457033,40422148341961,delonghi-eclettica-1-7l-kettle-graceful-grey,De'Longhi Eclettica 1.7L Kettle (Graceful Grey),117.0,117.0,0,SMALL APPLIANCES
+7333089083593,40422203424969,starlink-mini,Starlink Mini,349.0,349.0,0,IT
+7332408164553,40421503041737,xbox-series-x-star-wars-outlaws,Star Wars Outlaws,19.0,19.0,0,GAMES SOFTWARE
+7334831358153,40426204594377,apple-iphone-17-pro-512gb-cosmic-orange,Apple iPhone 17 Pro 512GB (Cosmic Orange),2549.0,2549.0,0,COMMUNICATIONS
+7336634810569,40428114346185,goldair-2000w-electronic-ceramic-fan-heater,Goldair 2000W Electronic Ceramic Fan Heater,99.0,57.0,42.42,SMALL APPLIANCES
+7336634646729,40428114182345,goldair-1900w-oil-column-heater-with-timer-turbo,Goldair 1900W Oil Column Heater with Timer & Turbo,169.0,97.0,42.6,SMALL APPLIANCES
+7334694060233,40426058645705,dyson-v9-submarine-wet-and-dry-stick-vacuum,Dyson V9 Submarine Wet and Dry Stick Vacuum,597.0,597.0,0,SMALL APPLIANCES
+7334063636681,40425393651913,samsung-hw-q990f-q-series-11-1-4-ch-soundbar-with-subwoofer-rear-speaker-2025,Samsung HW-Q990F Q-series 11.1.4 ch Soundbar with Subwoofer & Rear Speaker [2025],2499.0,1757.0,29.69,AUDIO
+7332846665929,40421948129481,skullcandy-dime-evo-true-wireless-earbuds-black,Skullcandy Dime Evo True Wireless Earbuds (Black),119.99,77.0,35.83,AUDIO
+7332463935689,40421562351817,goldair-micro-fleece-heated-throw,Goldair Micro Fleece Heated Throw,119.0,57.0,52.1,SMALL APPLIANCES
+7332455776457,40421554159817,jbl-xtreme-4-portable-bluetooth-speaker-blue,JBL Xtreme 4 Portable Bluetooth Speaker (Blue),499.99,397.0,20.6,AUDIO
+7332668735689,40421769543881,goldair-2000w-upright-fan-heater,Goldair 2000W Upright Fan Heater,49.0,27.0,44.9,SMALL APPLIANCES
+7332525965513,40421624742089,jbl-live-670-wireless-on-hear-headphones-with-true-adaptive-nc-blue,JBL Live 670 Wireless On-Hear Headphones with True Adaptive NC (Blue),229.99,167.0,27.39,AUDIO
+7332477239497,40421575753929,goldair-2000w-electronic-ceramic-tower-heater,Goldair 2000W Electronic Ceramic Tower Heater,159.0,97.0,38.99,SMALL APPLIANCES
+7204556341322,40365523501130,jbl-flip-essential-2-portable-speaker-black,JBL Flip Essential 2 Portable Speaker (Black),149.99,127.0,15.33,AUDIO
+7204487921738,40365468942410,beats-studio-buds-true-wireless-noise-cancelling-earphones-black,Beats Studio Buds True Wireless Noise Cancelling Earphones (Black),269.99,227.0,15.92,AUDIO
+7242592976970,40394500472906,skullcandy-crusher-wireless-over-ear-headphones-black,SkullCandy Crusher Wireless Over-Ear Headphones (Black),229.99,197.0,14.34,AUDIO
 7337885204681,40429496336585,google-pixel-9-pro-5g-128gb-porcelain-refurbished-very-good,Google Pixel 9 Pro 5G 128GB (Porcelain) [~Refurbished: Very Good],1137.95,1137.95,0,COMMUNICATIONS
-7337880781001,40429491912905,apple-ipad-32gb-wi-fi-cellular-space-grey-7th-gen-refurbished-very-good,Apple iPad 32GB Wi-Fi + Cellular (Space Grey) [7th Gen] [~Refurbished: Very Good],314.0,314.0,0,COMPUTERS
-7337880289481,40429491421385,apple-ipad-128gb-wi-fi-space-grey-8th-gen-refurbished-excellent,Apple iPad 128GB Wi-Fi (Space Grey) [8th Gen] [~Refurbished: Excellent],475.76,475.76,0,COMPUTERS
 7337877078217,40429487390921,google-pixel-9-pro-5g-256gb-obsidian-refurbished-good,Google Pixel 9 Pro 5G 256GB (Obsidian) [~Refurbished: Good],1182.08,1182.08,0,COMMUNICATIONS
 7337873408201,40429483720905,samsung-galaxy-s25-ultra-512gb-titanium-blue-refurbished-good,Samsung Galaxy S25 Ultra 512GB (Titanium Blue) [~Refurbished: Good],1544.03,1544.03,0,COMMUNICATIONS
 7337871966409,40429482279113,samsung-galaxy-s25-ultra-256gb-titanium-grey-refurbished-very-good,Samsung Galaxy S25 Ultra 256GB (Titanium Grey) [~Refurbished: Very Good],1472.13,1472.13,0,COMMUNICATIONS
@@ -13,7 +27,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337672147145,40429273219273,apple-iphone-12-128gb-white-refurbished-as-new,Apple iPhone 12 128GB (White) [~Refurbished: As New],608.98,608.98,0,COMMUNICATIONS
 7337671721161,40429272793289,apple-iphone-11-4g-128gb-white-refurbished-as-new,Apple iPhone 11 4G 128GB (White) [~Refurbished: As New],523.12,523.12,0,COMMUNICATIONS
 7334703562953,40426068279497,google-pixel-8-pro-5g-128gb-obsidian-refurbished-excellent,Google Pixel 8 Pro 5G 128GB (Obsidian) [~Refurbished: Excellent],821.78,821.78,0,COMMUNICATIONS
-7337884582089,40429495713993,apple-ipad-10-2-inch-256gb-wi-fi-cellular-space-grey-9th-gen-refurbished-good,Apple iPad 10.2-inch 256GB Wi-Fi + Cellular (Space Grey) [9th Gen] [~Refurbished: Good],591.31,591.31,0,COMPUTERS
 7337884221641,40429495353545,apple-ipad-128gb-wi-fi-cellular-space-grey-7th-gen-refurbished-good,Apple iPad 128GB Wi-Fi + Cellular (Space Grey) [7th Gen] [~Refurbished: Good],360.21,360.21,0,COMPUTERS
 7337880912073,40429492043977,apple-ipad-32gb-wi-fi-silver-8th-gen-refurbished-very-good,Apple iPad 32GB Wi-Fi (Silver) [8th Gen] [~Refurbished: Very Good],360.21,360.21,0,COMPUTERS
 7337879404745,40429490536649,apple-ipad-32gb-wi-fi-cellular-silver-7th-gen-refurbished-as-new,Apple iPad 32GB Wi-Fi + Cellular (Silver) [7th Gen] [~Refurbished: As New],344.81,344.81,0,COMPUTERS
@@ -175,7 +188,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335895138505,40427320115401,apple-iphone-15-pro-128gb-black-titanium-refurbished-excellent,Apple iPhone 15 Pro 128GB (Black Titanium) [~Refurbished: Excellent],1378.68,1378.68,0,COMMUNICATIONS
 7335743062217,40427164664009,samsung-galaxy-s24-ultra-5g-256gb-titanium-black-refurbished-very-good,Samsung Galaxy S24 Ultra 5G 256GB (Titanium Black) [~Refurbished: Very Good],1141.41,1141.41,0,COMMUNICATIONS
 7334704251081,40426068967625,samsung-galaxy-s25-256gb-navy-refurbished-excellent-1,Samsung Galaxy S25+ 256GB (Navy) [~Refurbished: Excellent],1321.16,1321.16,0,COMMUNICATIONS
-7334440566985,40425784246473,apple-iphone-14-pro-max-256gb-deep-purple-refurbished-very-good,Apple iPhone 14 Pro Max 256GB (Deep Purple) [~Refurbished: Very Good],1184.55,1184.55,0,COMMUNICATIONS
 7337884614857,40429495746761,apple-ipad-10-2-inch-256gb-wi-fi-cellular-silver-9th-gen-refurbished-good,Apple iPad 10.2-inch 256GB Wi-Fi + Cellular (Silver) [9th Gen] [~Refurbished: Good],591.31,591.31,0,COMPUTERS
 7337871737033,40429482049737,samsung-galaxy-s25-ultra-512gb-titanium-blue-refurbished-very-good,Samsung Galaxy S25 Ultra 512GB (Titanium Blue) [~Refurbished: Very Good],1587.18,1587.18,0,COMMUNICATIONS
 7337870786761,40429481099465,samsung-galaxy-s25-ultra-512gb-titanium-blue-refurbished-excellent,Samsung Galaxy S25 Ultra 512GB (Titanium Blue) [~Refurbished: Excellent],1738.14,1738.14,0,COMMUNICATIONS
@@ -266,7 +278,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7335904444617,40427329421513,apple-iphone-16-pro-max-256gb-white-titanium-refurbished-excellent,Apple iPhone 16 Pro Max 256GB (White Titanium) [~Refurbished: Excellent],2070.28,2070.28,0,COMMUNICATIONS
 7335904116937,40427329093833,apple-iphone-16-pro-max-256gb-desert-titanium-refurbished-excellent,Apple iPhone 16 Pro Max 256GB (Desert Titanium) [~Refurbished: Excellent],2061.66,2061.66,0,COMMUNICATIONS
 7337699180745,40429302087881,apple-iphone-15-plus-256gb-black-refurbished-excellent,Apple iPhone 15 Plus 256GB (Black) [~Refurbished: Excellent],1364.28,1364.28,0,COMMUNICATIONS
-7337677095113,40429278167241,apple-iphone-15-pro-max-256gb-black-titanium-refurbished-as-new,Apple iPhone 15 Pro Max 256GB (Black Titanium) [~Refurbished: As New],1687.82,1687.82,0,COMMUNICATIONS
 7337528721609,40429118259401,apple-iphone-15-pro-max-256gb-black-titanium-refurbished-good,Apple iPhone 15 Pro Max 256GB (Black Titanium) [~Refurbished: Good],1437.78,1437.78,0,COMMUNICATIONS
 7337528590537,40429118128329,apple-iphone-15-plus-128gb-black-refurbished-good,Apple iPhone 15 Plus 128GB (Black) [~Refurbished: Good],965.21,965.21,0,COMMUNICATIONS
 7335898579145,40427323556041,apple-iphone-15-pro-max-256gb-white-titanium-refurbished-very-good,Apple iPhone 15 Pro Max 256GB (White Titanium) [~Refurbished: Very Good],1488.68,1488.68,0,COMMUNICATIONS
@@ -278,7 +289,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337870917833,40429481230537,samsung-galaxy-z-fold6-5g-256gb-navy-refurbished-excellent,Samsung Galaxy Z Fold6 5G 256GB (Navy) [~Refurbished: Excellent],1450.56,1450.56,0,COMMUNICATIONS
 7337699311817,40429302218953,apple-iphone-15-256gb-black-refurbished-excellent-1,Apple iPhone 15 256GB (Black) [~Refurbished: Excellent],1278.02,1278.02,0,COMMUNICATIONS
 7337869148361,40429479461065,samsung-galaxy-s24-ultra-5g-256gb-titanium-violet-refurbished-as-new,Samsung Galaxy S24 Ultra 5G 256GB (Titanium Violet) [~Refurbished: As New],1321.16,1321.16,0,COMMUNICATIONS
-7337714909385,40429318668489,apple-iphone-15-plus-128gb-pink-refurbished-good,Apple iPhone 15 Plus 128GB (Pink) [~Refurbished: Good],965.21,965.21,0,COMMUNICATIONS
 7337676669129,40429277708489,apple-iphone-15-plus-128gb-black-refurbished-as-new,Apple iPhone 15 Plus 128GB (Black) [~Refurbished: As New],1248.76,1248.76,0,COMMUNICATIONS
 7337676308681,40429277348041,apple-iphone-15-128gb-pink-refurbished-as-new,Apple iPhone 15 128GB (Pink) [~Refurbished: As New],1170.18,1170.18,0,COMMUNICATIONS
 7335903559881,40427328536777,apple-iphone-16-pro-max-256gb-black-titanium-refurbished-very-good,Apple iPhone 16 Pro Max 256GB (Black Titanium) [~Refurbished: Very Good],1888.53,1888.53,0,COMMUNICATIONS
@@ -312,9 +322,8 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7328568770634,40417931984970,vinyl-clean-the-boodle-boodle-boodle-12-vinyl-12,Boodle Boodle Boodle (12'' Vinyl),49.99,49.99,0,MUSIC
 7332467867849,40421566283977,skullcandy-grom-wireless-kids-headphones-black,Skullcandy Grom Wireless Kids Headphones (Black),79.99,67.0,16.24,AUDIO
 7334363791561,40425696493769,nothing-headphone-1-over-ear-anc-headphones-grey,NOTHING Headphone (1) Over-Ear ANC Headphones (Grey),599.0,367.0,38.73,AUDIO
-7338085023945,40429712965833,vinyl-take-that-dreamers-vinyl-lp,Dreamers (Vinyl),76.99,76.99,0,MUSIC
 7333791727817,40425111912649,moto-g15-4g-128gb-iguana-green,moto g15 4G 128GB (Iguana Green),257.0,257.0,0,COMMUNICATIONS
-7334358876361,40425691611337,lg-55-qned80-ai-4k-uhd-smart-tv-2025,"LG 55"" QNED80 AI 4K UHD Smart TV [2025]",2398.0,1657.0,30.9,VISUAL
+7334358876361,40425691611337,lg-55-qned80-ai-4k-uhd-smart-tv-2025,"LG 55"" QNED80 AI 4K UHD Smart TV [2025]",1657.0,1528.0,7.79,VISUAL
 7338040295625,40429661552841,belkin-ultracharge-20k-45w-power-bank-with-integrated-cable-and-display-black,Belkin UltraCharge 20K 45W Power Bank with Integrated Cable and Display (Black),119.99,119.99,0,ACCESSORIES
 7338040262857,40429661520073,belkin-boostcharge-compact-usb-c-wall-charger-45w,Belkin BoostCharge Compact USB-C Wall Charger 45W,49.99,49.99,0,ACCESSORIES
 7338040099017,40429661356233,belkin-boostcharge-slim-magnetic-power-bank-10k-with-stand-black,Belkin BoostCharge Slim Magnetic Power Bank 10K with Stand (Black),139.99,139.99,0,ACCESSORIES
@@ -343,7 +352,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7204530946122,40365502562378,apple-tv-4k-wi-fi-64gb-2022,Apple TV 4K Wi-Fi 64GB [2022],429.0,429.0,0,COMPUTERS
 7338027090121,40429643464905,vinyl-dean-olivia-the-art-of-loving-australia-new-zealand-tour-edition-clear-vinyl-lp-colour-may-vary,The Art Of Loving (Australia / New Zealand Tour Edition Clear Vinyl),91.99,91.99,0,MUSIC
 7332953686217,40422063079625,apple-iphone-16-plus-256gb-pink,Apple iPhone 16 Plus 256GB (Pink),1897.0,1897.0,0,COMMUNICATIONS
-7332737089737,40421838160073,hisense-40-a4nnz-full-hd-smart-tv-2024,"Hisense 40"" A4NNZ Full HD Smart TV [2024]",247.0,247.0,0,VISUAL
 7331807854793,40420852269257,ps5-playstation-5-dualsense-wireless-controller-volcanic-red,PS5 PlayStation 5 DualSense Wireless Controller - Volcanic Red,139.0,139.0,0,GAMES HARDWARE
 7338077651145,40429705363657,cd-take-that-dreamers-cd,Dreamers,32.99,32.99,0,MUSIC
 7338078699721,40429706445001,qanba-ruby-arcade-controller-carbon-fiber-black,Qanba Ruby Arcade Controller (Carbon Fiber Black),179.0,179.0,0,GAMES HARDWARE
@@ -1335,12 +1343,12 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7332953751753,40422063145161,apple-iphone-16-plus-256gb-teal,Apple iPhone 16 Plus 256GB (Teal),1897.0,1897.0,0,COMMUNICATIONS
 7337853780169,40429463568585,lg-55-qned80b-evo-ai-mini-led-4k-smart-tv-2026,"LG 55"" QNED80B EVO AI Mini-LED 4K Smart TV [2026]",1495.0,1385.0,7.36,VISUAL
 7337853714633,40429463503049,lg-43-qned80b-evo-ai-mini-led-4k-smart-tv-2026,"LG 43"" QNED80B EVO AI Mini-LED 4K Smart TV [2026]",1088.0,1088.0,0,VISUAL
-7337853944009,40429463732425,lg-85-qned80b-evo-ai-mini-led-4k-smart-tv-2026,"LG 85"" QNED80B EVO AI Mini-LED 4K Smart TV [2026]",4571.0,3898.0,14.72,VISUAL
+7337853944009,40429463732425,lg-85-qned80b-evo-ai-mini-led-4k-smart-tv-2026,"LG 85"" QNED80B EVO AI Mini-LED 4K Smart TV [2026]",3895.0,3895.0,0,VISUAL
 7337853845705,40429463634121,lg-65-qned80b-evo-ai-mini-led-4k-smart-tv-2026,"LG 65"" QNED80B EVO AI Mini-LED 4K Smart TV [2026]",1875.0,1875.0,0,VISUAL
 7337853550793,40429463339209,lg-83-oled-evo-ai-w6-wallpaper-4k-smart-tv-2026,"LG 83""  OLED EVO AI W6 Wallpaper 4K Smart TV [2026]",17999.0,14998.0,16.67,VISUAL
 7337853518025,40429463306441,lg-77-oled-evo-ai-w6-wallpaper-4k-smart-tv-2026,"LG 77""  OLED EVO AI W6 Wallpaper 4K Smart TV [2026]",11998.0,10945.0,8.78,VISUAL
 7337853616329,40429463404745,lg-98-nu855b-nano-4k-uhd-led-ai-smart-tv-2026,"LG 98"" NU855B Nano 4K UHD LED AI Smart TV [2026]",7499.0,5798.0,22.68,VISUAL
-7337853583561,40429463371977,lg-100-mrgb96b-micro-rgb-evo-ai-4k-smart-tv-2026,"LG 100"" MRGB96B Micro RGB EVO AI 4K Smart TV [2026]",20998.0,13998.0,33.34,VISUAL
+7337853583561,40429463371977,lg-100-mrgb96b-micro-rgb-evo-ai-4k-smart-tv-2026,"LG 100"" MRGB96B Micro RGB EVO AI 4K Smart TV [2026]",13996.0,13996.0,0,VISUAL
 7337857319113,40429467238601,sonos-beam-ultra-wall-mount,Sonos Beam Ultra Wall Mount,129.99,129.99,0,AUDIO
 7337857286345,40429467205833,nintendo-switch-2-console-mario-kart-world-bundle-1,Nintendo Switch 2 Console + Mario Kart World Bundle,1029.0,1029.0,0,GAMES HARDWARE
 7337810657481,40429418447049,otterbox-defender-pro-magnetic-case-for-iphone-18-pro-black,OtterBox Defender Pro Magnetic Case for iPhone 18 Pro (Black),129.99,129.99,0,ACCESSORIES
@@ -2538,7 +2546,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7333613207753,40424909996233,playstation-4-tony-hawks-pro-skater-3-4,Tony Hawk's Pro Skater 3 + 4,79.0,19.0,75.95,GAMES SOFTWARE
 7204384571466,40365380436042,playstation-5-sonic-frontiers,Sonic Frontiers,39.0,39.0,0,GAMES SOFTWARE
 7204574986314,40365540048970,playstation-4-sonic-origins-plus,Sonic Origins Plus,19.0,19.0,0,GAMES SOFTWARE
-7206871203914,40367131164746,that-time-i-got-reincarnated-as-a-slime-season-2-part-2-limited-edition-2021-blu-ray,That Time I Got Reincarnated As A Slime - Season 2 Part 2 (Limited Edition),105.98,105.98,0,MOVIES
 7206831718474,40367095349322,suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-the-complete-season-ltd-ed-2021-blu-ray,Suppose A Kid From The Last Dungeon Boonies Moved To A Starter Town? The Complete Season (LTD Ed),115.98,115.98,0,MOVIES
 7206746030154,40367016378442,skies-of-lebanon-2020-dvd,Skies Of Lebanon,30.98,30.98,0,MOVIES
 7206152339530,40366439333962,whetu-marama-bright-star-2022-dvd,Whetu Marama - Bright Star,30.98,30.98,0,MOVIES
@@ -2589,8 +2596,8 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337532096713,40429121667273,tamagotchi-connection-true-friends-2-pack-heart-aura-star-aura,Tamagotchi Connection True Friends 2 Pack (Heart Aura & Star Aura),119.0,119.0,0,GAMES HARDWARE
 7337536880841,40429126680777,samsung-75-qn70h-neo-qled-4k-samsung-vision-ai-smart-tv-2026,"Samsung 75"" QN70H Neo QLED 4K Samsung Vision AI Smart TV [2026]",3385.0,3298.0,2.57,VISUAL
 7337536913609,40429126713545,samsung-65-qn70h-neo-qled-4k-samsung-vision-ai-smart-tv-2026,"Samsung 65"" QN70H Neo QLED 4K Samsung Vision AI Smart TV [2026]",2286.0,2286.0,0,VISUAL
-7337536848073,40429126648009,samsung-55-qn70h-neo-qled-4k-samsung-vision-ai-smart-tv-2026,"Samsung 55"" QN70H Neo QLED 4K Samsung Vision AI Smart TV [2026]",1880.0,1880.0,0,VISUAL
-7337536815305,40429126615241,samsung-50-qn70h-neo-qled-4k-samsung-vision-ai-smart-tv-2026,"Samsung 50"" QN70H Neo QLED 4K Samsung Vision AI Smart TV [2026]",1588.0,1588.0,0,VISUAL
+7337536848073,40429126648009,samsung-55-qn70h-neo-qled-4k-samsung-vision-ai-smart-tv-2026,"Samsung 55"" QN70H Neo QLED 4K Samsung Vision AI Smart TV [2026]",1880.0,1498.0,20.32,VISUAL
+7337536815305,40429126615241,samsung-50-qn70h-neo-qled-4k-samsung-vision-ai-smart-tv-2026,"Samsung 50"" QN70H Neo QLED 4K Samsung Vision AI Smart TV [2026]",1588.0,1295.0,18.45,VISUAL
 7337537831113,40429127631049,vinyl-static-abyss-the-dying-hunt-yellow-marble-vinyl-lp-colour-may-vary,The Dying Hunt (Yellow Marble Vinyl),76.99,76.99,0,MUSIC
 7337537765577,40429127565513,vinyl-static-abyss-the-dying-hunt-vinyl-lp,The Dying Hunt (Vinyl),70.99,70.99,0,MUSIC
 7337537700041,40429127499977,cd-static-abyss-the-dying-hunt-cd,The Dying Hunt,35.99,35.99,0,MUSIC
@@ -3155,7 +3162,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7337431892169,40429015236809,nintendo-switch-the-walking-dead-streets-of-survival-deluxe-edition,The Walking Dead: Streets of Survival Deluxe Edition,79.0,79.0,0,GAMES SOFTWARE
 7335335559369,40426738876617,blade-dc-custom-kit-for-ps5-controller-superman,Blade DC Custom Kit for PS5 Controller (Superman),29.0,21.75,25.0,GAMES HARDWARE
 7334947061961,40426327769289,ps5-playstation-5-slim-1tb-console-1,PS5 PlayStation 5 Slim 1TB Console,1145.0,1145.0,0,GAMES HARDWARE
-7336647753929,40428127453385,lg-83-oled-evo-ai-c6-4k-smart-tv-2026,"LG 83"" OLED EVO AI C6 4K Smart TV [2026]",12488.0,7998.0,35.95,VISUAL
+7336647753929,40428127453385,lg-83-oled-evo-ai-c6-4k-smart-tv-2026,"LG 83"" OLED EVO AI C6 4K Smart TV [2026]",7996.0,7996.0,0,VISUAL
 7337429401801,40429012451529,vinyl-way-dynamic-massive-shoe-vinyl-lp,Massive Shoe (Vinyl),75.99,75.99,0,MUSIC
 7337430221001,40429013303497,vinyl-various-smashing-pumpkins-a-tribute-to-smashing-pumpkins-sending-hearts-to-all-my-dearies-baby-blue-green-vinyl-2lp-colour-may-vary,A Tribute to Smashing Pumpkins: Sending Hearts To All My Dearies (Baby Blue / Green Vinyl),98.99,98.99,0,MUSIC
 7337430122697,40429013205193,vinyl-mystery-jets-a-hole-to-see-the-sky-through-vinyl-lp,A Hole To See The Sky Through (Vinyl),69.99,69.99,0,MUSIC
@@ -4103,7 +4110,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7332543791305,40421642600649,cygnett-reserve-power-bank-10k-green,Cygnett Reserve Power Bank [10K] (Green),93.99,77.0,18.08,ACCESSORIES
 7332543693001,40421642502345,cygnett-reserve-power-bank-10k-black,Cygnett Reserve Power Bank [10K] (Black),93.99,77.0,18.08,ACCESSORIES
 7332510564553,40421609275593,belkin-boostcharge-pro2-in-1-magnetic-wireless-charging-pad-with-qi2-15w-black,Belkin BoostCharge Pro2-in-1 Magnetic Wireless Charging Pad with Qi2 15W (Black),160.99,137.0,14.9,ACCESSORIES
-7332491559113,40421590139081,apple-smart-folio-for-ipad-air-11-inch-m2-charcoal-grey,Apple Smart Folio for iPad Air 11-inch M2 (Charcoal Grey),147.0,147.0,0,ACCESSORIES
 7333477712073,40424772698313,incase-crosstown-sleeve-for-11-tablet-black,"Incase Crosstown Sleeve for 11"" Tablet (Black)",70.99,57.0,19.71,ACCESSORIES
 7337294069961,40428866011337,tcl-a65k-design-series-soundbar,TCL A65K Design Series Soundbar,799.0,799.0,0,AUDIO
 7337285451977,40428857393353,vinyl-flamingo-pier-woven-together-vinyl-lp,Woven Together (vinyl),59.99,59.99,0,MUSIC
@@ -5442,7 +5448,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336951873737,40428473516233,fujifilm-instax-mini-link-smartphone-printer-bundle-my26,Fujifilm Instax Mini Link+ Smartphone Printer Bundle MY26,229.0,229.0,0,CAMERAS
 7336941322441,40428462932169,fujifilm-instax-mini13-instant-camera-bundle-my26-frost-blue,Fujifilm Instax Mini13 Instant Camera Bundle MY26 (Frost Blue),155.0,119.0,23.23,CAMERAS
 7336940994761,40428462604489,fujifilm-instax-mini13-instant-camera-bundle-my26-dreamy-purple,Fujifilm Instax Mini13 Instant Camera Bundle MY26 (Dreamy Purple),155.0,119.0,23.23,CAMERAS
-7336951906505,40428473549001,instax-mini-film-bundle-my26-100-pack,Instax Mini Film Bundle MY26 (100 pack),137.0,137.0,0,CAMERAS
 7336951251145,40428472893641,vinyl-harvey-mick-amanda-acevedo-psychedelia-in-white-vinyl-lp,Psychedelia in White (Vinyl),75.99,75.99,0,MUSIC
 7336941650121,40428463259849,logitech-g-g316-x-98-gaming-keyboard-white,Logitech G G316 X 98 Gaming Keyboard (White),229.0,229.0,0,GAMES HARDWARE
 7336941617353,40428463227081,logitech-g-g316-x-98-gaming-keyboard-black,Logitech G G316 X 98 Gaming Keyboard (Black),229.0,229.0,0,GAMES HARDWARE
@@ -5919,11 +5924,11 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336816640201,40428322717897,vinyl-yu-su-foundry-vinyl-lp,Foundry (Vinyl),75.99,75.99,0,MUSIC
 7336804843721,40428308496585,cd-swallow-blown-2cd,Blown,39.99,39.99,0,MUSIC
 7336581300425,40428056281289,jackson-rapid-charge-pd20w-usb-c-usb-a-wall-adaptor,Jackson Rapid Charge PD20W USB-C / USB-A Wall Adaptor,36.99,36.99,0,ACCESSORIES
-7336659091657,40428138954953,samsung-75-r85h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 75"" R85H Micro RGB 4K Smart AI TV [2026]",4488.0,4288.0,4.46,VISUAL
+7336659091657,40428138954953,samsung-75-r85h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 75"" R85H Micro RGB 4K Smart AI TV [2026]",4285.0,4285.0,0,VISUAL
 7336659222729,40428139053257,samsung-75-the-frame-pro-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 75"" The Frame Pro NEO QLED 4K Mini LED Smart AI TV [2026]",4788.0,4788.0,0,VISUAL
 7336659517641,40428139380937,samsung-75-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 75"" M70H Mini LED 4K Smart AI TV [2026]",2548.0,2492.0,2.2,VISUAL
 7336659484873,40428139315401,samsung-75-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 75"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",3685.0,3595.0,2.44,VISUAL
-7336659386569,40428139249865,samsung-55-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 55"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",1988.0,1888.0,5.03,VISUAL
+7336659386569,40428139249865,samsung-55-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 55"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",1886.0,1886.0,0,VISUAL
 7336659288265,40428139151561,samsung-65-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 65"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",2598.0,2495.0,3.96,VISUAL
 7336659353801,40428139217097,samsung-85-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 85"" M70H Mini LED 4K Smart AI TV [2026]",2988.0,2886.0,3.41,VISUAL
 7336659321033,40428139184329,samsung-100-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 100"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",10398.0,10398.0,0,VISUAL
@@ -6513,7 +6518,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336675344585,40428155404489,predator-badlands-4k-ultra-hd-blu-ray,Predator Badlands,88.98,88.98,0,MOVIES
 7336675213513,40428155273417,predator-badlands-blu-ray,Predator Badlands,76.98,76.98,0,MOVIES
 7336618754249,40428098060489,stm-studio-shell-for-13-macbook-air-retina-m5-m4-m3-m2-clear,"STM Studio Shell for 13"" MacBook Air Retina M5/M4/M3/M2 (Clear)",90.99,90.99,0,ACCESSORIES
-7336644608201,40428124274889,samsung-85-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 85"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",4888.0,4794.0,1.92,VISUAL
+7336644608201,40428124274889,samsung-85-qn80h-neo-qled-4k-mini-led-smart-ai-tv-2026,"Samsung 85"" QN80H NEO QLED 4K Mini LED Smart AI TV [2026]",4792.0,4792.0,0,VISUAL
 7336644935881,40428124602569,samsung-83-s90h-oled-4k-smart-ai-tv-2026,"Samsung 83"" S90H OLED 4K Smart AI TV [2026]",8298.0,8298.0,0,VISUAL
 7336604532937,40428083708105,samsung-77-s90h-oled-4k-smart-ai-tv-2026,"Samsung 77"" S90H OLED 4K Smart AI TV [2026]",6978.0,6978.0,0,VISUAL
 7336604401865,40428083609801,samsung-77-s85h-oled-4k-smart-ai-tv-2026,"Samsung 77"" S85H OLED 4K Smart AI TV [2026]",4585.0,4585.0,0,VISUAL
@@ -6523,7 +6528,6 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336604172489,40428083216585,safe-by-panzer-soft-tpu-case-for-oppo-a6x-clear,SAFE by Panzer Soft TPU Case for OPPO A6x (Clear),30.99,30.99,0,ACCESSORIES
 7336604139721,40428083183817,oppo-protective-case-for-oppo-a6x-4g-5g-clear,OPPO Protective Case for OPPO A6X 4G/5G (Clear),30.99,30.99,0,ACCESSORIES
 7336063107273,40427499847881,huawei-band-11-aluminium-alloy-case-with-fluoroelastomer-strap-beige,Huawei Band 11 Aluminium Alloy Case with Fluoroelastomer Strap (Beige),108.0,98.0,9.26,FITNESS
-7328624377930,40417983791178,vinyl-memory-foam-steel-magnolias-vinyl-lp,Steel Magnolias (Vinyl),24.99,24.99,0,MUSIC
 7336574058697,40428047401161,cd-alesso-forever-cd,Forever,23.99,23.99,0,MUSIC
 7333939970249,40425264185545,delonghi-icona-vintage-breakfast-pack-green,De'Longhi Icona Vintage Breakfast Pack (Green),188.0,188.0,0,SMALL APPLIANCES
 7336591425737,40428070011081,vinyl-seefeel-sol-hz-clear-vinyl-lp-colour-may-vary,Sol.Hz (Clear Vinyl),70.99,70.99,0,MUSIC
@@ -6635,7 +6639,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336636055753,40428115689673,cable-guys-controller-phone-holder-marvel-rivals-jeff-the-land-shark,Cable Guys Controller/Phone Holder (Marvel Rivals: Jeff the Land Shark),49.0,49.0,0,GAMES HARDWARE
 7336635990217,40428115624137,cable-guys-controller-phone-holder-alien-xenomorph,Cable Guys Controller/Phone Holder (Alien: Xenomorph),49.0,49.0,0,GAMES HARDWARE
 7336636022985,40428115656905,cable-guys-controller-phone-holder-fornite-supply-llamas,Cable Guys Controller/Phone Holder (Fornite: Supply Llamas),49.0,49.0,0,GAMES HARDWARE
-7336634384585,40428113920201,samsung-98-the-frame-qled-4k-smart-tv-2026,"Samsung 98"" The Frame QLED 4K Smart TV [2026]",12198.0,11598.0,4.92,VISUAL
+7336634384585,40428113920201,samsung-98-the-frame-qled-4k-smart-tv-2026,"Samsung 98"" The Frame QLED 4K Smart TV [2026]",11595.0,11595.0,0,VISUAL
 7336635957449,40428115591369,minix-wwe-undertaker-collectibles,Minix: WWE - Undertaker,26.99,26.99,0,MOVIES
 7336635072713,40428114608329,vinyl-ost-the-devil-wears-prada-2-music-from-the-motion-picture-vinyl-lp-colour-may-vary,The Devil Wears Prada 2: Music From The Motion Picture (Vinyl),92.99,92.99,0,MUSIC
 7336635039945,40428114575561,cd-ost-the-devil-wears-prada-2-music-from-the-motion-picture-cd,The Devil Wears Prada 2: Music From The Motion Picture,35.99,35.99,0,MUSIC
@@ -6817,7 +6821,7 @@ Product ID,Variant ID,Handle,Title,Original Price,Discounted Price,Discount %,Ca
 7336604369097,40428083577033,samsung-55-s90h-oled-4k-smart-ai-tv-2026,"Samsung 55"" S90H OLED 4K Smart AI TV [2026]",3485.0,3485.0,0,VISUAL
 7336604467401,40428083675337,samsung-65-r95h-micro-rgb-4k-smart-ai-tv-2026,"Samsung 65"" R95H Micro RGB 4K Smart AI TV [2026]",4798.0,4595.0,4.23,VISUAL
 7336604336329,40428083544265,samsung-55-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 55"" M70H Mini LED 4K Smart AI TV [2026]",1250.0,1250.0,0,VISUAL
-7336604303561,40428083511497,samsung-43-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 43"" M70H Mini LED 4K Smart AI TV [2026]",893.0,756.0,15.34,VISUAL
+7336604303561,40428083511497,samsung-43-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 43"" M70H Mini LED 4K Smart AI TV [2026]",754.0,754.0,0,VISUAL
 7336604434633,40428083642569,samsung-65-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 65"" M70H Mini LED 4K Smart AI TV [2026]",1695.0,1695.0,0,VISUAL
 7336604270793,40428083478729,samsung-50-m70h-mini-led-4k-smart-ai-tv-2026,"Samsung 50"" M70H Mini LED 4K Smart AI TV [2026]",1084.0,988.0,8.86,VISUAL
 7336569372873,40428042387657,samsung-music-studio-5-hw-ls51h-2-0ch-wi-fi-speaker-white-2026,Samsung Music Studio 5 HW-LS51H 2.0ch Wi-Fi Speaker (White) [2026],649.99,649.99,0,AUDIO
@@ -13713,11 +13717,11 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7334802522313,40426174480585,xbox-wireless-controller-ice-breaker-special-edition,Xbox Wireless Controller (Ice Breaker Special Edition),129.0,129.0,0,GAMES HARDWARE
 7334802587849,40426174546121,xbox-wireless-controller-heart-breaker-special-edition,Xbox Wireless Controller (Heart Breaker Special Edition),129.0,129.0,0,GAMES HARDWARE
 7334802555081,40426174513353,xbox-wireless-controller-storm-breaker-special-edition,Xbox Wireless Controller (Storm Breaker Special Edition),129.0,129.0,0,GAMES HARDWARE
-7334774964425,40426144268489,remarkable-paperpro-move-with-markerplus-premium-leather-book-folio-black,reMarkable PaperPro Move with MarkerPlus & Premium Leather Book Folio (Black),1289.0,1289.0,0,IT
+7334774964425,40426144268489,remarkable-paperpro-move-with-markerplus-premium-leather-book-folio-black,reMarkable PaperPro Move with MarkerPlus & Premium Leather Book Folio (Black),1289.0,1045.0,18.93,IT
 7334799900873,40426171728073,logitech-k250-bluetooth-wireless-keyboard-graphite,Logitech K250 Bluetooth Wireless Keyboard (Graphite),24.99,24.99,0,IT
 7334799671497,40426171498697,logitech-mk250-bluetooth-wireless-combo-rose,Logitech MK250 Bluetooth Wireless Combo (Rose),49.99,39.0,21.98,IT
-7334773752009,40426143056073,remarkable-paperpro-move-with-markerplus-mosaic-weave-book-folio-basalt,reMarkable PaperPro Move with MarkerPlus & Mosaic Weave Book Folio (Basalt),1229.0,1229.0,0,IT
-7334772801737,40426142073033,remarkable-paperpro-move-with-markerplus,reMarkable PaperPro Move with MarkerPlus,1099.0,1099.0,0,IT
+7334773752009,40426143056073,remarkable-paperpro-move-with-markerplus-mosaic-weave-book-folio-basalt,reMarkable PaperPro Move with MarkerPlus & Mosaic Weave Book Folio (Basalt),1229.0,995.0,19.04,IT
+7334772801737,40426142073033,remarkable-paperpro-move-with-markerplus,reMarkable PaperPro Move with MarkerPlus,1099.0,895.0,18.56,IT
 7334799868105,40426171695305,cd-toyah-chameleon-the-very-best-of-toyah-2cd,Chameleon – The Very Best of Toyah,40.99,40.99,0,MUSIC
 7334799769801,40426171597001,cd-soft-boys-the-robyn-hitchcock-underwater-moonlight-45th-anniversary-remaster-cd,Underwater Moonlight (45th Anniversary Remaster),35.99,35.99,0,MUSIC
 7334799605961,40426171433161,vinyl-beatles-the-pop-go-the-beatles-14-september-3rd-1963-7-vinyl-7,"Pop Go The Beatles #14 September 3rd 1963 (7"" Vinyl)",35.99,35.99,0,MUSIC
@@ -19640,7 +19644,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7333191319753,40424480145609,cult-classic-triple-harold-maude-clue-mommy-dearest-1971-dvd,Cult Classic Triple (Harold & Maude/Clue/Mommy Dearest),29.98,29.98,0,MOVIES
 7333191155913,40424479949001,mad-max-5-film-collection-2024-4k-ultra-hd,Mad Max 5 Film Collection,204.98,204.98,0,MOVIES
 7333191581897,40424480407753,harold-and-the-purple-crayon-2024-blu-ray,Harold and the Purple Crayon,29.98,14.99,50.0,MOVIES
-7333191450825,40424480276681,easy-rider-1969-4k-ultra-hd,Easy Rider,40.98,20.49,50.0,MOVIES
 7333191188681,40424480014537,zaz-the-collection-the-naked-gun-airplance-top-secret-1980-4k-ultra-hd,"ZAZ: The Collection (The Naked Gun, Airplance & Top Secret!)",95.98,95.98,0,MOVIES
 7333190271177,40424479097033,north-by-northwest-1959-4k-ultra-hd,North By Northwest,34.98,34.98,0,MOVIES
 7333191418057,40424480243913,outrageous-comedy-triple-a-night-at-the-roxbury-beavis-and-butt-head-do-america-harlem-nights-1989-blu-ray,Outrageous Comedy Triple (A Night at the Roxbury/Beavis and Butt-Head Do America/Harlem Nights),35.98,35.98,0,MOVIES
@@ -21362,7 +21365,7 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7332746035401,40421847138505,cd-various-paul-williams-weve-only-just-begun-the-paul-williams-songbook-cd,We’ve Only Just Begun: The Paul Williams Songbook,33.99,33.99,0,MUSIC
 7332740694217,40421841764553,cd-odesza-the-last-goodbye-tour-live-2cd,The Last Goodbye Tour Live,47.99,47.99,0,MUSIC
 7332696293577,40421797265609,sony-ult-field-1-portable-bluetooth-speaker-orange,Sony ULT FIELD 1 Portable Bluetooth Speaker (Orange),158.0,158.0,0,AUDIO
-7332696260809,40421797232841,sony-ult-field-1-portable-bluetooth-speaker-off-white-1,Sony ULT FIELD 1 Portable Bluetooth Speaker (Off White),158.0,158.0,0,AUDIO
+7332696260809,40421797232841,sony-ult-field-1-portable-bluetooth-speaker-off-white,Sony ULT FIELD 1 Portable Bluetooth Speaker (Off White),158.0,158.0,0,AUDIO
 7332696359113,40421797331145,sony-ult-field-1-portable-bluetooth-speaker-black,Sony ULT FIELD 1 Portable Bluetooth Speaker (Black),158.0,158.0,0,AUDIO
 7332696326345,40421797298377,sony-ult-field-1-portable-bluetooth-speaker-forest-grey,Sony ULT FIELD 1 Portable Bluetooth Speaker (Forest Grey),158.0,158.0,0,AUDIO
 7332665229513,40421766037705,moza-sr-p-lite-brake-pedal-performance-kit,Moza SR-P Lite Brake Pedal Performance Kit,69.0,69.0,0,GAMES HARDWARE
@@ -23876,7 +23879,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7332179640521,40421224251593,scapper-2022-dvd,Scapper,24.98,12.49,50.0,MOVIES
 7332172464329,40421217075401,so-help-me-todd-season-1-2022-dvd,So Help Me Todd Season 1,37.98,18.99,50.0,MOVIES
 7332171776201,40421216387273,ray-harryhausen-special-edition-collection-1955-dvd,Ray Harryhausen: Special Edition Collection,74.98,74.98,0,MOVIES
-7332172529865,40421217140937,the-new-legends-of-monkey-seasons-1-2-2018-dvd,The New Legends of Monkey - Seasons 1 & 2,34.98,17.49,50.0,MOVIES
 7332171350217,40421215961289,perfect-dinner-the-2022-dvd,"Perfect Dinner, The",29.98,29.98,0,MOVIES
 7332179607753,40421224218825,beast-tamer-the-complete-season-2022-blu-ray,Beast Tamer - The Complete Season,61.98,61.98,0,MOVIES
 7332171841737,40421216452809,film-focus-marlon-brando-volume-1-imprint-collection-special-edition-blu-ray,Film Focus: Marlon Brando - Volume 1 (Imprint Collection Special Edition),189.98,189.98,0,MOVIES
@@ -24891,7 +24893,6 @@ Cleaner (Terra Red)",749.0,598.0,20.16,SMALL APPLIANCES
 7329848459338,40418950053962,family-matters-carl-winslow-pop-vinyl-pop-vinyl,Family Matters - Carl Winslow Pop! Vinyl,4.99,4.99,0,MOVIES
 7329847935050,40418949267530,family-matters-eddie-winslow-pop-vinyl-pop-vinyl,Family Matters - Eddie Winslow Pop! Vinyl,4.99,4.99,0,MOVIES
 7329846231114,40418947989578,studio-ghibli-plush-lily-fluffy-beanbag-m-plush,Studio Ghibli Plush: Lily Fluffy Beanbag (M),49.98,49.98,0,MOVIES
-7204405280842,40365400653898,xbox-series-x-steelrising,Steelrising,9.0,9.0,0,GAMES SOFTWARE
 7329439907914,40418751316042,vinyl-testament-live-at-dynamo-open-air-1998-jb-exclusive-orange-vinyl-lp,Live At Dynamo Open Air 1998 (JB Exclusive Orange Vinyl),54.99,54.99,0,MUSIC
 7329422966858,40418747252810,vinyl-waits-tom-black-rider-the-vinyl-lp,"Black Rider, The (Vinyl)",48.99,48.99,0,MUSIC
 7329422934090,40418747220042,cd-waits-tom-black-rider-the-cd,"Black Rider, The",31.99,31.99,0,MUSIC
